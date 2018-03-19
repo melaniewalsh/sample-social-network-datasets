@@ -1,0 +1,3 @@
+This folder contains network data for character relationships within George R. R. Martin's  *A Storm of Swords*, the third novel in his series *A Song of Ice and Fire* (also known as the HBO television adaptation *Game of Thrones*). This data was originally compiled by [A. Beveridge and J. Shan, "Network of Thrones," Math Horizons Magazine , Vol. 23, No. 4 (2016), pp. 18-22](https://www.maa.org/sites/default/files/pdf/Mathhorizons/NetworkofThrones%20%281%29.pdf).
+
+The nodes list contains 107 different characters and the edges list contains 353 weighted relationships between those characters, which were calculated based on how many times two characters names appeared within 15 words of one another. 

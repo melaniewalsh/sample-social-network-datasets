@@ -1,0 +1,1 @@
+Network analysis lab resources for Humanities by the Numbers: Essential Readings in the Digital Humanities 
