@@ -4,7 +4,7 @@ This folder contains network data for character relationships within the Marvel 
 
 *This website is astounding both in its comprehensiveness and its fabulous '90s web aesthetic.
 
-**Data/Methodology**
+**Data & Methodology**
 
 Nodes: 19,090; bimodal (character, comic book)
 Edges: 96,662; weighted; undirected
@@ -15,7 +15,7 @@ For more on the methodology, see also [Rosselló, Alberich, and Miro's original 
 
 *In order to make this data more accessible for basic social network analysis, I have condensed the network from 6,486 characters to only the top 327 most connected characters, who are connected to at least 8 other characters and with whom they appear in at least 5 different comic books.
 
-**Background/Significance**
+**Background & Significance**
 
 The Marvel Universe data lends itself well to basic social network analysis because there are a lot of characters, a lot of communities or teams of characters, and a lot of crossovers between those characters in individual comic books.
 

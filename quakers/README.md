@@ -4,7 +4,7 @@ This folder contains network data for relationships between seventeenth-century 
 
 This Quaker data was excerpted from a larger dataset and project with which the authors are all associated, the very wonderful [Six Degrees of Francis Bacon](http://sixdegreesoffrancisbacon.com/?ids=10000473&min_confidence=60&type=network), a reconstruction of the early modern social network of Britain (1500-1700).
 
-**Data/Methodology**
+**Data & Methodology**
 
 Nodes: 96; unimodal*
 Edges: 162; unweighted; undirected
@@ -15,7 +15,7 @@ The nodes csv also contains attribute information such as "historical significan
 
 *I have slightly condensed and modified the data from the Programming Historian tutorial. 
 
-**Background/Significance**
+**Background & Significance**
 
 The relationships between seventeenth-century Quakers lend themselves well to social network analysis because, as the authors of the Programming Historian tutorial suggest, "scholars have long linked Quakers’ growth and endurance to the effectiveness of their networks":
 
