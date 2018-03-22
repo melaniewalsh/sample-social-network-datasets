@@ -6,12 +6,12 @@ This folder contains network data for character relationships within the Marvel 
 
 **Data/Methodology**
 
-Nodes: 327; unimodal*
-Edges: 9,891; weighted; undirected
+Nodes: 19,090; bimodal (character, comic book)
+Edges: 96,662; weighted; undirected
 
-The nodes csv contains 327 different Marvel characters, and the edges csv contains 9,891 weighted relationships between those characters, which were calculated based on how many times two characters appeared together in the same comic book.
+The nodes csv contains 19,090 different Marvel characters, and the edges csv contains 96, 662 relationships between those characters, which were calculated based on how many times two characters appeared together in the same comic book.
 
-To explore and understand the edges better, you might take a look at the bimodal edges list ("bimodal/marvel_bimodal_edges.csv") and [the comic book key](http://www.chronologyproject.com/key.php) from the Marvel Chronology Project. For more on the methodology, see [Rosselló, Alberich, and Miro's original article.](https://arxiv.org/pdf/cond-mat/0202174.pdf)
+For more on the methodology, see also [Rosselló, Alberich, and Miro's original article.](https://arxiv.org/pdf/cond-mat/0202174.pdf)
 
 *In order to make this data more accessible for basic social network analysis, I have condensed the network from 6,486 characters to only the top 327 most connected characters, who are connected to at least 8 other characters and with whom they appear in at least 5 different comic books.
 

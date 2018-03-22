@@ -1,0 +1,367 @@
+Source,Target,Type,Id,Weight,Relationship,Source
+PAUL TELLER,DONALD J. TRUMP,Undirected,6,1,Special assistant,https://www.documentcloud.org/documents/3534342-Teller-Paul.html
+DONALD J. TRUMP,JOE HAGIN,Undirected,2639,1,Deputy chief of staff for operations,http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/
+DONALD J. TRUMP,KELLYANNE CONWAY,Undirected,2638,1,White House Counselor,General knowledge
+DONALD J. TRUMP,WILBUR ROSS,Undirected,2634,1,Secretary of Commerce,General knowledge
+DONALD J. TRUMP,GEORGE E. NORCROSS III,Undirected,2628,1,"""whose friendship with Mr. Trump dates to the president’s Atlantic City years,"" per the New York Times",https://www.nytimes.com/2017/02/18/us/mar-a-lago-trump-ethics-winter-white-house.html?_r=0
+DONALD J. TRUMP,JARED KUSHNER,Undirected,2626,1,Senior adviser,https://www.washingtonpost.com/news/post-politics/wp/2017/01/09/tumps-son-in-law-jared-kushner-expected-to-join-white-house-as-a-senior-adviser/?utm_term=.a3958e1d3829
+DONALD J. TRUMP,STEPHEN A. SCHWARZMAN,Undirected,2625,1,Chair of Trump's Strategic and Policy forum,http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/
+DONALD J. TRUMP,DAVID SHULKIN,Undirected,2621,1,Secretary of Veterans Affairs,http://www.usnews.com/news/national-news/articles/2017-02-09/10-things-you-didnt-know-about-david-shulkin
+DONALD J. TRUMP,JAMES SHERK,Undirected,2618,1,White House Domestic Policy Council labor and employment advisor,https://www.bna.com/trumps-new-labor-n57982084346/
+DONALD J. TRUMP,BRIAN BAUDREAU,Undirected,2617,1,Former driver,https://www.nytimes.com/2016/12/25/us/politics/trump-organization-business.html?_r=0
+DONALD J. TRUMP,SEAN HANNITY,Undirected,2615,1,"A top touchstone outside the White House, according to the New York Times",https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1
+DONALD J. TRUMP,ROBERT GOAD,Undirected,2610,1,Special assistant,https://www.documentcloud.org/documents/3534080-Goad-Robert.html
+DONALD J. TRUMP,STEVEN N. CHEUNG,Undirected,2608,1,Assistant communications director,https://www.documentcloud.org/documents/3534333-Cheung-Steven-N.html
+DONALD J. TRUMP,BILL STEPIEN,Undirected,2607,1,White House political director,http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/
+DONALD J. TRUMP,AJIT PAI,Undirected,2605,1,Appointed chairman of the Federal Communications Commission,http://www.usatoday.com/story/tech/news/2017/01/23/new-fcc-chairman-ajit-pai-no-net-neutrality-fan/96967372/
+DONALD J. TRUMP,ALLEN WEISSELBERG,Undirected,2597,1,"""One of Donald Trump's longtime confidants,"" per the Wall Street Journal",http://blogs.wsj.com/cfo/2016/11/05/donald-trumps-loyal-numbers-man/
+DONALD J. TRUMP,ERIC UELAND,Undirected,2596,1,"""Leader"" in the transition team per CNN",http://www.cnn.com/2016/11/10/politics/donald-trump-transition-drain-the-swamp/
+DONALD J. TRUMP,ADO MACHIDA,Undirected,2575,1,Director of policy implementation for Trump transition team,http://www.cnn.com/2016/11/10/politics/donald-trump-transition-drain-the-swamp/ | https://www.linkedin.com/in/ado-machida-68a9a64
+DONALD J. TRUMP,THOMAS J. BARRACK JR.,Undirected,2571,1,Inauguration committee chairman,https://www.donaldjtrump.com/press-releases/president-elect-trump-announces-presidentialinaugural-committee-leader
+DONALD J. TRUMP,MEHMET ALI YALCINDAG,Undirected,2565,1,Business partners,http://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html
+DONALD J. TRUMP,VICTOR PINCHUK,Undirected,2563,1,Trump made video appearance for Pinchuk's convention,https://www.buzzfeed.com/paulmcleod/trump-foundation-received-150000-donation-in-exchange-for-20?utm_term=.wtQZdJa2V#.llzLxNkYw
+DONALD J. TRUMP,RUSS VOUGHT,Undirected,2562,1,Part of OMB transition team,http://thehill.com/policy/finance/314991-trump-team-prepares-dramatic-cuts
+DONALD J. TRUMP,MIKE BASELICE,Undirected,2561,1,Pollster for Trump's presidential campaign,https://www.texastribune.org/2016/07/01/trump-campaign-turns-texas-political-talent/
+DONALD J. TRUMP,DAN COATS,Undirected,2556,1,Director of National Intelligence,General knowledge
+DONALD J. TRUMP,OLEG MISERVA,Undirected,2555,1,Miserva bought a Trump penthouse in Florida,https://www.washingtonpost.com/politics/in-little-moscow-russians-helped-donald-trumps-brand-survive-the-recession/2016/11/04/f9dbd38e-97cf-11e6-bb29-bf2701dbe0a3_story.html
+DONALD J. TRUMP,MICHAEL FLYNN,Undirected,2553,1,National Security Advisor,General knowledge
+DONALD J. TRUMP,JOHN MCENTEE,Undirected,2551,1,Personal aide to the President,http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/
+DONALD J. TRUMP,BETSY DEVOS,Undirected,2548,1,Secretary of Education,General knowledge
+DONALD J. TRUMP,HELEN FERRE,Undirected,2541,1,Director media affairs,https://www.documentcloud.org/documents/3534068-Ferre-Helen.html
+DONALD J. TRUMP,ANDREW BREMBERG,Undirected,2539,1,Domestic policy advisor,General knowledge
+DONALD J. TRUMP,ALEXANDER ANGELSON,Undirected,2533,1,Special assistant,https://www.documentcloud.org/documents/3534231-Angelson-Alexander.html
+DONALD J. TRUMP,SCOTT PRUITT,Undirected,2522,1,Administrator of the Environmental Protection Agency,General knowledge
+DONALD J. TRUMP,JASON D. GREENBLATT,Undirected,2514,1,Special Representative for International Negotiations,https://www.nytimes.com/2016/12/25/us/politics/trump-organization-business.html?_r=0
+DONALD J. TRUMP,WELLS GRIFFITH,Undirected,2511,1,"Battleground states director for Trump campaign, senior adviser for the Department of Energy",http://www.politico.com/story/2017/01/trumps-shadow-cabinet-234088 | https://www.documentcloud.org/documents/3460899-Wells-Griffith-LinkedIn-2017-02-13.html
+DONALD J. TRUMP,JEFF SESSIONS,Undirected,2510,1,Attorney General,General knowledge
+DONALD J. TRUMP,SHAHIRA KNIGHT,Undirected,2509,1,Special assistant,https://www.documentcloud.org/documents/3534038-Knight-Shahira-E.html
+DONALD J. TRUMP,CLIFF SIMS,Undirected,2506,1,Director of White House message strategy,https://www.documentcloud.org/documents/3534339-Sims-Cliff.html
+DONALD J. TRUMP,MARC E. KASOWITZ,Undirected,2505,1,"Has represented ""President Donald J. Trump in a wide range of litigation matters for over 15 years,"" per bio",http://www.kasowitz.com/marc-e-kasowitz/
+DONALD J. TRUMP,INDRA NOOYI,Undirected,2489,1,Member of Trump's Strategic and Policy forum,http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/
+DONALD J. TRUMP,REED S. CORDISH,Undirected,2478,1,Assistant to the President for intragovernmental and technology initiatives,http://www.baltimoresun.com/news/maryland/politics/blog/bal-reed-cordish-to-join-trump-administration-20170105-story.html
+DONALD J. TRUMP,KATHRYN TALENTO,Undirected,2475,1,Special advisor,https://www.documentcloud.org/documents/3534341-Talento-Kathryn.html
+DONALD J. TRUMP,STEPHEN B. MEISTER,Undirected,2468,1,Meister was Trump's attorney during a 2013 ethics suit of the NY AG,http://www.nydailynews.com/blogs/dailypolitics/donald-trump-set-file-ethics-complaint-tuesday-ny-ag-eric-schneiderman-blog-entry-1.1697386 | http://www.newsweek.com/2015/10/30/trumps-big-atlantic-city-dump-385427.html
+DONALD J. TRUMP,EMIN AGALAROV,Undirected,2463,1,"The Russian pop singer, son of billionaire real estate developer Aras Agalarov, says he befriended Trump",https://www.washingtonpost.com/politics/inside-trumps-financial-ties-to-russia-and-his-unusual-flattery-of-vladimir-putin/2016/06/17/dbdcaac8-31a6-11e6-8ff7-7b6c1998b7a0_story.html | https://www.youtube.com/watch?v=iuZUNjFsgS8
+DONALD J. TRUMP,MELANIA TRUMP,Undirected,2460,1,Married,General knowledge
+DONALD J. TRUMP,STEPHEN MILLER,Undirected,2458,1,Senior Advisor to the President for Policy,General knowledge
+DONALD J. TRUMP,RYAN ZINKE,Undirected,2455,1,Secretary of Interior,General knowledge
+DONALD J. TRUMP,ALEXANDER ACOSTA,Undirected,2453,1,Nominee for Labor Secretary,http://abcnews.go.com/Politics/alexander-acosta-trumps-labor-secretary-nominee/story?id=45541559
+DONALD J. TRUMP,PRINCE ALWALEED BIN TALALTHE,Undirected,2450,1,"""the billionaire [...] aided Trump during his corporate bankruptcies in the 1990s by purchasing his yacht, which provided him with desperately needed cash,"" per Newsweek",http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html
+DONALD J. TRUMP,SAM CLOVIS,Undirected,2449,1,Former senior policy advisor on campaign,http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992
+DONALD J. TRUMP,MICHAEL FASCITELLI,Undirected,2444,1,Fascitelli is CEO of Vornado Realty Trust and donated the maximum to Trump's campaign,https://www.bloomberg.com/news/features/2017-01-27/jared-kushner-s-felon-father-brought-two-fellow-inmates-into-company
+DONALD J. TRUMP,TRAVIS KALANICK,Undirected,2443,1,Former member of Trump's Strategic and Policy forum,http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/ | http://www.recode.net/2017/2/2/14490950/travis-kalanick-uber-ceo-leaves-donald-trump-advisory-council
+DONALD J. TRUMP,JOYCE MEYER,Undirected,2435,1,Deputy assistant,https://www.documentcloud.org/documents/3534156-Meyer-Joyce-Y.html
+DONALD J. TRUMP,ASHLEY MARQUIS,Undirected,2434,1,Chief of staff of the National Economic Council,https://www.documentcloud.org/documents/3534134-Marquis-Ashley.html
+DONALD J. TRUMP,PHIL RUFFIN,Undirected,2430,1,"""Mr. Trump has 20-odd business partners, but none is closer to him than Mr. Ruffin,"" per the New York Times",https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1
+DONALD J. TRUMP,ELON MUSK,Undirected,2425,1,Member of Trump's Strategic and Policy forum,http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/
+DONALD J. TRUMP,CHRISTOPHER RUDDY,Undirected,2424,1,"""One of Trump's longtime friends,"" according to the Washington Post",https://www.washingtonpost.com/news/powerpost/wp/2017/02/12/trump-friend-says-priebus-is-in-way-over-his-head/ | http://www.politico.com/story/2017/02/donald-trump-challenges-governing-presidency-234879
+DONALD J. TRUMP,SONNY PERDUE,Undirected,2417,1,Secretary of Agriculture,https://www.nytimes.com/2017/01/18/us/politics/sonny-perdue-agriculture-secretary.html
+DONALD J. TRUMP,PAUL MANAFORT,Undirected,2414,1,Former campaign manager,http://www.cnn.com/2016/08/19/politics/donald-trump-campaign-chairman-paul-manafort-resigns/
+DONALD J. TRUMP,EDWIN FEULNER,Undirected,2410,1,"""Leader"" in the transition team per CNN",http://www.cnn.com/2016/11/10/politics/donald-trump-transition-drain-the-swamp/
+DONALD J. TRUMP,LINDA MCMAHON,Undirected,2401,1,Administrator of the Small Business Administration,General knowledge
+DONALD J. TRUMP,JULIA HAHN,Undirected,2400,1,Deputy political strategist,https://www.documentcloud.org/documents/3534111-Hahn-Julia.html
+DONALD J. TRUMP,JOHN F. KELLY,Undirected,2399,1,Secretary of Department of Homeland Security,General knowledge
+DONALD J. TRUMP,ELAINE CHAO,Undirected,2397,1,Secretary of Transportation,General knowledge
+DONALD J. TRUMP,DINA POWELL,Undirected,2393,1,Assistant to the president and senior counselor for economic initiatives,https://www.bloomberg.com/politics/articles/2017-01-12/goldman-sachs-s-dina-powell-named-as-trump-s-economic-assistant
+DONALD J. TRUMP,ROBERT LIGHTHIZER,Undirected,2386,1,Nominee for U.S. Trade Representative,General knowledge
+DONALD J. TRUMP,CURTIS DUBAY,Undirected,2384,1,Part of Treasury Department transition team,http://thehill.com/policy/finance/307066-trump-taps-economists-investors-for-transition-team
+DONALD J. TRUMP,TOM BOSSERT,Undirected,2373,1,Homeland Security Advisor,General knowledge
+DONALD J. TRUMP,COREY LEWANDOWSKI,Undirected,2366,1,Former campaign manager,http://www.politico.com/blogs/on-media/2017/01/corey-lewandowski-joins-conservative-news-network-as-commentator-233559
+DONALD J. TRUMP,MICHAEL POMPEO,Undirected,2364,1,Director of CIA,General knowledge
+DONALD J. TRUMP,REINCE PRIEBUS,Undirected,2355,1,White House Chief of Staff,General knowledge
+DONALD J. TRUMP,JENNIFER KORN,Undirected,2352,1,Deputy director,https://www.documentcloud.org/documents/3534039-Korn-Jennifer.html
+DONALD J. TRUMP,SAM NUNBERG,Undirected,2351,1,Former adviser,http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992
+DONALD J. TRUMP,ANDELIZ CASTILLO,Undirected,2346,1,Special assistant,https://www.documentcloud.org/documents/3534453-Castillo-Andeliz.html
+DONALD J. TRUMP,IVANKA TRUMP,Undirected,2335,1,Parent/child,General knowledge
+DONALD J. TRUMP,EDWIN MEESE,Undirected,2333,1,"""Leader"" in the transition team per CNN",http://www.cnn.com/2016/11/10/politics/donald-trump-transition-drain-the-swamp/
+DONALD J. TRUMP,BRIAN BURNS,Undirected,2332,1,Ambassador to Ireland,https://www.bostonglobe.com/news/politics/2017/01/11/donald-trump-taps-mar-lago-pal-with-massachusetts-ties-for-irish-ambassador-brian-burns/Jt2g5aX1CeVvA3O4RbrDMN/story.html
+DONALD J. TRUMP,DONALD TRUMP JR.,Undirected,2330,1,Parent/child,General knowledge
+DONALD J. TRUMP,MICHAEL J. ELLIS,Undirected,2323,1,Special assistant,https://www.documentcloud.org/documents/3534059-Ellis-Michael-J.html
+DONALD J. TRUMP,JOHN EISENBERG,Undirected,2320,1,Deputy assistant,https://www.whitehouse.gov/the-press-office/2017/02/02/white-house-national-security-advisor-announces-nsc-senior-staff-0
+DONALD J. TRUMP,THOMAS PYLE,Undirected,2319,1,Head of the Department of Energy transition team,http://www.latimes.com/politics/la-na-pol-trump-kochs-climate-20161205-story.html
+DONALD J. TRUMP,UTTAM DHILLON,Undirected,2311,1,Special assistant,https://www.documentcloud.org/documents/3534050-Dhillon-Uttam.html
+DONALD J. TRUMP,TERRY BRANSTAD,Undirected,2308,1,Nominee for Ambassador to China,General knowledge
+DONALD J. TRUMP,JAMIE DIMON,Undirected,2305,1,Member of Trump's Strategic and Policy forum,http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/
+DONALD J. TRUMP,RAJ SHAH,Undirected,2299,1,Deputy communications director,http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/
+DONALD J. TRUMP,BEN HOWARD,Undirected,2298,1,Special assistant,https://www.documentcloud.org/documents/3534135-Howard-Benjamin.html
+DONALD J. TRUMP,SARAH MAKIN,Undirected,2293,1,Deputy assistant,https://www.documentcloud.org/documents/3535103-Makin-Sarah.html
+DONALD J. TRUMP,ROBERT MERCER,Undirected,2286,1,Major donor,https://www.publicintegrity.org/2016/12/02/20504/what-we-knew-about-donald-trump-s-inner-circle-when-we-knew-it
+DONALD J. TRUMP,RICK DEARBORN,Undirected,2283,1,Deputy chief of staff for legislative and intergovernmental affairs,http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/
+DONALD J. TRUMP,TIMOTHY PATAKI,Undirected,2280,1,Special assistant,https://www.documentcloud.org/documents/3534160-Pataki-Timothy-a-New-Entrant-278-2017.html
+DONALD J. TRUMP,JASON D. MEISTER,Undirected,2270,1,"Worked on Trump's NY campaign, goes on Fox News as a Trump surrogate",https://therealdeal.com/issues_articles/whos-jumping-ship/ | http://www.jasondmeister.com/media/
+DONALD J. TRUMP,BILL MCGINLEY,Undirected,2268,1,Deputy assistant,http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/
+DONALD J. TRUMP,BARRY BENNETT,Undirected,2260,1,"""Informal advisor to the Donald Trump campaign,"" per the Washington Post",https://www.washingtonpost.com/news/post-politics/wp/2016/01/22/former-carson-campaign-manager-barry-bennett-is-quietly-advising-trumps-top-aides/?utm_term=.795d808dc8d2
+DONALD J. TRUMP,CHRIS CHRISTIE,Undirected,2258,1,Former leader of the presidential transition team,https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1
+DONALD J. TRUMP,ELENA GORLOVA,Undirected,2253,1,Gorlova bought a Trump penthouse in Florida,https://www.washingtonpost.com/politics/in-little-moscow-russians-helped-donald-trumps-brand-survive-the-recession/2016/11/04/f9dbd38e-97cf-11e6-bb29-bf2701dbe0a3_story.html
+CARL C. ICAHN,DONALD J. TRUMP,Undirected,2244,1,Special advisor,http://fortune.com/2016/12/21/donald-trump-carl-icahn-special-adviser-regulations/
+JARROD P. AGEN,DONALD J. TRUMP,Undirected,2228,1,Deputy assistant,https://www.documentcloud.org/documents/3534451-Agen-Jarrod.html
+CARTER PAGE,DONALD J. TRUMP,Undirected,2201,1,Foreign policy adviser,General knowledge
+NEWT GINGRICH,DONALD J. TRUMP,Undirected,2180,1,"A top touchstone outside the White House, according to the New York Times",https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1
+CHRISTINE CICCONE,DONALD J. TRUMP,Undirected,2172,1,"""Leader"" in the transition team per CNN",http://www.cnn.com/2016/11/10/politics/donald-trump-transition-drain-the-swamp/
+ARAS AGALAROV,DONALD J. TRUMP,Undirected,2145,1,"The billionaire real estate developer says he befriended Trump, and also has served as a liaison between Trump and Putin",https://www.washingtonpost.com/politics/inside-trumps-financial-ties-to-russia-and-his-unusual-flattery-of-vladimir-putin/2016/06/17/dbdcaac8-31a6-11e6-8ff7-7b6c1998b7a0_story.html | http://www.forbes.com/profile/aras-agalarov/
+REX TILLERSON,DONALD J. TRUMP,Undirected,2121,1,Secretary of State,General knowledge
+JEREMY KATZ,DONALD J. TRUMP,Undirected,2076,1,Deputy director of the National Economic Council,https://www.documentcloud.org/documents/3534036-Katz-Jeremy.html
+DAN SCAVINO,DONALD J. TRUMP,Undirected,2055,1,"Director of Social Media, White House",https://www.documentcloud.org/documents/3535097-Scavino-Dan.html
+JOSEPH KELLOGG,DONALD J. TRUMP,Undirected,2047,1,"Chief of staff and executive secretary, National Security Council",https://www.documentcloud.org/documents/3534037-Kellogg-Joseph-K.html
+MANGAL PRABHAT LODHA,DONALD J. TRUMP,Undirected,2023,1,Business partners,http://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html
+SEAN SPICER,DONALD J. TRUMP,Undirected,2014,1,White House Press Secretary,General knowledge
+SERGEI MILLIAN,DONALD J. TRUMP,Undirected,1985,1,Appeared in a Facebook photo together in 2014,https://www.ft.com/content/ea52a678-9cfb-11e6-8324-be63473ce146
+STEPHANIE GRISHAM,DONALD J. TRUMP,Undirected,1982,1,Deputy press secretary,https://www.documentcloud.org/documents/3534109-Grisham-Stephanie.html
+"ROGER J. STONE, JR.",DONALD J. TRUMP,Undirected,1972,1,"""Longtime adviser,"" per Politico",http://www.politico.com/story/2015/08/donald-trumps-debate-dirty-trickster-121098
+GINNI ROMETTY,DONALD J. TRUMP,Undirected,1967,1,Member of Trump's Strategic and Policy forum,http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/
+MICHAEL D. COHEN,DONALD J. TRUMP,Undirected,1932,1,Cohen is Trump's personal attorney,https://www.washingtonpost.com/news/post-politics/wp/2017/01/19/michael-cohen-special-counsel-to-donald-trump-will-follow-him-to-washington/?utm_term=.bea39093a642
+RYAN JARMULA,DONALD J. TRUMP,Undirected,1917,1,Special assistant,https://www.documentcloud.org/documents/3534032-Jarmula-Ryan.html
+KATHLEEN TROIA MCFARLAND,DONALD J. TRUMP,Undirected,1907,1,Deputy National Security Advisor,General knowledge
+PETER NAVARRO,DONALD J. TRUMP,Undirected,1889,1,Head of National Trade Council,http://www.businessinsider.com/peter-navarro-trump-administration-2017-4
+KALPESH MEHTA,DONALD J. TRUMP,Undirected,1855,1,"""exclusive representative of Trump's businesses in India,"" per Newsweek",http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html
+ROBERT KRAFT,DONALD J. TRUMP,Undirected,1840,1,"A top touchstone outside the White House, according to the New York Times",https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1
+ROSS WORTHINGTON,DONALD J. TRUMP,Undirected,1820,1,"Advisor for policy, strategy, and speechwriting",https://www.documentcloud.org/documents/3534345-Worthington-Ross.html
+JAMES MATTIS,DONALD J. TRUMP,Undirected,1803,1,Secretary of Defense,General knowledge
+DAVID M. FRIEDMAN,DONALD J. TRUMP,Undirected,1793,1,Ambassador designate to Israel,https://www.nytimes.com/2017/02/11/us/politics/jared-kushner-israel.html?smid=tw-nytimesworld&smtyp=cur&_r=1
+FELIPE YARYURA,DONALD J. TRUMP,Undirected,1790,1,The Argentine real estate developer is said to be friends with the Trump family,http://www.lanacion.com.ar/1955208-la-emocion-del-socio-argentino-de-trump
+VINCE HALEY,DONALD J. TRUMP,Undirected,1783,1,"Advisor for policy, strategy, and speechwriting",https://www.documentcloud.org/documents/3534112-Haley-Vincent.html
+LINDSAY WALTERS,DONALD J. TRUMP,Undirected,1769,1,White House spokeswoman,https://www.bloomberg.com/politics/articles/2017-02-03/trump-trade-pick-could-negotiate-for-industry-of-biggest-client
+JUSTIN CLARK,DONALD J. TRUMP,Undirected,1767,1,Director of inter-governmental affairs,https://www.documentcloud.org/documents/3534079-Clark-Justin.html
+RICK PERRY,DONALD J. TRUMP,Undirected,1757,1,Secretary of Energy,General knowledge
+RHONA GRAFF RICCIO,DONALD J. TRUMP,Undirected,1712,1,Assistant,http://www.nytimes.com/1993/04/19/style/weddings-rhona-c-graff-lucius-j-riccio.html
+TOM PRICE,DONALD J. TRUMP,Undirected,1670,1,Secretary of Health and Human Services,General knowledge
+STEPHEN A. FEINBERG,DONALD J. TRUMP,Undirected,1667,1,Member of Trump's economic advisory council,https://www.nytimes.com/2017/02/15/us/politics/trump-intelligence-agencies-stephen-feinberg.html
+JOSEPH HAGIN,DONALD J. TRUMP,Undirected,1664,1,Deputy chief of staff,https://www.documentcloud.org/documents/3534458-Hagin-Joseph.html
+SEAN CAIRNCROSS,DONALD J. TRUMP,Undirected,1645,1,Deputy assistant,http://www.politico.com/story/2017/01/trump-transition-white-house-hires-233863
+MADELEINE WESTERHOUT,DONALD J. TRUMP,Undirected,1632,1,Executive assistant,https://www.documentcloud.org/documents/3534343-Westerhout-Madeleine.html
+MICK MULVANEY,DONALD J. TRUMP,Undirected,1606,1,Director of Office of Management and Budget,General knowledge
+OMAROSÉ ONEE MANIGAULT,DONALD J. TRUMP,Undirected,1587,1,Assistant to the President and Director of Communications for the Office of Public Liaison,General knowledge
+GEORGE GIGICOS,DONALD J. TRUMP,Undirected,1572,1,Director of advance,https://www.documentcloud.org/documents/3534048-Gigicos-George.html
+BEN CARSON,DONALD J. TRUMP,Undirected,1534,1,Secretary of HUD,General knowledge
+RECEP TAYYIP ERDOGAN,DONALD J. TRUMP,Undirected,1529,1,"Erdogan, the president of Turkey and a vocal Trump supporter, met him during the ribbon-cutting of a Trump property",http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html
+STEVEN ROTH,DONALD J. TRUMP,Undirected,1514,1,"Former campaign advisor, going to co-head infrastructure council",http://www.huffingtonpost.com/entry/donald-trump-steven-roth-meeeting_us_587917f8e4b09281d0eaa28e | https://www.wsj.com/articles/donald-trump-asks-richard-lefrak-steven-roth-to-monitor-infrastructure-plans-costs-1484591989 | https://www.bloomberg.com/news/features/2017-01-27/jared-kushner-s-felon-father-brought-two-fellow-inmates-into-company
+IKE PERLMUTTER,DONALD J. TRUMP,Undirected,1448,1,"Perlmutter ""has been informally advising Mr. Trump on veterans issues,"" per the New York Times",https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1
+BETHANY SCULLY,DONALD J. TRUMP,Undirected,1444,1,Special assistant,https://www.documentcloud.org/documents/3534336-Scully-Bethany.html
+BORIS EPSHTEYN,DONALD J. TRUMP,Undirected,1421,1,Assistant director of communications,https://www.documentcloud.org/documents/3534046-Epshteyn-Boris.html
+PAUL WINFREE,DONALD J. TRUMP,Undirected,1363,1,Deputy director of the domestic policy council,https://www.documentcloud.org/documents/3534344-Winfree-Paul.html
+ROGER KHAFIF,DONALD J. TRUMP,Undirected,1359,1,"Told Russian buyers he was a partner in Trump project in Sunny Isles, Fla.",https://www.washingtonpost.com/politics/in-little-moscow-russians-helped-donald-trumps-brand-survive-the-recession/2016/11/04/f9dbd38e-97cf-11e6-bb29-bf2701dbe0a3_story.html
+ALEXANDER NIX,DONALD J. TRUMP,Undirected,1357,1,Worked on presidential campaign. May continue work for the administration.,https://www.theguardian.com/us-news/2016/nov/23/donald-trump-cambridge-analytica-steve-bannon
+"WALTER J. ""JAY"" CLAYTON III",DONALD J. TRUMP,Undirected,1349,1,Nominee for SEC Chairman,http://www.newyorker.com/magazine/2017/03/13/donald-trumps-worst-deal
+JOHN GRAY,DONALD J. TRUMP,Undirected,1339,1,Part of OMB transition team,http://thehill.com/policy/finance/314991-trump-team-prepares-dramatic-cuts
+STEPHEN BANNON,DONALD J. TRUMP,Undirected,1307,1,White House Chief Strategist and Senior Advisor,General knowledge
+ALEX SHNAIDER,DONALD J. TRUMP,Undirected,1282,1,"""Trump’s primary partner for his lucrative business in Canada,"" per Newsweek",http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html
+SERGEY I. KISLYAK,DONALD J. TRUMP,Undirected,1191,1,The Russian diplomat sat in on Trump foreign policy speech in April 2016,https://www.washingtonpost.com/politics/inside-trumps-financial-ties-to-russia-and-his-unusual-flattery-of-vladimir-putin/2016/06/17/dbdcaac8-31a6-11e6-8ff7-7b6c1998b7a0_story.html
+MARC SHORT,DONALD J. TRUMP,Undirected,1183,1,Director of legislative affairs,http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/
+JESSICA DITTO,DONALD J. TRUMP,Undirected,1157,1,Deputy communications director,http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/
+ANDY PUZDER,DONALD J. TRUMP,Undirected,1139,1,Former nominee for Secretary of Labor,General knowledge
+MARC LOTTER,DONALD J. TRUMP,Undirected,1134,1,Special assistant,https://www.documentcloud.org/documents/3535104-Lotter-Marc.html
+DON MCGAHN,DONALD J. TRUMP,Undirected,1099,1,White House Counsel,General knowledge
+CINDY SIMMS,DONALD J. TRUMP,Undirected,1074,1,Special assistant,https://www.documentcloud.org/documents/3534338-Simms-Cindy.html
+ERIC TRUMP,DONALD J. TRUMP,Undirected,1061,1,Parent/child,General knowledge
+GERRIT LANSING,DONALD J. TRUMP,Undirected,1049,1,Former Chief Digital Officer,https://www.documentcloud.org/documents/3534042-Lansing-Gerrit.html | http://www.politico.com/blogs/donald-trump-administration/2017/02/gerrit-lansing-trump-digital-chief-ousted-235268
+JAMES SCHULTZ,DONALD J. TRUMP,Undirected,1013,1,Senior associate counsel,https://www.documentcloud.org/documents/3534346-Shultz-James.html
+STEPHEN MUNISTERI,DONALD J. TRUMP,Undirected,1007,1,Deputy assistant,https://www.documentcloud.org/documents/3534157-Munisteri-Stephen-P.html
+RICHARD LEFRAK,DONALD J. TRUMP,Undirected,1005,1,"""one of Trump's few close friends in New York real estate,"" per New York Magazine and co-head of his new infrastructure council according to the Wall Street Journal",http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html | https://www.wsj.com/articles/donald-trump-asks-richard-lefrak-steven-roth-to-monitor-infrastructure-plans-costs-1484591989
+STEVEN MNUCHIN,DONALD J. TRUMP,Undirected,764,1,Secretary of Treasury,General knowledge
+LINDA BEAN,DONALD J. TRUMP,Undirected,716,1,Donor,http://www.nbcnews.com/business/business-news/l-l-bean-embroiled-spat-over-donation-trump-campaign-n706236
+MIKE PENCE,DONALD J. TRUMP,Undirected,650,1,Vice President,General knowledge
+SEBASTIAN GORKA,DONALD J. TRUMP,Undirected,622,1,Deputy assistant,http://www.cnn.com/2017/02/07/politics/kfile-gorka-on-fake-news/index.html
+RUPERT MURDOCH,DONALD J. TRUMP,Undirected,547,1,"""The president’s relationship with Mr. Murdoch is deeper and more enduring than most in his life, and the two commiserate and plot strategy in their phone calls, according to people close to both,"" according to the New York Times",https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1 | http://nymag.com/daily/intelligencer/2017/01/megyn-kellys-departure-is-clue-about-future-of-fox-news.html | http://mediamatters.org/blog/2017/01/04/how-donald-trump-could-make-rupert-murdoch-even-more-powerful/214924
+MARY T. BARRA,DONALD J. TRUMP,Undirected,532,1,Member of Trump's Strategic and Policy forum,http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/
+REBEKAH MERCER,DONALD J. TRUMP,Undirected,496,1,Major donor,https://www.washingtonpost.com/politics/the-rise-of-gop-mega-donor-rebekah-mercer/2016/09/13/85ae3c32-79bf-11e6-beac-57a4a412e93a_story.html?utm_term=.b4e577d44785
+ALEXANDER GRAY,DONALD J. TRUMP,Undirected,478,1,Special assistant,https://www.documentcloud.org/documents/3534083-Gray-Alexander.html
+ROBERT A. IGER,DONALD J. TRUMP,Undirected,472,1,Member of Trump's Strategic and Policy forum,http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/
+ANTHONY SCARAMUCCI,DONALD J. TRUMP,Undirected,467,1,Considered for senior adviser to the President position,https://mobile.nytimes.com/2017/02/01/us/politics/anthony-scaramucci-china-trump-administration.html
+GARY COHN,DONALD J. TRUMP,Undirected,445,1,Director United States National Economic Council,General knowledge
+MARYANNE TRUMP BARRY,DONALD J. TRUMP,Undirected,407,1,Siblings,General knowledge
+KEITH SCHILLER,DONALD J. TRUMP,Undirected,380,1,Director of Oval Office operations,http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/
+PETER THIEL,DONALD J. TRUMP,Undirected,362,1,Former transition team member,http://www.politico.com/story/2017/01/peter-thiel-no-job-trump-administration-233523
+SHERI A. DILLON,DONALD J. TRUMP,Undirected,359,1,Conflicts of interest lawyer,https://www.nytimes.com/2017/01/11/us/politics/trump-press-conference-transcript.html
+CARLOS DIAZ-ROSILLO,DONALD J. TRUMP,Undirected,353,1,Deputy assistant,https://www.documentcloud.org/documents/3534022-Diaz-Rosillo-Carlos.html
+BRAD PARSCALE,DONALD J. TRUMP,Undirected,346,1,Former digital director for Trump campaign,http://www.politico.com/story/2017/01/new-pro-trump-political-group-readies-for-launch-233263
+SCOTT GAST,DONALD J. TRUMP,Undirected,295,1,Senior associate counsel,https://www.documentcloud.org/documents/3534078-Gast-Scott.html
+JOHN DESTEFANO,DONALD J. TRUMP,Undirected,247,1,Director of presidential personnel,http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/
+NIKKI HALEY,DONALD J. TRUMP,Undirected,221,1,Ambassador to the United Nations,General knowledge
+NOEL FRANCISCO,DONALD J. TRUMP,Undirected,179,1,Principal Deputy Solicitor General,http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/
+JOSEPH LAI,DONALD J. TRUMP,Undirected,139,1,Special assistant,https://www.documentcloud.org/documents/3534041-Lai-Joseph.html
+ANDREW D. KOENIG,DONALD J. TRUMP,Undirected,134,1,Special assistant,https://www.documentcloud.org/documents/3534057-Koenig-Andrew-D.html
+HOPE HICKS,DONALD J. TRUMP,Undirected,130,1,"Director of Strategic Communications, White House",https://www.documentcloud.org/documents/3534459-Hicks-Hope.html
+DAVID S. CORDISH,DONALD J. TRUMP,Undirected,19,1,Friends,http://www.baltimoresun.com/news/maryland/politics/blog/bal-reed-cordish-to-join-trump-administration-20170105-story.html
+DAVID S. CORDISH,REED S. CORDISH,Undirected,18,1,Parent/child,http://www.baltimoresun.com/news/maryland/politics/blog/bal-reed-cordish-to-join-trump-administration-20170105-story.html
+CUI TIANKAI,JARED KUSHNER,Undirected,109,1,"""Kushner and Cui have had an extensive ongoing dialogue that has been positive, according to a White House official,"" per Bloomberg",https://www.bloomberg.com/politics/articles/2017-02-07/china-courts-ivanka-jared-kushner-to-smooth-ties-with-trump
+JARED KUSHNER,ROB SPEYER,Undirected,3352,1,Gave Kushner $50 million to help by a property from his father's company-Tishman Speyer,http://nymag.com/realestate/features/53797/index5.html
+AVRAM LEBOR,JARED KUSHNER,Undirected,3292,1,Kushner hired him for his real estate company,https://www.bloomberg.com/news/features/2017-01-27/jared-kushner-s-felon-father-brought-two-fellow-inmates-into-company
+RYAN DOHERTY,JARED KUSHNER,Undirected,3274,1,Friends,http://www.businessinsider.com/jared-kushner-trump-media-mogul-observer-2016-12
+NICOLE KUSHNER MEYER,JARED KUSHNER,Undirected,3242,1,Siblings,http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/
+IVANKA TRUMP,JARED KUSHNER,Undirected,3198,1,Married,General knowledge
+JOSHUA KUSHNER,JARED KUSHNER,Undirected,3175,1,Siblings,General knowledge
+MARGARET CHIN,JARED KUSHNER,Undirected,3119,1,Donor,http://thevillager.com/2013/07/25/the-billionaires-back-margaret-chin-for-city-council/
+JUSTIN WENIGER,JARED KUSHNER,Undirected,2887,1,Friends,http://www.businessinsider.com/jared-kushner-trump-media-mogul-observer-2016-12
+AVRAHM BERKOWITZ,JARED KUSHNER,Undirected,2800,1,Assistant,https://www.documentcloud.org/documents/3534232-Berkowitz-Avrahm-J.html
+ASHER ABEHSERA,JARED KUSHNER,Undirected,2041,1,Partnered with Kushner in Brooklyn projects,http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html
+MARTIN SORRELL,JARED KUSHNER,Undirected,1999,1,Friends,http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html
+MILES BERGER,JARED KUSHNER,Undirected,1921,1,"""business partner of the Kushners,"" per New York Magazine",http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html
+DARA ORBACH,JARED KUSHNER,Undirected,1903,1,Siblings,http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/
+CHARLES KUSHNER,JARED KUSHNER,Undirected,1460,1,Parent/child,General knowledge
+RICHARD GOETTLICH,JARED KUSHNER,Undirected,1082,1,Kushner hired him for his real estate company,https://www.bloomberg.com/news/features/2017-01-27/jared-kushner-s-felon-father-brought-two-fellow-inmates-into-company
+BENJAMIN NETANYAHU,JARED KUSHNER,Undirected,891,1,"Longtime family friends, per Reuters",http://www.reuters.com/article/us-usa-trump-israel-scene-idUSKBN15U2PA
+STRAUSS ZELNICK,JARED KUSHNER,Undirected,689,1,"""close with Kushner,"" per New York Magazine",http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html
+CHARLES G. KOCH,DAVID H. KOCH,Undirected,199,1,Siblings,http://www.forbes.com/profile/koch/
+CHARLES G. KOCH,MARC SHORT,Undirected,198,1,"""the Koch brothers’ top political adviser in Washington and a trusted member of their inner circle for five years,"" per Politico",http://www.politico.com/story/2016/02/marc-short-marco-rubio-219664
+CHARLES G. KOCH,WILLIAM I. KOCH,Undirected,197,1,Siblings,http://www.forbes.com/profile/koch/
+DAVID H. KOCH,WILLIAM I. KOCH,Undirected,3116,1,Siblings,http://www.forbes.com/profile/koch/
+MARC SHORT,DAVID H. KOCH,Undirected,1185,1,"""the Koch brothers’ top political adviser in Washington and a trusted member of their inner circle for five years,"" per Politico",http://www.politico.com/story/2016/02/marc-short-marco-rubio-219664
+MIKE PENCE,MARC SHORT,Undirected,654,1,"""Longtime aide,"" per CNN",http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/
+CHLOE MURDOCH,WENDI DENG MURDOCH,Undirected,260,1,Parent/child,https://www.ft.com/content/a615f0ce-ed90-11e6-930f-061b01e23655
+CHLOE MURDOCH,RUPERT MURDOCH,Undirected,259,1,Parent/child,https://www.ft.com/content/a615f0ce-ed90-11e6-930f-061b01e23655
+CHLOE MURDOCH,IVANKA TRUMP,Undirected,258,1,Former trustee,https://www.ft.com/content/a615f0ce-ed90-11e6-930f-061b01e23655
+IVANKA TRUMP,MEHMET ALI YALCINDAG,Undirected,3197,1,Business partners,http://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html
+IVANKA TRUMP,GRACE MURDOCH,Undirected,3196,1,Former trustee,https://www.ft.com/content/a615f0ce-ed90-11e6-930f-061b01e23655
+IVANKA TRUMP,ANDRIY ZAIKA,Undirected,3191,1,"Met in 2006, when Zaika was head of the Ukrainian Construction Consortium",http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html
+PAULO FIGUEIREDO FILHO,IVANKA TRUMP,Undirected,3173,1,"Lunched together, spawning Trump interest in Rio hotel",http://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html
+DINA POWELL,IVANKA TRUMP,Undirected,3093,1,"Ivanka Trump ""has been leaning on [Powell] ... as a top adviser on policy and staffing,"" per Politico",http://www.politico.com/story/2017/01/ivanka-trump-goldman-sachs-233234
+DONALD TRUMP JR.,IVANKA TRUMP,Undirected,2965,1,Siblings,General knowledge
+VIKTOR TKACHUK,IVANKA TRUMP,Undirected,2849,1,"Met in 2006, when Tkachuk was an adviser to the Ukrainian president",http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html
+WENDI DENG MURDOCH,IVANKA TRUMP,Undirected,1937,1,"""Close friend,"" according to the Guardian",https://www.theguardian.com/film/2016/oct/11/wendi-deng-murdoch-rupert-trump-sky-ladder-art-of-cai-guo-qiang
+FELIPE YARYURA,IVANKA TRUMP,Undirected,1787,1,The Argentine real estate developer is said to be friends with the Trump family,http://www.lanacion.com.ar/1955208-la-emocion-del-socio-argentino-de-trump
+ERIC TRUMP,IVANKA TRUMP,Undirected,1066,1,Siblings,General knowledge
+RUPERT MURDOCH,GRACE MURDOCH,Undirected,546,1,Parent/child,https://www.ft.com/content/a615f0ce-ed90-11e6-930f-061b01e23655
+WENDI DENG MURDOCH,GRACE MURDOCH,Undirected,1936,1,Parent/child,https://www.ft.com/content/a615f0ce-ed90-11e6-930f-061b01e23655
+BRAD PARSCALE,ALEXANDER NIX,Undirected,345,1,"Pascale says he hired Nix's company, Cambridge Analytica, to work on the campaign",https://www.washingtonpost.com/politics/trumps-plan-for-a-comeback-includes-building-a-psychographic-profile-of-every-voter/2016/10/27/9064a706-9611-11e6-9b7c-57290af48a49_story.html?utm_term=.ec091285ddc0
+STEPHEN VADEN,SONNY PERDUE,Undirected,349,1,Special assistant to Secretary of Agriculture,http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/
+SERHIY LYOVOCHKIN,PAUL MANAFORT,Undirected,395,1,Manafort ran PR for Lyovochkin's campaign,https://www.nytimes.com/2016/08/01/us/paul-manafort-ukraine-donald-trump.html
+PAUL MANAFORT,DMITRY FIRTASH,Undirected,3141,1,Worked together in bid for site of Drake Hotel in NYC,https://www.washingtonpost.com/politics/in-business-as-in-politics-trump-adviser-no-stranger-to-controversial-figures/2016/04/26/970db232-08c7-11e6-b283-e79d81c63c1b_story.html?utm_term=.de35331c8594
+PAUL MANAFORT,RINAT AKHMETOV,Undirected,3138,1,Manafort worked to improve image of Akhmetov's companies,https://www.nytimes.com/2016/08/01/us/paul-manafort-ukraine-donald-trump.html
+PAUL MANAFORT,VIKTOR F. YANUKOVYCH,Undirected,3137,1,Manafort ran PR for Yanukovych's campaign,https://www.nytimes.com/2016/08/01/us/paul-manafort-ukraine-donald-trump.html
+ABDUL RAHMAN AL-ASSIR,PAUL MANAFORT,Undirected,2991,1,Manafort secured a loan from al-Assir,https://www.washingtonpost.com/politics/in-business-as-in-politics-trump-adviser-no-stranger-to-controversial-figures/2016/04/26/970db232-08c7-11e6-b283-e79d81c63c1b_story.html?utm_term=.de35331c8594
+ARTHUR G. COHEN,PAUL MANAFORT,Undirected,1825,1,"""negotiated a deal to buy the site of the Drake Hotel on Park Avenue in Manhattan,"" per the New York Times",https://www.nytimes.com/2016/08/01/us/paul-manafort-ukraine-donald-trump.html
+DMYTRO FIRTASH,PAUL MANAFORT,Undirected,1544,1,"Manafort and Firtash, ""an oligarch who made billions as a middleman for Gazprom,"" were partners in ""a deal to buy the site of the Drake Hotel on Park Avenue in Manhattan,"" per the New York Times",https://www.nytimes.com/2016/08/01/us/paul-manafort-ukraine-donald-trump.html
+MARYANNE TRUMP BARRY,KEVIN MARINO,Undirected,406,1,Marino served as Barry's law clerk,http://www.khmarino.com/attorney_bio_marino.html
+KEVIN MARINO,BILL STEPIEN,Undirected,3120,1,Marino served as Stepien's attorney during the Bridgegate trial,http://www.politico.com/story/2017/01/bill-stepien-donald-trump-christie-233199
+ANTHONY SCARAMUCCI,KIRILL DMITRIEV,Undirected,468,1,Met at Davos,https://www.bloomberg.com/politics/articles/2017-01-17/in-davos-trump-aide-talks-deals-with-sanctioned-kremlin-fund
+REBEKAH MERCER,KELLYANNE CONWAY,Undirected,506,1,"""They're close,"" per The Atlantic",https://www.theatlantic.com/politics/archive/2017/01/no-one-knows-what-the-powerful-mercers-really-want/514529/
+REBEKAH MERCER,STEPHEN BANNON,Undirected,504,1,"""Tied at the hip,"" per a source to The Hill",http://thehill.com/homenews/campaign/291772-billionaire-father-and-daughter-linked-to-trump-shakeup
+REBEKAH MERCER,SYLVAIN MIROCHNIKOFF,Undirected,497,1,Married,https://www.washingtonpost.com/politics/the-rise-of-gop-mega-donor-rebekah-mercer/2016/09/13/85ae3c32-79bf-11e6-beac-57a4a412e93a_story.html?utm_term=.9cf5b5040519
+REBEKAH MERCER,ROBERT MERCER,Undirected,495,1,Parent/child,https://www.washingtonpost.com/politics/the-rise-of-gop-mega-donor-rebekah-mercer/2016/09/13/85ae3c32-79bf-11e6-beac-57a4a412e93a_story.html?utm_term=.b4e577d44785
+ROBERT MERCER,NIGEL FARAGE,Undirected,2862,1,"""Close friends,"" per the Guardian",https://www.theguardian.com/politics/2017/mar/04/nigel-oakes-cambridge-analytica-what-role-brexit-trump
+PATRICK CADDELL,ROBERT MERCER,Undirected,2811,1,"""At least as far back as 2013 [Caddell] has been a contractor for one of Trump’s biggest financial backers: Robert Mercer,"" per The New Yorker",http://www.newyorker.com/magazine/2017/03/27/the-reclusive-hedge-fund-tycoon-behind-the-trump-presidency
+STEPHEN BANNON,ROBERT MERCER,Undirected,1325,1,"Bannon served as the Mercer family's ""political advisor,"" per the Washington Post",https://www.washingtonpost.com/graphics/politics/mercer-bannon/
+STEPHEN BANNON,PATRICK CADDELL,Undirected,1331,1,"Bannon and Caddell have ""partnered on numerous projects,"" per The New Yorker",http://www.newyorker.com/magazine/2017/03/27/the-reclusive-hedge-fund-tycoon-behind-the-trump-presidency
+STEPHEN BANNON,KELLYANNE CONWAY,Undirected,1327,1,"Conway is ""buddies"" with Bannon, per Elle",http://www.elle.com/culture/career-politics/a43112/kellyanne-conway-profile/
+STEPHEN BANNON,JULIA HAHN,Undirected,1326,1,"""Hahn is a protégée of Stephen Bannon,"" per The New Yorker",http://www.newyorker.com/magazine/2017/02/13/becoming-steve-bannons-bannon
+STEPHEN BANNON,JENNIFER MERCER,Undirected,1323,1,"Bannon served as the Mercer family's ""political advisor,"" per the Washington Post",https://www.washingtonpost.com/graphics/politics/mercer-bannon/
+STEPHEN BANNON,ERIK PRINCE,Undirected,1310,1,"""Prince has a close relationship with Breitbart News and Steve Bannon,"" per The Intercept",https://theintercept.com/2017/01/17/notorious-mercenary-erik-prince-is-advising-trump-from-the-shadows/
+ERIC HOLCOMB,KELLYANNE CONWAY,Undirected,2930,1,Conway provided consulting services to Holcomb,https://www.documentcloud.org/documents/3534450-Conway-Kellyanne.html
+GEORGE T. CONWAY III,KELLYANNE CONWAY,Undirected,1251,1,Married,General knowledge
+RUDY GIULIANI,KEN KURSON,Undirected,514,1,Worked on 2008 presidential campaign,http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html
+RUDY GIULIANI,WILBUR ROSS,Undirected,512,1,Privatization advisor when Giuliani was mayor,http://www.salon.com/2016/11/21/wilbur-ross-jr-rumored-to-be-donald-trumps-choice-for-commerce-secretary-owned-a-mine-where-12-miners-died-in-2006_partner/
+WILBUR ROSS,JAMES UTHMEIER,Undirected,2747,1,Special advisor,http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/
+ALAN HAMMER,CHARLES KUSHNER,Undirected,520,1,"""has long worked with"" Kushner, per New York Magazine",http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html
+CHARLES KUSHNER,DARA ORBACH,Undirected,1458,1,Parent/child,http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/
+CHARLES KUSHNER,MURRAY KUSHNER,Undirected,1457,1,Siblings,http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html
+CHARLES KUSHNER,JIM MCGREEVEY,Undirected,1456,1,"""the financial force"" behind the former governor's campaign, per New York Magazine",http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html
+CHARLES KUSHNER,JOSHUA KUSHNER,Undirected,1455,1,Parent/child,General knowledge
+CHARLES KUSHNER,NICOLE KUSHNER MEYER,Undirected,1454,1,Parent/child,http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/
+CHARLES KUSHNER,SERYL KUSHNER,Undirected,1453,1,Married,http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/
+CHARLES KUSHNER,ESTHER KUSHNER,Undirected,1452,1,Siblings,http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html
+BENJAMIN NETANYAHU,CHARLES KUSHNER,Undirected,890,1,"Longtime family friends, per Reuters",http://www.reuters.com/article/us-usa-trump-israel-scene-idUSKBN15U2PA
+SALLY PRIEBUS,REINCE PRIEBUS,Undirected,549,1,Married,General knowledge
+REINCE PRIEBUS,KATIE WALSH,Undirected,3026,1,Former deputy chief of staff,http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/ | http://www.politico.com/story/2017/03/trump-deputy-chief-of-staff-katie-walsh-moving-to-outside-political-groups-236706
+REINCE PRIEBUS,MALLORY HUNTER,Undirected,3023,1,Executive assistant,https://www.documentcloud.org/documents/3534136-Hunter-Mallory.html
+SEAN CAIRNCROSS,REINCE PRIEBUS,Undirected,1643,1,Senior advisor,http://www.politico.com/story/2017/01/trump-transition-white-house-hires-233863
+SCOTT WALKER,ANDREW BREMBERG,Undirected,564,1,Policy director for Walker's campaign,http://www.modernhealthcare.com/article/20161111/NEWS/161119989?utm_source=modernhealthcare&utm_medium=email&utm_content=20161111-NEWS-161119989&utm_campaign=mh-alert
+MIKE FERGUSON,ANDREW BREMBERG,Undirected,3203,1,"Bremberg ""is a lifelong friend"" of Ferguson, a former U.S. House representative, per Stat",https://www.statnews.com/2016/11/15/trump-influencers-health-care/
+MITCH MCCONNELL,ANDREW BREMBERG,Undirected,1579,1,Policy advisor and counsel on nominations,https://www.linkedin.com/in/andrew-bremberg-7170938
+JULIAN ASSANGE,"ROGER J. STONE, JR.",Undirected,582,1,"Stone told the Guardian that he and Assange have a ""mutual friend"" who served as a backchannel for advance notice of WikiLeaks' Clinton-related releases",https://www.theguardian.com/us-news/2016/nov/02/trump-adviser-clinton-emails-wikileaks-roger-stone
+ALBERT ROSS SR.,OMAROSÉ ONEE MANIGAULT,Undirected,614,1,Mentored by,http://www.omarosa.com/#
+OMAROSÉ ONEE MANIGAULT,H. B. HICKS,Undirected,1590,1,Mentored by,http://www.omarosa.com/#
+"RICHARD MARVIN ""DICK"" DEVOS JR.",BETSY DEVOS,Undirected,639,1,Married,General knowledge
+BETSY DEVOS,ERIK PRINCE,Undirected,3347,1,Siblings,https://theintercept.com/2017/01/17/notorious-mercenary-erik-prince-is-advising-trump-from-the-shadows/
+BETSY DEVOS,RICHARD DEVOS,Undirected,3346,1,Parent/child,General knowledge
+MIKE PENCE,JOHN GRAY,Undirected,663,1,Gray worked for Pence,http://thehill.com/policy/finance/314991-trump-team-prepares-dramatic-cuts
+MIKE PENCE,JEN PAVLIK,Undirected,662,1,Deputy chief of staff,http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/
+MIKE PENCE,THOMAS E. WHEELER,Undirected,661,1,Wheeler worked for Pence,http://www.motherjones.com/politics/2017/02/justice-department-thomas-wheeler-presentations
+MIKE PENCE,RUSS VOUGHT,Undirected,660,1,Former aide,http://thehill.com/policy/finance/314991-trump-team-prepares-dramatic-cuts
+MIKE PENCE,RYAN JARMULA,Undirected,657,1,"Jarmula ""served as a member of [Pence's] staff for a number of years,"" per the transition team",https://greatagain.gov/policy-team-32afa7145773
+MIKE PENCE,NICK AYERS,Undirected,656,1,"Ayers is ""one of [Pence's] top political advsiors,"" per Politico",http://www.politico.com/story/2017/01/new-pro-trump-political-group-readies-for-launch-233263
+MIKE PENCE,SARAH MAKIN,Undirected,655,1,Director of public engagement and intergovernmental affairs,https://www.documentcloud.org/documents/3535103-Makin-Sarah.html
+MIKE PENCE,MARTY OBST,Undirected,652,1,"Obst is a ""top Pence aide,"" per Politico",http://www.politico.com/story/2017/01/new-pro-trump-political-group-readies-for-launch-233263
+MIKE PENCE,JOSH PITCOCK,Undirected,651,1,Chief of staff,http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/
+MIKE PENCE,JARROD P. AGEN,Undirected,649,1,Director of communications,https://www.documentcloud.org/documents/3534451-Agen-Jarrod.html
+MIKE PENCE,MARC LOTTER,Undirected,648,1,Press secretary,https://www.documentcloud.org/documents/3535104-Lotter-Marc.html
+JARROD P. AGEN,RICK SNYDER,Undirected,2227,1,Former chief of staff,https://www.documentcloud.org/documents/3534451-Agen-Jarrod.html
+THOMAS E. WHEELER,JEFF SESSIONS,Undirected,2931,1,Sessions appointed Wheeler to Deputy Assistant Attorney General. Wheeler was also appointed head of the DOJ's Civil Rights Division as an Acting Assistant Attorney General.,https://www.nytimes.com/2017/02/28/magazine/jeff-sessions-stephen-bannon-justice-department.html?_r=0 | https://www.buzzfeed.com/zoetillman/heres-who-is-running-the-justice-department-right-now | https://www.justice.gov/crt
+STEVEN MNUCHIN,GEORGE SOROS,Undirected,778,1,Mnuchin worked for Soros' fund,http://www.vanityfair.com/news/2016/11/george-soros-declares-war-on-trump
+STEVEN MNUCHIN,EDWARD LAMPERT,Undirected,767,1,Former college roommates; Mnuchin has a position in an entity connected to Lampert,https://www.washingtonpost.com/news/wonk/wp/2017/01/19/treasury-nominee-initially-omitted-more-than-100-million-from-disclosures-democratic-memo-shows/?postshare=3221484835948504&tid=ss_tw&utm_term=.e7b4eb5ed0a8
+ERIC TRUMP,FELIPE YARYURA,Undirected,1071,1,The Argentine real estate developer is said to be friends with the Trump family; Yaryura and Eric Trump were photographed together at Trump's election night party,http://www.lanacion.com.ar/1955208-la-emocion-del-socio-argentino-de-trump
+ERIC TRUMP,DONALD TRUMP JR.,Undirected,1068,1,Siblings,General knowledge
+DONALD TRUMP JR.,JASON D. GREENBLATT,Undirected,2973,1,Business partners,Nexis
+DONALD TRUMP JR.,VANESSA TRUMP,Undirected,2968,1,Married,General knowledge
+DONALD TRUMP JR.,BONNIE HAYDON,Undirected,2966,1,Father-in-law/son-in-law,Nexis — NYT 11/19/2006
+DONALD TRUMP JR.,RUSSELL FLICKER,Undirected,2964,1,Business partners,Nexis
+DONALD TRUMP JR.,ANDRIY ZAIKA,Undirected,2961,1,"Met in 2006, when Zaika was head of the Ukrainian Construction Consortium",http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html
+VIKTOR TKACHUK,DONALD TRUMP JR.,Undirected,2850,1,"Met in 2006, when Tkachuk was an adviser to the Ukrainian president",http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html
+FELIPE YARYURA,DONALD TRUMP JR.,Undirected,1788,1,The Argentine real estate developer is said to be friends with the Trump family,http://www.lanacion.com.ar/1955208-la-emocion-del-socio-argentino-de-trump
+BERNARD R. DIAMOND,DONALD TRUMP JR.,Undirected,1739,1,Business partners,Nexis
+DON MCGAHN,AARON SCHOCK,Undirected,1109,1,McGahn provided legal services for Schock,https://www.documentcloud.org/documents/3535093-McGahn-Donald-F.html
+DON MCGAHN,DAVID MORRELL,Undirected,1108,1,Associate Counsel to the President,http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/
+DON MCGAHN,GREG KATSAS,Undirected,1105,1,Deputy Counsel to the President,http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/
+DON MCGAHN,ANNIE DONALDSON,Undirected,1094,1,"Special Counsel to the President, Chief of Staff to the White House Counsel",http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/
+DON MCGAHN,SHANNON MCGAHN,Undirected,1089,1,Married,General knowledge
+DON MCGAHN,BLAKE DELAPLANE,Undirected,1088,1,Special assistant to the White House Counsel,http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/
+DON MCGAHN,JAMES BURNHAM,Undirected,1086,1,Senior associate counsel,http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/
+ANNIE DONALDSON,AARON SCHOCK,Undirected,1658,1,Provided legal services for,https://www.documentcloud.org/documents/3534049-Donaldson-Ann.html
+ANDY PUZDER,WILLIAM P. FOLEY,Undirected,1141,1,"Worked together on deal to turn around debts of Carl's Jr. founder, which was a major success in Puzder's career",http://www.insidesources.com/meet-the-fast-food-ceo-trump-picked-as-labor-secretary/
+HAROLD G. HAMM,SCOTT PRUITT,Undirected,1147,1,"Hamm, chief executive of Continental Energy, was Pruitt's 2013 re-election co-chair",http://www.cnbc.com/2016/12/08/scott-pruitt-is-great-pick-to-lead-epa-says-pruitt-ally-harold-hamm.html
+JESSICA DITTO,MATTHEW GRISWOLD BEVIN,Undirected,1156,1,Ditto was the communications director for Bevin's office,https://www.documentcloud.org/documents/3534035-Ditto-Jessica.html
+CATHERINE BRAY GRIFFITH,WELLS GRIFFITH,Undirected,1194,1,Married,https://www.theguardian.com/commentisfree/2017/feb/02/corporate-dark-money-power-atlantic-lobbyists-brexit
+CHRISTINE CHAO,ELAINE CHAO,Undirected,1248,1,Siblings,https://www.propublica.org/article/familys-shipping-company-could-pose-problems-for-trumps-transportation-pick
+CHRISTINE CHAO,JAMES S.C. CHAO,Undirected,1247,1,Parent/child,https://www.propublica.org/article/familys-shipping-company-could-pose-problems-for-trumps-transportation-pick
+JAMES S.C. CHAO,ELAINE CHAO,Undirected,1347,1,Parent/child,https://www.propublica.org/article/familys-shipping-company-could-pose-problems-for-trumps-transportation-pick
+JAMES S.C. CHAO,ANGELA CHAO,Undirected,1346,1,Parent/child,https://www.propublica.org/article/familys-shipping-company-could-pose-problems-for-trumps-transportation-pick
+ELAINE CHAO,ANGELA CHAO,Undirected,3101,1,Siblings,https://www.propublica.org/article/familys-shipping-company-could-pose-problems-for-trumps-transportation-pick
+MITCH MCCONNELL,ELAINE CHAO,Undirected,1580,1,Married,http://elainelchao.com/biography/
+JULIA HAHN,STEPHEN MILLER,Undirected,3111,1,"Miller sent tips to Hahn, a Breitbart reporter",http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992
+YURY ZAYTSEV,SERGEI MILLIAN,Undirected,1393,1,Went on trip to Moscow together in 2011,https://www.ft.com/content/ea52a678-9cfb-11e6-8324-be63473ce146
+SERGEI MILLIAN,VLADIMIR PUTIN,Undirected,1986,1,Putin awarded Millian a prize in Jan. 2015 for developing ties between Russia and American businesspeople,https://www.ft.com/content/ea52a678-9cfb-11e6-8324-be63473ce146
+JACK WEISSELBERG,ALLEN WEISSELBERG,Undirected,1409,1,Parent/child,https://www.nytimes.com/2016/05/24/business/dealbook/donald-trump-relationship-bankers.html?_r=0
+XI JINPING,TERRY BRANSTAD,Undirected,1414,1,"Brandstad and the Chinese president have a ""friendship dating back to 1985,"" per Bloomberg Politics",https://www.bloomberg.com/politics/articles/2016-12-07/trump-said-to-pick-iowa-governor-branstad-as-china-ambassador
+JOHN GORE,JEFF SESSIONS,Undirected,1425,1,Deputy assistant AG for Civil Rights,http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/
+JEFF SESSIONS,AJIT PAI,Undirected,3304,1,Former deputy chief counsel,https://www.fcc.gov/about/leadership/ajit-pai
+STEPHEN MILLER,JEFF SESSIONS,Undirected,3243,1,Former chief of communications,http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992
+GARRETT MURCH,JEFF SESSIONS,Undirected,3115,1,Former communications advisor,http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992 | https://www.linkedin.com/in/garrett-murch-9800b928
+MICHAEL MURRAY,JEFF SESSIONS,Undirected,2944,1,Counsel to the Deputy Attorney General,http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/
+RICK DEARBORN,JEFF SESSIONS,Undirected,2852,1,Former chief of staff,http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/
+JOHN KYL,JEFF SESSIONS,Undirected,2769,1,"Kyl was Sessions's ""sherpa"" for confirmation hearings",http://www.azcentral.com/story/news/politics/azdc/2017/01/13/jon-kyl-helping-jeff-sessions-confirmation-hearing-attorney-general/96558516/
+SERYL KUSHNER,NICOLE KUSHNER MEYER,Undirected,2904,1,Parent/child,http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/
+DARA ORBACH,SERYL KUSHNER,Undirected,1902,1,Parent/child,http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/
+JOSHUA KUSHNER,NICOLE KUSHNER MEYER,Undirected,3183,1,Siblings,http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/
+DARA ORBACH,NICOLE KUSHNER MEYER,Undirected,1900,1,Siblings,http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/
+JOSEPH MEYER,NICOLE KUSHNER MEYER,Undirected,1741,1,Married,http://nymag.com/daily/intelligencer/2013/01/jared-kushner-names-brother-in-law-observer-ceo.html
+DARA ORBACH,JOSHUA KUSHNER,Undirected,1901,1,Siblings,http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/
+BOB DOLE,ROBERT LIGHTHIZER,Undirected,1513,1,Lighthizer was Dole's campaign treasurer in 1996,http://www.pbs.org/newshour/rundown/trump-nominates-robert-lighthizer-u-s-trade-representative/
+BEN CARSON,BARRY BENNETT,Undirected,1541,1,Bennet was Carson's presidential campaign manager,https://www.washingtonpost.com/news/post-politics/wp/2016/01/22/former-carson-campaign-manager-barry-bennett-is-quietly-advising-trumps-top-aides/?utm_term=.795d808dc8d2
+PAM MULVANEY,MICK MULVANEY,Undirected,1546,1,Married,http://www.usnews.com/news/articles/2011/02/22/10-things-you-didnt-know-about-mick-mulvaney
+MITCH MCCONNELL,W.E.“ED” BOSARGE,Undirected,1581,1,Major campaign donor,http://www.politico.com/tipsheets/prescription-pulse/2016/05/new-legislation-on-stem-cells-raises-alarm-214069
+MADELEINE WESTERHOUT,RHONA GRAFF RICCIO,Undirected,1631,1,"Riccio helped train Westerhout, per the New York Times",https://www.nytimes.com/2017/03/27/us/rhona-graff-donald-trump.html?_r=0
+RHONA GRAFF RICCIO,LUCIUS JOSEPH RICCIO,Undirected,1709,1,Married,General knowledge
+RICK PERRY,PETER HOLT,Undirected,1763,1,"Perry consulted for Holt, after governorship to which Holt gave money",https://www.texastribune.org/2015/07/10/perry-consulting-big-donor-disclosures/
+RICK PERRY,ANITA THIGPEN PERRY,Undirected,1761,1,Married,http://thehill.com/policy/healthcare/182135-perrys-addition-to-the-white-house-his-wife-health-advocate-anita-perry
+NICOLAS SARKOZY,THOMAS J. BARRACK JR.,Undirected,1779,1,Sarkozy awarded France's Chevalier de la Légion d'Honneur to Barrack,http://colonyinc.com/about#fulltext4
+YOUSEF AL-OTAIBA,THOMAS J. BARRACK JR.,Undirected,2774,1,"""Friend"" per the New York Times",https://www.nytimes.com/2017/02/11/us/politics/jared-kushner-israel.html?smid=tw-nytimesworld&smtyp=cur&_r=1
+AYDIN DOGAN,MEHMET ALI YALCINDAG,Undirected,1867,1,Father-in-law/son-in-law,http://www.hurriyetdailynews.com/a-major-shake-up-at-dogan-media.aspx?PageID=238&NID=104450&NewsCatID=345
+VLADIMIR PUTIN,ALEXANDER NOVAK,Undirected,3126,1,Energy minister,https://www.washingtonpost.com/news/josh-rogin/wp/2016/12/13/inside-rex-tillersons-long-romance-with-russia/?utm_term=.37f238834d71
+IGOR SECHIN,VLADIMIR PUTIN,Undirected,2992,1,Former deputy prime minister,https://www.ft.com/content/a8f24922-cef4-11e3-9165-00144feabdc0
+REX TILLERSON,VLADIMIR PUTIN,Undirected,2127,1,"In 2012, Putin awarded Order of Friendship to Tillerson",http://www.politico.com/magazine/story/2016/12/rex-tillerson-exxon-putin-russia-ties-friend-214515
+LEV LEVIEV,VLADIMIR PUTIN,Undirected,1996,1,"Described him as a ""true friend""",http://www.nytimes.com/2007/09/16/magazine/16Leviev-t.html
+SERGEY KISLYAK,MICHAEL FLYNN,Undirected,2079,1,"""in frequent contact,"" per Jan. 13, 2017 Associated Press article",http://bigstory.ap.org/article/ba462d64c12d4692b8381cb7076d34ab/ap-source-trump-aide-frequent-contact-russia-envoy
+REX TILLERSON,ALEXANDER NOVAK,Undirected,2128,1,"""Tillerson lowered his profile in Russia but continued to meet with non-sanctioned high-level Russian officials in Moscow, including Russian Energy Minister Alexander Novak,"" per the Washington Post",https://www.washingtonpost.com/news/josh-rogin/wp/2016/12/13/inside-rex-tillersons-long-romance-with-russia/?utm_term=.37f238834d71
+REX TILLERSON,IGOR SECHIN,Undirected,2124,1,"""Tillerson, the CEO of ExxonMobil, has a close and personal relationship with Sechin dating back over a decade,"" per the Washington Post",https://www.washingtonpost.com/news/josh-rogin/wp/2016/12/13/inside-rex-tillersons-long-romance-with-russia/?utm_term=.37f238834d71
+ARAS AGALAROV,EMIN AGALAROV,Undirected,2144,1,Parent/child,https://www.washingtonpost.com/politics/inside-trumps-financial-ties-to-russia-and-his-unusual-flattery-of-vladimir-putin/2016/06/17/dbdcaac8-31a6-11e6-8ff7-7b6c1998b7a0_story.html?utm_term=.0cb035ebfc6b
+CHRIS CHRISTIE,BILL STEPIEN,Undirected,2797,1,Former deputy chief of staff,http://www.politico.com/story/2017/01/bill-stepien-donald-trump-christie-233199
+CHRIS CHRISTIE,DAVID WILDSTEIN,Undirected,2796,1,"Christie and Wildstein went to high school together, and Christie appointed Wildstein to a director position at the Port Authority",http://nymag.com/daily/intelligencer/2016/09/david-wildstein-chris-christie-bridgegate-trial.html
+STEPHEN B. MEISTER,JASON D. MEISTER,Undirected,3239,1,Parent/child,https://therealdeal.com/issues_articles/whos-jumping-ship/
+STEPHEN MILLER,SAM NUNBERG,Undirected,3244,1,Friends,http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992
+SUSAN POMPEO,MICHAEL POMPEO,Undirected,2848,1,Married,http://pompeo.house.gov/biography/
+DAVID HOROWITZ,STEPHEN MILLER,Undirected,3073,1,"""Miller considers Horowitz a mentor,"" per Politico",http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992
+CAROLINE MAY,STEPHEN MILLER,Undirected,3068,1,"Miller sent tips to May, a Breitbart reporter",http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992
+TUCKER CARLSON,STEPHEN MILLER,Undirected,2866,1,Miller set up meeting between Carlson and Sessions,http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992
+MICHELLE BACHMANN,STEPHEN MILLER,Undirected,2768,1,Worked for her,http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992
+MELANIA TRUMP,LINDSEY REYNOLDS,Undirected,3229,1,Chief of staff,http://www.politico.com/story/2017/02/donald-trump-challenges-governing-presidency-234879
+STEPHANIE WINSTON WOLKOFF,MELANIA TRUMP,Undirected,3131,1,Senior adviser,http://www.politico.com/story/2017/02/donald-trump-challenges-governing-presidency-234879
+SAM BROWNBACK,AJIT PAI,Undirected,3315,1,Former chief counsel,https://www.fcc.gov/about/leadership/ajit-pai
