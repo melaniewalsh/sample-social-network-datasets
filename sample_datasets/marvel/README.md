@@ -1,21 +1,22 @@
-**Source**
+## Source
 
 This folder contains network data for character relationships within the Marvel comic book universe (beginning in 1961 and ending around 1999/2000?), which was originally compiled by Cesc Rosselló, Ricardo Alberich, and Joe Miro from Russ Chappell's [Marvel Chronology Project](http://www.chronologyproject.com/)*, a database that catalogues every appearance by every significant character in the Marvel comic book universe. This network data was originally used and analyzed by Rosselló, Alberich, and Miro in ["Marvel Universe looks almost like a real social network."](https://arxiv.org/pdf/cond-mat/0202174.pdf).
 
 *This website is astounding both in its comprehensiveness and its fabulous '90s web aesthetic.
 
-**Data & Methodology**
+## Data & Methodology
 
 Nodes: 327; unimodal*
+
 Edges: 9,891; weighted; undirected
 
 The nodes csv contains 327 different Marvel characters, and the edges csv contains 9,891 weighted relationships between those characters, which were calculated based on how many times two characters appeared together in the same comic book.
 
-To explore and understand the edges better, you might take a look at the bimodal edges list ("bimodal/marvel_bimodal_edges.csv") and [the comic book key](http://www.chronologyproject.com/key.php) from the Marvel Chronology Project. For more on the methodology, see [Rosselló, Alberich, and Miro's original article.](https://arxiv.org/pdf/cond-mat/0202174.pdf)
+To explore and understand the edges better, you might take a look at [the bimodal edges list](bimodal/marvel_bimodal_edges.csv) and [the comic book key](http://www.chronologyproject.com/key.php) from the Marvel Chronology Project. For more on the methodology, see [Rosselló, Alberich, and Miro's original article.](https://arxiv.org/pdf/cond-mat/0202174.pdf)
 
 *In order to make this data more accessible for basic social network analysis, I have condensed the network from 6,486 characters to only the top 327 most connected characters, who are connected to at least 8 other characters and with whom they appear in at least 5 different comic books.
 
-**Background & Significance**
+## Background & Significance
 
 The Marvel Universe data lends itself well to basic social network analysis because there are a lot of characters, a lot of communities or teams of characters, and a lot of crossovers between those characters in individual comic books.
 

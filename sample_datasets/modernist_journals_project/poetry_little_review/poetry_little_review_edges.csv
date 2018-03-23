@@ -1,0 +1,2395 @@
+Source,Target,Type,Id,Weight
+"Andelson, Pearl","Roe, Robert J.",Undirected,65079,2
+"Andelson, Pearl","Monroe, Harriet",Undirected,65074,11
+"Andelson, Pearl","Strobel, Marion",Undirected,65070,5
+"Andelson, Pearl","Boyle, Kay",Undirected,65061,2
+"Andelson, Pearl","Freer, Agnes Lee",Undirected,65058,2
+"Andelson, Pearl","Lee, Muna",Undirected,65052,3
+"Andelson, Pearl","Sherry, Laura",Undirected,65049,3
+"Andelson, Pearl","Schneider, Isidor",Undirected,65046,3
+"Andelson, Pearl","Crawford, Nelson Antrim",Undirected,65036,4
+"Andelson, Pearl","Ridge, Lola",Undirected,65033,2
+"Andelson, Pearl","Tietjens, Eunice",Undirected,65029,2
+"Andelson, Pearl","Carnevali, Emanuel",Undirected,65026,3
+"Andelson, Pearl","Winters, Yvor",Undirected,65019,4
+"Andelson, Pearl","Geddes, Virgil",Undirected,65018,2
+"Andelson, Pearl","Untermeyer, Louis",Undirected,65014,2
+"Andelson, Pearl","Ryan, Kathryn White",Undirected,65013,2
+"Andelson, Pearl","Brownell, Baker",Undirected,65011,2
+"Andelson, Pearl","Grudin, Louis",Undirected,65001,2
+"Andelson, Pearl","North, Jessica Nelson",Undirected,64967,2
+"Andelson, Pearl","Garnett, Louise Ayres",Undirected,64942,2
+"Garnett, Louise Ayres","Colum, Padraic",Undirected,65266,2
+"Garnett, Louise Ayres","Monroe, Harriet",Undirected,65261,7
+"Garnett, Louise Ayres","Carnevali, Emanuel",Undirected,65223,3
+"Garnett, Louise Ayres","Sandburg, Carl",Undirected,65210,2
+"Garnett, Louise Ayres","Fletcher, John Gould",Undirected,65193,2
+"Garnett, Louise Ayres","Sherry, Laura",Undirected,65187,2
+"Garnett, Louise Ayres","Peyton, John R. C.",Undirected,65182,2
+"Garnett, Louise Ayres","Aldington, Richard",Undirected,65171,2
+"Garnett, Louise Ayres","Michelson, Max",Undirected,65169,2
+Wang Wei,"Tietjens, Eunice",Undirected,65350,2
+Wang Wei,"Monroe, Harriet",Undirected,65333,2
+"Purdon, Arthur",jh,Undirected,65394,2
+"Purdon, Arthur","Pound, Ezra",Undirected,65388,2
+"Greenhood, David","Winters, Yvor",Undirected,65427,2
+"Greenhood, David","Monroe, Harriet",Undirected,65426,2
+"Laurencin, Marie",jh,Undirected,65570,2
+"Masters, Edgar Lee","Davis, H. L.",Undirected,65780,2
+"Masters, Edgar Lee","O'Brien, Edward J.",Undirected,65772,2
+"Masters, Edgar Lee","Aiken, Conrad",Undirected,65764,2
+"Masters, Edgar Lee","Dell, Floyd",Undirected,65762,2
+"Masters, Edgar Lee","Robinson, Edwin Arlington",Undirected,65757,2
+"Masters, Edgar Lee","Lowell, Amy",Undirected,65756,5
+"Masters, Edgar Lee","Henderson, Alice Corbin",Undirected,65731,10
+"Masters, Edgar Lee","Pound, Ezra",Undirected,65722,2
+"Masters, Edgar Lee","Wilkinson, Marguerite",Undirected,65717,2
+"Masters, Edgar Lee","Lee, Agnes",Undirected,65711,2
+"Masters, Edgar Lee","Lindsay, Vachel",Undirected,65704,3
+"Masters, Edgar Lee","Bodenheim, Maxwell",Undirected,65694,2
+"Masters, Edgar Lee","Bangs, Janet Norris",Undirected,65685,2
+"Masters, Edgar Lee","Frank, Florence Kiper",Undirected,65674,3
+"Masters, Edgar Lee","Tietjens, Eunice",Undirected,65670,2
+"Masters, Edgar Lee","Monroe, Harriet",Undirected,65667,12
+"Masters, Edgar Lee","Widdemer, Margaret",Undirected,65663,2
+"Masters, Edgar Lee","Ficke, Arthur Davison",Undirected,65662,2
+"Masters, Edgar Lee","Zorach, William",Undirected,65661,2
+"Masters, Edgar Lee","Wheelock, John Hall",Undirected,65646,2
+"Masters, Edgar Lee","Foster, George Burman",Undirected,65636,2
+"Masters, Edgar Lee","Aldington, Richard",Undirected,65633,4
+"Masters, Edgar Lee","Turbyfill, Mark",Undirected,65629,2
+"Masters, Edgar Lee","Dawson, Mitchell",Undirected,65623,2
+"Masters, Edgar Lee","Anderson, Sherwood",Undirected,65618,2
+"Masters, Edgar Lee","Fletcher, John Gould",Undirected,65617,5
+"Masters, Edgar Lee","Anderson, Margaret C.",Undirected,65615,3
+"Masters, Edgar Lee","Aldis, Mary",Undirected,65610,2
+"Masters, Edgar Lee","Currey, Margery",Undirected,65600,2
+"Masters, Edgar Lee",The Scavenger',Undirected,65598,2
+"Masters, Edgar Lee","Colum, Padraic",Undirected,65596,4
+"Masters, Edgar Lee","Hecht, Ben",Undirected,65595,2
+"Masters, Edgar Lee","Stevens, Wallace",Undirected,65592,2
+"Masters, Edgar Lee","Michelson, Max",Undirected,65588,2
+"Twitchell, Anna Spencer","Monroe, Harriet",Undirected,65836,3
+"Twitchell, Anna Spencer","Shaw, Frances",Undirected,65826,2
+"Twitchell, Anna Spencer","Henderson, Alice Corbin",Undirected,65824,2
+"Twitchell, Anna Spencer","Tietjens, Eunice",Undirected,65820,2
+"Reed, John","Bynner, Witter",Undirected,65881,2
+"Reed, John","Pound, Ezra",Undirected,65879,2
+"Reed, John","Monroe, Harriet",Undirected,65869,4
+"Reed, John","Lowell, Amy",Undirected,65855,2
+"Reed, John","Henderson, Alice Corbin",Undirected,65852,3
+"Anderson, Margaret C.","Hecht, Ben",Undirected,66180,8
+"Anderson, Margaret C.","Schuchert, Herman",Undirected,66177,8
+"Anderson, Margaret C.","Hoyt, Helen",Undirected,66173,6
+"Anderson, Margaret C.","O'Brien, Edward J.",Undirected,66171,3
+"Anderson, Margaret C.","Wells, H. G.",Undirected,66166,2
+"Anderson, Margaret C.","Lowell, Amy",Undirected,66157,13
+"Anderson, Margaret C.","Tagore, Rabindranath",Undirected,66155,2
+"Anderson, Margaret C.","Soule, George",Undirected,66154,10
+"Anderson, Margaret C.","Stearns, Mary Adams",Undirected,66153,3
+"Anderson, Margaret C.","Gabirol, Ibn",Undirected,66152,4
+"Anderson, Margaret C.","Currey, Margery",Undirected,66150,2
+"Anderson, Margaret C.","Carter, Huntley",Undirected,66149,2
+"Anderson, Margaret C.","Nietzsche, Friedrich",Undirected,66147,8
+"Anderson, Margaret C.","Knopf, Alfred A.",Undirected,66146,3
+"Anderson, Margaret C.","Powys, John Cowper",Undirected,66127,4
+"Anderson, Margaret C.","Maeterlinck, Maurice",Undirected,66124,2
+"Anderson, Margaret C.","Goldman, Emma",Undirected,66123,2
+"Anderson, Margaret C.",C. A. Z.,Undirected,66119,2
+"Anderson, Margaret C.","Tietjens, Eunice",Undirected,66114,9
+"Anderson, Margaret C.",K.,Undirected,66111,10
+"Anderson, Margaret C.","Pound, Ezra",Undirected,66110,2
+"Anderson, Margaret C.","Lampman, Rex",Undirected,66106,2
+"Anderson, Margaret C.",Anonymous,Undirected,66097,3
+"Anderson, Margaret C.","Lindsay, Nicholas Vachel",Undirected,66094,2
+"Anderson, Margaret C.",M. C. A.,Undirected,66086,7
+"Anderson, Margaret C.","Simon, Anne",Undirected,66084,2
+"Anderson, Margaret C.","York, Virginia",Undirected,66083,2
+"Anderson, Margaret C.",M. H. P.,Undirected,66081,3
+"Anderson, Margaret C.","Comfort, Will Levington",Undirected,66078,5
+"Anderson, Margaret C.","Ashleigh, Charles",Undirected,66076,4
+"Anderson, Margaret C.","Cann, Louise Gebhard",Undirected,66075,2
+"Anderson, Margaret C.","De Braila, Lupo",Undirected,66072,3
+"Anderson, Margaret C.","Bodenheim, Maxwell",Undirected,66071,7
+"Anderson, Margaret C.","Carr, Daphne",Undirected,66070,2
+"Anderson, Margaret C.","Macdougall, Allan Ross",Undirected,66068,4
+"Anderson, Margaret C.","Sell, Henry Blackman",Undirected,66063,3
+"Anderson, Margaret C.","Groff, Alice",Undirected,66062,5
+"Anderson, Margaret C.","O'Neil, David",Undirected,66060,2
+"Anderson, Margaret C.","Jones, Llewellyn",Undirected,66059,5
+"Anderson, Margaret C.","Swawite, Marguerite",Undirected,66056,6
+"Anderson, Margaret C.","Cannell, Skipwith",Undirected,66049,2
+"Anderson, Margaret C.","Rolland, Romain",Undirected,66048,3
+"Anderson, Margaret C.","Frank, Florence Kiper",Undirected,66047,4
+"Anderson, Margaret C.",R.,Undirected,66040,2
+"Anderson, Margaret C.","Shanafelt, Clara",Undirected,66037,2
+"Anderson, Margaret C.","Bynner, Witter",Undirected,66033,4
+"Anderson, Margaret C.",M. B.,Undirected,66031,2
+"Anderson, Margaret C.","Ficke, Arthur Davison",Undirected,66022,11
+"Anderson, Margaret C.","Chenery, William L.",Undirected,66018,2
+"Anderson, Margaret C.","Stephens, James",Undirected,66015,2
+"Anderson, Margaret C.",A. S. K.,Undirected,66014,3
+"Anderson, Margaret C.",A. E.,Undirected,66013,2
+"Anderson, Margaret C.",jh,Undirected,66011,3
+"Anderson, Margaret C.","Whitman, Walt",Undirected,66010,2
+"Anderson, Margaret C.",M. A. S.,Undirected,66003,2
+"Anderson, Margaret C.","Wilde, Oscar",Undirected,66002,2
+"Anderson, Margaret C.","Kaun, Alexander S.",Undirected,65997,11
+"Anderson, Margaret C.","Iverson, Sade",Undirected,65989,3
+"Anderson, Margaret C.","Bauer, Harold",Undirected,65988,2
+"Anderson, Margaret C.","Dean, Harriet",Undirected,65987,2
+"Anderson, Margaret C.","Foster, George Burman",Undirected,65984,11
+"Anderson, Margaret C.",H. D.,Undirected,65982,3
+"Anderson, Margaret C.","Schnack, Fritz",Undirected,65980,3
+"Anderson, Margaret C.",R. G.,Undirected,65978,3
+"Anderson, Margaret C.","Sandburg, Carl",Undirected,65976,2
+"Anderson, Margaret C.","Zwaska, Charles",Undirected,65974,2
+"Anderson, Margaret C.","Hutchinson, Eugene",Undirected,65968,2
+"Anderson, Margaret C.","Wing, DeWitt C.",Undirected,65964,4
+"Anderson, Margaret C.","Dawson, Mitchell",Undirected,65963,6
+"Anderson, Margaret C.","Shanks, E. Buxton",Undirected,65961,2
+"Anderson, Margaret C.","Anderson, Sherwood",Undirected,65956,6
+"Anderson, Margaret C.","Fletcher, John Gould",Undirected,65954,4
+"Anderson, Margaret C.","Aldington, Richard",Undirected,65952,13
+"Anderson, Margaret C.","Aldis, Mary",Undirected,65945,3
+"Anderson, Margaret C.","Goethe, Johann Wolfgang",Undirected,65943,2
+"Anderson, Margaret C.","Cowan, Sada",Undirected,65935,2
+"Anderson, Margaret C.","Saphier, William",Undirected,65930,7
+"Anderson, Margaret C.",The Scavenger',Undirected,65928,4
+"Anderson, Margaret C.","Davis, F. Guy",Undirected,65927,2
+"Anderson, Margaret C.","Flint, F. S.",Undirected,65924,3
+"Stone, Lee A.","Chenery, William L.",Undirected,66243,2
+"Stone, Lee A.","Tietjens, Eunice",Undirected,66242,2
+"Stone, Lee A.","Wing, DeWitt C.",Undirected,66241,2
+"Stone, Lee A.","Saphier, William",Undirected,66227,2
+"Stone, Lee A.","Soule, George",Undirected,66219,2
+"Stone, Lee A.",M. H. P.,Undirected,66210,2
+"Stone, Lee A.","Jones, Llewellyn",Undirected,66190,2
+"Stone, Lee A.","Foster, George Burman",Undirected,66185,2
+"Davis, F. Guy","Tietjens, Eunice",Undirected,66291,2
+"Davis, F. Guy","Nietzsche, Friedrich",Undirected,66290,2
+"Davis, F. Guy",K.,Undirected,66289,2
+"Davis, F. Guy","Comfort, Will Levington",Undirected,66282,2
+"Davis, F. Guy","Schuchert, Herman",Undirected,66268,2
+"Davis, F. Guy","Hecht, Ben",Undirected,66259,2
+"Davis, F. Guy","Aldington, Richard",Undirected,66247,2
+"Holden, Raymond","Monroe, Harriet",Undirected,66320,2
+"Holden, Raymond","Morton, David",Undirected,66299,2
+"Dudley, Dorothy","Monroe, Harriet",Undirected,66489,12
+"Dudley, Dorothy","Wood, Clement",Undirected,66476,3
+"Dudley, Dorothy","Stevens, Wallace",Undirected,66469,2
+"Dudley, Dorothy","Henderson, Alice Corbin",Undirected,66447,8
+"Dudley, Dorothy","Tietjens, Eunice",Undirected,66440,3
+"Dudley, Dorothy","Brownell, Baker",Undirected,66439,2
+"Dudley, Dorothy","Sandburg, Carl",Undirected,66437,2
+"Dudley, Dorothy","Pound, Ezra",Undirected,66436,2
+"Dudley, Dorothy","Dresbach, Glenn Ward",Undirected,66427,2
+"Dudley, Dorothy","Wilkinson, Marguerite",Undirected,66425,2
+"Dudley, Dorothy","Fletcher, John Gould",Undirected,66413,3
+"Dudley, Dorothy","Conkling, Grace Hazard",Undirected,66408,2
+"Dudley, Dorothy","Colum, Padraic",Undirected,66394,2
+"Dudley, Dorothy","Lowell, Amy",Undirected,66389,2
+"Dudley, Dorothy","Williams, William Carlos",Undirected,66372,2
+"D'Orge, Jeanne",Anonymous,Undirected,66657,2
+"D'Orge, Jeanne","Henderson, Alice Corbin",Undirected,66626,2
+"Aldis, Mary","Colum, Padraic",Undirected,66880,2
+"Aldis, Mary","Lowell, Amy",Undirected,66879,2
+"Aldis, Mary","Kaun, Alexander S.",Undirected,66834,2
+"Aldis, Mary","Powys, John Cowper",Undirected,66828,2
+"Aldis, Mary","Henderson, Alice Corbin",Undirected,66821,3
+"Aldis, Mary","Monroe, Harriet",Undirected,66820,5
+"Aldis, Mary","Swawite, Marguerite",Undirected,66813,2
+"Aldis, Mary","Hunt, Richard",Undirected,66794,2
+"Aldis, Mary","Anderson, Sherwood",Undirected,66793,2
+"Aldis, Mary","Fletcher, John Gould",Undirected,66791,2
+"Aldis, Mary","Foster, George Burman",Undirected,66789,2
+"Aldis, Mary","Bodenheim, Maxwell",Undirected,66772,2
+"Aldis, Mary","Aldington, Richard",Undirected,66763,3
+"Aldis, Mary","Michelson, Max",Undirected,66759,2
+"Aldis, Mary","Cannell, Skipwith",Undirected,66755,2
+"Aldis, Mary","Williams, William Carlos",Undirected,66752,2
+"Conkling, Grace Hazard","Tietjens, Eunice",Undirected,66961,2
+"Conkling, Grace Hazard","Gilbert, Morris",Undirected,66959,2
+"Conkling, Grace Hazard","Sandburg, Carl",Undirected,66958,3
+"Conkling, Grace Hazard","Pound, Ezra",Undirected,66957,3
+"Conkling, Grace Hazard","Fletcher, John Gould",Undirected,66948,2
+"Conkling, Grace Hazard","Monroe, Harriet",Undirected,66943,7
+"Conkling, Grace Hazard","Dudley, Helen",Undirected,66939,2
+"Conkling, Grace Hazard","Lowell, Amy",Undirected,66932,3
+"Conkling, Grace Hazard","Henderson, Alice Corbin",Undirected,66929,4
+"Conkling, Grace Hazard","Bodenheim, Maxwell",Undirected,66911,2
+"Conkling, Grace Hazard","Catel, Jean",Undirected,66909,2
+"Conkling, Grace Hazard","Crawford, Nelson Antrim",Undirected,66908,2
+"Conkling, Grace Hazard","Stevens, Wallace",Undirected,66903,2
+"Conkling, Grace Hazard","Wheelock, John Hall",Undirected,66895,2
+"Bryant, Louise","Aldington, Richard",Undirected,66975,2
+"Scollard, Clinton","Monroe, Harriet",Undirected,67002,2
+"Fletcher, John Gould","Schuchert, Herman",Undirected,67393,3
+"Fletcher, John Gould","Wyatt, Edith",Undirected,67390,3
+"Fletcher, John Gould","Hoyt, Helen",Undirected,67388,2
+"Fletcher, John Gould","Jones, Howard Mumford",Undirected,67386,2
+"Fletcher, John Gould","Freer, Agnes Lee",Undirected,67382,3
+"Fletcher, John Gould","Lawrence, D. H.",Undirected,67376,3
+"Fletcher, John Gould","Wilkinson, Florence",Undirected,67372,3
+"Fletcher, John Gould","Soule, George",Undirected,67370,2
+"Fletcher, John Gould","Nietzsche, Friedrich",Undirected,67362,2
+"Fletcher, John Gould","Hecht, Ben",Undirected,67354,2
+"Fletcher, John Gould","Benét, William Rose",Undirected,67353,2
+"Fletcher, John Gould","Saphier, William",Undirected,67346,3
+"Fletcher, John Gould","Wood, Clement",Undirected,67344,3
+"Fletcher, John Gould","Powys, John Cowper",Undirected,67339,2
+"Fletcher, John Gould","Carnevali, Emanuel",Undirected,67335,5
+"Fletcher, John Gould","Henderson, Alice Corbin",Undirected,67330,14
+"Fletcher, John Gould","Skinner, Constance Lindsay",Undirected,67326,2
+"Fletcher, John Gould","Tietjens, Eunice",Undirected,67322,4
+"Fletcher, John Gould",K.,Undirected,67319,2
+"Fletcher, John Gould","Pound, Ezra",Undirected,67318,9
+"Fletcher, John Gould","Hunt, Richard",Undirected,67298,2
+"Fletcher, John Gould",M. C. A.,Undirected,67292,2
+"Fletcher, John Gould",H. H.,Undirected,67288,2
+"Fletcher, John Gould","Rodker, John",Undirected,67284,2
+"Fletcher, John Gould","Corbin, Alice",Undirected,67273,3
+"Fletcher, John Gould","Bodenheim, Maxwell",Undirected,67271,4
+"Fletcher, John Gould","Aldington, Richard",Undirected,67255,6
+"Fletcher, John Gould","Glaenzer, Richard Butler",Undirected,67251,2
+"Fletcher, John Gould","Cannell, Skipwith",Undirected,67244,3
+"Fletcher, John Gould","Lowell, Amy",Undirected,67233,9
+"Fletcher, John Gould","Bynner, Witter",Undirected,67228,3
+"Fletcher, John Gould","Sandburg, Carl",Undirected,67217,2
+"Fletcher, John Gould","Gibson, Wilfrid Wilson",Undirected,67206,2
+"Fletcher, John Gould","Trench, Herbert",Undirected,67203,2
+"Fletcher, John Gould","Gordon, Frank S.",Undirected,67196,2
+"Fletcher, John Gould","Kaun, Alexander S.",Undirected,67191,4
+"Fletcher, John Gould","Knopf, Alfred A.",Undirected,67187,2
+"Fletcher, John Gould","Teasdale, Sara",Undirected,67186,2
+"Fletcher, John Gould","Foster, George Burman",Undirected,67176,2
+"Fletcher, John Gould","Scott, Evelyn",Undirected,67174,2
+"Fletcher, John Gould",H. D.,Undirected,67173,3
+"Fletcher, John Gould","Untermeyer, Louis",Undirected,67170,2
+"Fletcher, John Gould","Bangs, Janet Norris",Undirected,67169,2
+"Fletcher, John Gould","McCarthy, John Russell",Undirected,67165,2
+"Fletcher, John Gould","Wheelock, John Hall",Undirected,67163,2
+"Fletcher, John Gould","Turbyfill, Mark",Undirected,67160,4
+"Fletcher, John Gould","Monroe, Harriet",Undirected,67155,23
+"Fletcher, John Gould","Dresbach, Glenn Ward",Undirected,67153,3
+"Fletcher, John Gould","Dawson, Mitchell",Undirected,67151,2
+"Fletcher, John Gould","Hueffer, Ford Madox",Undirected,67149,2
+"Fletcher, John Gould","Seiffert, Marjorie Allen",Undirected,67147,3
+"Fletcher, John Gould","Anderson, Sherwood",Undirected,67145,2
+"Fletcher, John Gould","Kilmer, Joyce",Undirected,67133,2
+"Fletcher, John Gould","Johns, Orrick",Undirected,67130,2
+"Fletcher, John Gould","Colum, Padraic",Undirected,67123,3
+"Fletcher, John Gould","Flint, F. S.",Undirected,67122,3
+"Fletcher, John Gould","Lee, Agnes",Undirected,67119,3
+"Fletcher, John Gould","Stevens, Wallace",Undirected,67116,3
+"Fletcher, John Gould","Frank, Florence Kiper",Undirected,67112,2
+"Fletcher, John Gould","Michelson, Max",Undirected,67105,3
+"Shanks, E. Buxton","Tietjens, Eunice",Undirected,67475,2
+"Shanks, E. Buxton","Schuchert, Herman",Undirected,67470,2
+"Shanks, E. Buxton","Saphier, William",Undirected,67460,2
+"Shanks, E. Buxton","Soule, George",Undirected,67453,2
+"Shanks, E. Buxton","Goethe, Johann Wolfgang",Undirected,67447,2
+"Shanks, E. Buxton","Bodenheim, Maxwell",Undirected,67438,2
+"Shanks, E. Buxton","Gabirol, Ibn",Undirected,67433,2
+"Shanks, E. Buxton",M. C. A.,Undirected,67430,2
+"Shanks, E. Buxton",K.,Undirected,67429,2
+"Shanks, E. Buxton","Foster, George Burman",Undirected,67427,2
+"Dawson, Mitchell","Hoyt, Helen",Undirected,67659,3
+"Dawson, Mitchell","Bynner, Witter",Undirected,67656,3
+"Dawson, Mitchell","Comfort, Will Levington",Undirected,67654,3
+"Dawson, Mitchell","York, Virginia",Undirected,67650,2
+"Dawson, Mitchell","Ficke, Arthur Davison",Undirected,67645,2
+"Dawson, Mitchell","Lowell, Amy",Undirected,67641,4
+"Dawson, Mitchell",C. A. Z.,Undirected,67639,2
+"Dawson, Mitchell","Soule, George",Undirected,67638,2
+"Dawson, Mitchell","Kaun, Alexander S.",Undirected,67633,3
+"Dawson, Mitchell","Nietzsche, Friedrich",Undirected,67629,3
+"Dawson, Mitchell",Anonymous,Undirected,67620,2
+"Dawson, Mitchell",K.,Undirected,67607,4
+"Dawson, Mitchell",jh,Undirected,67604,2
+"Dawson, Mitchell",H. D.,Undirected,67599,4
+"Dawson, Mitchell","Schnack, Fritz",Undirected,67596,3
+"Dawson, Mitchell","Symons, Arthur",Undirected,67594,2
+"Dawson, Mitchell","Dean, Harriet",Undirected,67590,3
+"Dawson, Mitchell","Zwaska, Charles",Undirected,67589,2
+"Dawson, Mitchell","Lampman, Rex",Undirected,67583,2
+"Dawson, Mitchell","Schuchert, Herman",Undirected,67579,2
+"Dawson, Mitchell","Saphier, William",Undirected,67574,3
+"Dawson, Mitchell","Anderson, Sherwood",Undirected,67567,4
+"Dawson, Mitchell",M. C. A.,Undirected,67562,3
+"Dawson, Mitchell","Sandburg, Carl",Undirected,67554,2
+"Dawson, Mitchell","De Braila, Lupo",Undirected,67549,2
+"Dawson, Mitchell","Macdougall, Allan Ross",Undirected,67545,3
+"Dawson, Mitchell","Hecht, Ben",Undirected,67544,3
+"Dawson, Mitchell","Flint, F. S.",Undirected,67543,3
+"Dawson, Mitchell","Groff, Alice",Undirected,67539,4
+"Dawson, Mitchell","Frank, Florence Kiper",Undirected,67536,3
+"Dawson, Mitchell","Aldington, Richard",Undirected,67534,5
+"Dawson, Mitchell","Bodenheim, Maxwell",Undirected,67529,2
+"Selva, Salomón de la","Pound, Ezra",Undirected,67862,2
+"Selva, Salomón de la","Monroe, Harriet",Undirected,67855,3
+"Selva, Salomón de la","Michelson, Max",Undirected,67848,2
+"Selva, Salomón de la",H. H.,Undirected,67842,2
+"De Gourmont, Remy","Pound, Ezra",Undirected,67971,3
+"De Gourmont, Remy",jh,Undirected,67965,3
+"De Gourmont, Remy","Monroe, Harriet",Undirected,67962,2
+"De Gourmont, Remy","Lewis, Wyndham",Undirected,67961,3
+"De Gourmont, Remy","Anderson, Margaret",Undirected,67949,3
+"Winters, A. Y.","Richardson, Dorothy",Undirected,68277,2
+"Winters, A. Y.","Rodker, John",Undirected,68269,2
+"Winters, A. Y.","Hartley, Marsden",Undirected,68268,2
+"Winters, A. Y.",M. C. A.,Undirected,68262,2
+"Winters, A. Y.","Bodenheim, Maxwell",Undirected,68253,2
+"Winters, A. Y.","Carnevali, Emanuel",Undirected,68249,2
+A. S.,jh,Undirected,68305,2
+A. S.,"Crane, Hart",Undirected,68286,2
+"Ridge, Lola",jh,Undirected,68399,2
+"Ridge, Lola","Bynner, Witter",Undirected,68397,2
+"Ridge, Lola","Monroe, Harriet",Undirected,68396,5
+"Ridge, Lola","Rodker, John",Undirected,68392,2
+"Ridge, Lola","Schneider, Isidor",Undirected,68378,2
+"Ridge, Lola","Crawford, Nelson Antrim",Undirected,68372,2
+"Ridge, Lola","Carnevali, Emanuel",Undirected,68366,2
+"Ridge, Lola","Gilmore, Louis",Undirected,68358,2
+"Ridge, Lola","Winters, Yvor",Undirected,68356,2
+"Ridge, Lola","Pound, Ezra",Undirected,68353,2
+"Ridge, Lola","Freer, Agnes Lee",Undirected,68349,2
+"Ridge, Lola","Wheelock, John Hall",Undirected,68348,2
+"Loy, Mina","Anderson, Margaret",Undirected,68475,2
+"Loy, Mina","von Freytag-Loringhoven, Else",Undirected,68474,3
+"Loy, Mina",jh,Undirected,68470,3
+"Loy, Mina","Rodker, John",Undirected,68461,2
+"Loy, Mina",M. C. A.,Undirected,68449,2
+"Loy, Mina","Barnes, Djuna",Undirected,68445,2
+"Loy, Mina","Butts, Mary",Undirected,68442,3
+"Crawford, Nelson Antrim","Lowell, Amy",Undirected,68630,3
+"Crawford, Nelson Antrim","Winters, Yvor",Undirected,68623,2
+"Crawford, Nelson Antrim","Monroe, Harriet",Undirected,68622,14
+"Crawford, Nelson Antrim","Stewart, H. W.",Undirected,68601,3
+"Crawford, Nelson Antrim","Rilke, Rainer Maria",Undirected,68597,2
+"Crawford, Nelson Antrim","Schneider, Isidor",Undirected,68591,4
+"Crawford, Nelson Antrim","Sherry, Laura",Undirected,68585,4
+"Crawford, Nelson Antrim","Ciolkowska, Muriel",Undirected,68582,2
+"Crawford, Nelson Antrim","Carnevali, Emanuel",Undirected,68572,6
+"Crawford, Nelson Antrim","Henderson, Alice Corbin",Undirected,68567,5
+"Crawford, Nelson Antrim","Piper, Edwin Ford",Undirected,68564,3
+"Crawford, Nelson Antrim","Tietjens, Eunice",Undirected,68559,3
+"Crawford, Nelson Antrim","McAlmon, Robert",Undirected,68550,2
+"Crawford, Nelson Antrim","Davis, H. L.",Undirected,68545,2
+"Crawford, Nelson Antrim","Kilmer, Aline",Undirected,68526,2
+"Crawford, Nelson Antrim",N. A. C.,Undirected,68520,2
+"Crawford, Nelson Antrim","Sapir, Edward",Undirected,68517,3
+"Crawford, Nelson Antrim","Freer, Agnes Lee",Undirected,68513,2
+"Crawford, Nelson Antrim","Bodenheim, Maxwell",Undirected,68511,2
+"Crawford, Nelson Antrim","Strobel, Marion",Undirected,68510,4
+"Crawford, Nelson Antrim","Catel, Jean",Undirected,68509,2
+"Crawford, Nelson Antrim","Wescott, Glenway",Undirected,68507,3
+"Crawford, Nelson Antrim","Stevens, Wallace",Undirected,68501,2
+"Crawford, Nelson Antrim","Ficke, Arthur Davison",Undirected,68499,2
+"Crawford, Nelson Antrim","Aldington, Richard",Undirected,68494,4
+"Towne, Charles Hanson","Pound, Ezra",Undirected,68666,2
+"Towne, Charles Hanson","Monroe, Harriet",Undirected,68653,2
+"Long, Lily A.","Wyatt, Edith",Undirected,68911,2
+"Long, Lily A.","Monroe, Harriet",Undirected,68907,2
+"Kaun, Alexander S.","Wing, DeWitt C.",Undirected,69113,3
+"Kaun, Alexander S.","Schuchert, Herman",Undirected,69112,4
+"Kaun, Alexander S.","Lowell, Amy",Undirected,69095,6
+"Kaun, Alexander S.","Soule, George",Undirected,69093,6
+"Kaun, Alexander S.","Carter, Huntley",Undirected,69089,2
+"Kaun, Alexander S.","Nietzsche, Friedrich",Undirected,69087,6
+"Kaun, Alexander S.","York, Virginia",Undirected,69085,2
+"Kaun, Alexander S.","Hecht, Ben",Undirected,69082,5
+"Kaun, Alexander S.","Powys, John Cowper",Undirected,69073,4
+"Kaun, Alexander S.","Maeterlinck, Maurice",Undirected,69071,2
+"Kaun, Alexander S.",C. A. Z.,Undirected,69068,3
+"Kaun, Alexander S.","Tietjens, Eunice",Undirected,69064,4
+"Kaun, Alexander S.","De Braila, Lupo",Undirected,69061,2
+"Kaun, Alexander S.","Pound, Ezra",Undirected,69060,3
+"Kaun, Alexander S.",M. B.,Undirected,69058,2
+"Kaun, Alexander S.","Swawite, Marguerite",Undirected,69055,4
+"Kaun, Alexander S.","Lindsay, Nicholas Vachel",Undirected,69052,2
+"Kaun, Alexander S.",K.,Undirected,69048,6
+"Kaun, Alexander S.","Sell, Henry Blackman",Undirected,69046,2
+"Kaun, Alexander S.","Foster, George Burman",Undirected,69045,6
+"Kaun, Alexander S.",M. C. A.,Undirected,69044,3
+"Kaun, Alexander S.","Ashleigh, Charles",Undirected,69037,3
+"Kaun, Alexander S.","Bodenheim, Maxwell",Undirected,69033,3
+"Kaun, Alexander S.","Macdougall, Allan Ross",Undirected,69031,2
+"Kaun, Alexander S.","Groff, Alice",Undirected,69026,2
+"Kaun, Alexander S.","O'Neil, David",Undirected,69025,2
+"Kaun, Alexander S.","Aldington, Richard",Undirected,69021,7
+"Kaun, Alexander S.","Cannell, Skipwith",Undirected,69015,2
+"Kaun, Alexander S.","Rolland, Romain",Undirected,69014,2
+"Kaun, Alexander S.","Frank, Florence Kiper",Undirected,69013,2
+"Kaun, Alexander S.","Shanafelt, Clara",Undirected,69008,2
+"Kaun, Alexander S.","Bynner, Witter",Undirected,69006,3
+"Kaun, Alexander S.","Comfort, Will Levington",Undirected,69004,2
+"Kaun, Alexander S.","Ficke, Arthur Davison",Undirected,69002,7
+"Kaun, Alexander S.","Chenery, William L.",Undirected,68999,2
+"Kaun, Alexander S.","Wilde, Oscar",Undirected,68994,2
+"Kaun, Alexander S.","Goldman, Emma",Undirected,68993,3
+"Kaun, Alexander S.","Knopf, Alfred A.",Undirected,68992,2
+"Kaun, Alexander S.","Dean, Harriet",Undirected,68989,2
+"Kaun, Alexander S.","Schnack, Fritz",Undirected,68983,2
+"Kaun, Alexander S.",R. G.,Undirected,68982,2
+"Kaun, Alexander S.","Sandburg, Carl",Undirected,68980,2
+"Kaun, Alexander S.","Anderson, Sherwood",Undirected,68971,4
+"Kaun, Alexander S.",R.,Undirected,68968,2
+"Kaun, Alexander S.","Cowan, Sada",Undirected,68963,2
+"Kaun, Alexander S.","Saphier, William",Undirected,68960,4
+"Kaun, Alexander S.",The Scavenger',Undirected,68959,2
+"Kaun, Alexander S.","Flint, F. S.",Undirected,68958,2
+A. E.,"Tietjens, Eunice",Undirected,69169,2
+A. E.,"Nietzsche, Friedrich",Undirected,69167,2
+A. E.,"Lowell, Amy",Undirected,69149,2
+A. E.,"Soule, George",Undirected,69146,2
+A. E.,M. C. A.,Undirected,69145,2
+A. E.,"Schuchert, Herman",Undirected,69144,2
+A. E.,K.,Undirected,69131,2
+A. E.,"Iverson, Sade",Undirected,69126,2
+A. E.,"Jones, Llewellyn",Undirected,69125,2
+"Buzzell, Francis","Pound, Ezra",Undirected,69241,2
+"Buzzell, Francis","Monroe, Harriet",Undirected,69234,2
+"Arnold, Matthew","Tietjens, Eunice",Undirected,69344,2
+"Arnold, Matthew","Wing, DeWitt C.",Undirected,69343,2
+"Arnold, Matthew","Wells, H. G.",Undirected,69329,2
+"Arnold, Matthew","Butler, Samuel",Undirected,69327,2
+"Arnold, Matthew",D. C. W.,Undirected,69325,2
+"Arnold, Matthew","Ficke, Arthur Davison",Undirected,69323,2
+"Arnold, Matthew","Anderson, Sherwood",Undirected,69319,2
+"Arnold, Matthew","Soule, George",Undirected,69315,2
+"Arnold, Matthew","Iverson, Sade",Undirected,69311,2
+"Arnold, Matthew",M. H. P.,Undirected,69307,2
+"Arnold, Matthew","Nietzsche, Friedrich",Undirected,69306,2
+"Arnold, Matthew","Sell, Henry Blackman",Undirected,69290,2
+"Arnold, Matthew","Jones, Llewellyn",Undirected,69286,2
+"Arnold, Matthew","Foster, George Burman",Undirected,69281,2
+"Robinson, Eloise","Monroe, Harriet",Undirected,69383,3
+"Robinson, Eloise","Sandburg, Carl",Undirected,69381,2
+"Robinson, Eloise",H. H.,Undirected,69364,2
+"Robinson, Eloise","Henderson, Alice Corbin",Undirected,69349,2
+"Zorach, William","Monroe, Harriet",Undirected,69480,2
+"Zorach, William","Henderson, Alice Corbin",Undirected,69463,2
+"Widdemer, Margaret","Sandburg, Carl",Undirected,69537,2
+"Widdemer, Margaret","Monroe, Harriet",Undirected,69532,4
+"Widdemer, Margaret","Lindsay, Vachel",Undirected,69525,2
+"Widdemer, Margaret","Campbell, Joseph",Undirected,69514,2
+"Widdemer, Margaret","Pound, Ezra",Undirected,69504,3
+"Widdemer, Margaret","Aldington, Richard",Undirected,69502,3
+"Widdemer, Margaret","Henderson, Alice Corbin",Undirected,69501,2
+"Comfort, Will Levington","Schuchert, Herman",Undirected,69664,3
+"Comfort, Will Levington","Hoyt, Helen",Undirected,69662,2
+"Comfort, Will Levington","Bynner, Witter",Undirected,69660,2
+"Comfort, Will Levington","Ficke, Arthur Davison",Undirected,69655,3
+"Comfort, Will Levington","Lowell, Amy",Undirected,69652,3
+"Comfort, Will Levington","Soule, George",Undirected,69649,2
+"Comfort, Will Levington",M. C. A.,Undirected,69646,2
+"Comfort, Will Levington","Carter, Huntley",Undirected,69645,2
+"Comfort, Will Levington","Nietzsche, Friedrich",Undirected,69642,3
+"Comfort, Will Levington","Hecht, Ben",Undirected,69639,4
+"Comfort, Will Levington",K.,Undirected,69631,4
+"Comfort, Will Levington","Foster, George Burman",Undirected,69630,2
+"Comfort, Will Levington",H. D.,Undirected,69628,2
+"Comfort, Will Levington","Schnack, Fritz",Undirected,69626,2
+"Comfort, Will Levington","Tietjens, Eunice",Undirected,69625,2
+"Comfort, Will Levington","Hutchinson, Eugene",Undirected,69622,2
+"Comfort, Will Levington","Saphier, William",Undirected,69620,2
+"Comfort, Will Levington","Bodenheim, Maxwell",Undirected,69602,2
+"Comfort, Will Levington","Flint, F. S.",Undirected,69599,2
+"Comfort, Will Levington","Aldington, Richard",Undirected,69593,5
+"Comfort, Will Levington",The Scavenger',Undirected,69590,3
+"Comfort, Will Levington","Frank, Florence Kiper",Undirected,69587,3
+"Taggard, Genevieve","Tietjens, Eunice",Undirected,69706,2
+"Taggard, Genevieve","Monroe, Harriet",Undirected,69702,3
+"Taggard, Genevieve","Strobel, Marion",Undirected,69679,2
+"Bynner, Witter","Hoyt, Helen",Undirected,69936,4
+"Bynner, Witter","Richardson, Dorothy",Undirected,69923,4
+"Bynner, Witter","Nietzsche, Friedrich",Undirected,69915,2
+"Bynner, Witter","Wolff, Adolf",Undirected,69910,2
+"Bynner, Witter","Deutsch, Babette",Undirected,69903,2
+"Bynner, Witter","Carnevali, Emanuel",Undirected,69887,3
+"Bynner, Witter",jh,Undirected,69884,5
+"Bynner, Witter","Joyce, James",Undirected,69883,4
+"Bynner, Witter","Henderson, Alice Corbin",Undirected,69882,4
+"Bynner, Witter","Butts, Mary",Undirected,69881,2
+"Bynner, Witter",C. A. Z.,Undirected,69880,2
+"Bynner, Witter","Pound, Ezra",Undirected,69868,6
+"Bynner, Witter","Monro, Harold",Undirected,69862,3
+"Bynner, Witter",M. C. A.,Undirected,69847,3
+"Bynner, Witter","Ashleigh, Charles",Undirected,69846,2
+"Bynner, Witter","Bodenheim, Maxwell",Undirected,69829,4
+"Bynner, Witter","Groff, Alice",Undirected,69824,2
+"Bynner, Witter","Lowell, Amy",Undirected,69822,7
+"Bynner, Witter","Scott, Evelyn",Undirected,69821,2
+"Bynner, Witter","Frank, Florence Kiper",Undirected,69811,2
+"Bynner, Witter","Williams, William Carlos",Undirected,69809,5
+"Bynner, Witter","Fuller, Henry B.",Undirected,69808,2
+"Bynner, Witter","Kiang Kang-Hu, S. C.",Undirected,69803,2
+"Bynner, Witter","Tietjens, Eunice",Undirected,69799,3
+"Bynner, Witter","Solon, Israel",Undirected,69797,2
+"Bynner, Witter","Winters, Yvor",Undirected,69796,2
+"Bynner, Witter",M. B.,Undirected,69795,2
+"Bynner, Witter","Rodker, John",Undirected,69791,2
+"Bynner, Witter","Ficke, Arthur Davison",Undirected,69788,3
+"Bynner, Witter","von Freytag-Loringhoven, Else",Undirected,69783,2
+"Bynner, Witter",K.,Undirected,69760,3
+"Bynner, Witter","Foster, George Burman",Undirected,69758,2
+"Bynner, Witter","Untermeyer, Louis",Undirected,69754,2
+"Bynner, Witter","Gilmore, Louis",Undirected,69753,2
+"Bynner, Witter","Aldington, Richard",Undirected,69749,3
+"Bynner, Witter","Monroe, Harriet",Undirected,69743,8
+"Bynner, Witter","Hutchinson, Eugene",Undirected,69742,2
+"Bynner, Witter","Anderson, Sherwood",Undirected,69733,5
+"Bynner, Witter",The Scavenger',Undirected,69720,2
+"Bynner, Witter","Hecht, Ben",Undirected,69717,3
+"Bynner, Witter","Symons, Arthur",Undirected,69710,2
+"Bynner, Witter","Simpson, William H.",Undirected,69709,2
+"Cromwell, Gladys","Pound, Ezra",Undirected,69957,2
+"Cromwell, Gladys","Kreymborg, Alfred",Undirected,69953,2
+"Cromwell, Gladys","Monroe, Harriet",Undirected,69948,2
+"Puteklis, Louis","Pound, Ezra",Undirected,70074,2
+"Puteklis, Louis","Joyce, James",Undirected,70050,2
+"Puteklis, Louis",jh,Undirected,70042,3
+"Kiang Kang-Hu, S. C.","Pound, Ezra",Undirected,70165,2
+"Kiang Kang-Hu, S. C.","Richardson, Dorothy",Undirected,70164,2
+"Kiang Kang-Hu, S. C.",jh,Undirected,70161,2
+"Kiang Kang-Hu, S. C.","Anderson, Sherwood",Undirected,70154,2
+"Kiang Kang-Hu, S. C.","Bodenheim, Maxwell",Undirected,70140,2
+"Kiang Kang-Hu, S. C.","Joyce, James",Undirected,70128,2
+"Kiang Kang-Hu, S. C.","Williams, William Carlos",Undirected,70121,2
+R.,K.,Undirected,70202,2
+R.,"Schuchert, Herman",Undirected,70197,2
+R.,"Aldington, Richard",Undirected,70171,2
+"Catel, Jean","Tietjens, Eunice",Undirected,70265,3
+"Catel, Jean","Monroe, Harriet",Undirected,70260,6
+"Catel, Jean","Williams, Oscar",Undirected,70255,2
+"Catel, Jean","Henderson, Alice Corbin",Undirected,70246,2
+"Catel, Jean","Strobel, Marion",Undirected,70225,3
+"Catel, Jean","Roberts, Elizabeth Madox",Undirected,70214,2
+"Catel, Jean","Fuller, Henry B.",Undirected,70206,2
+"Colum, Padraic","Monroe, Harriet",Undirected,70379,10
+"Colum, Padraic","Campbell, Nancy",Undirected,70373,2
+"Colum, Padraic","Lowell, Amy",Undirected,70369,4
+"Colum, Padraic","Gibson, Wilfrid Wilson",Undirected,70360,3
+"Colum, Padraic","Hagedorn, Hermann",Undirected,70349,2
+"Colum, Padraic","Torrence, Ridgely",Undirected,70344,2
+"Colum, Padraic","Benét, William Rose",Undirected,70343,2
+"Colum, Padraic","Tietjens, Eunice",Undirected,70340,3
+"Colum, Padraic","Henderson, Alice Corbin",Undirected,70338,7
+"Colum, Padraic","Sandburg, Carl",Undirected,70330,3
+"Colum, Padraic","Pound, Ezra",Undirected,70328,4
+"Colum, Padraic","Wilkinson, Marguerite",Undirected,70317,2
+"Colum, Padraic","Shaw, Frances",Undirected,70314,2
+"Colum, Padraic","Michelson, Max",Undirected,70310,2
+"Colum, Padraic","Lindsay, Vachel",Undirected,70305,2
+"Colum, Padraic","Flint, F. S.",Undirected,70289,2
+"Colum, Padraic","Aldington, Richard",Undirected,70282,2
+"Colum, Padraic","Williams, William Carlos",Undirected,70274,2
+"Roberts, Elizabeth Madox","Strobel, Marion",Undirected,70494,2
+"Roberts, Elizabeth Madox","Monroe, Harriet",Undirected,70493,2
+"Lesemann, Maurice","Monroe, Harriet",Undirected,70523,2
+"Fischer, Raymond P.","Monroe, Harriet",Undirected,70572,2
+"Unna, Sarah","Monroe, Harriet",Undirected,70590,2
+"Hunt, Violet","Monroe, Harriet",Undirected,70633,2
+"Nicholl, Louise Townsend","Murphy, Charles R.",Undirected,70685,2
+"Nicholl, Louise Townsend","Monroe, Harriet",Undirected,70672,2
+"Nicholl, Louise Townsend","Scott, Evelyn",Undirected,70665,2
+"Glaenzer, Richard Butler","Pound, Ezra",Undirected,70727,2
+"Glaenzer, Richard Butler","Monroe, Harriet",Undirected,70722,4
+"Glaenzer, Richard Butler","Lawrence, D. H.",Undirected,70716,2
+"Glaenzer, Richard Butler","Henderson, Alice Corbin",Undirected,70687,2
+"Swawite, Marguerite","Wing, DeWitt C.",Undirected,70902,4
+"Swawite, Marguerite","Schuchert, Herman",Undirected,70901,2
+"Swawite, Marguerite","Ficke, Arthur Davison",Undirected,70890,4
+"Swawite, Marguerite","Lowell, Amy",Undirected,70888,4
+"Swawite, Marguerite","Stephens, James",Undirected,70887,2
+"Swawite, Marguerite","Soule, George",Undirected,70886,5
+"Swawite, Marguerite",A. S. K.,Undirected,70885,2
+"Swawite, Marguerite","Wells, H. G.",Undirected,70873,2
+"Swawite, Marguerite","Iverson, Sade",Undirected,70868,2
+"Swawite, Marguerite",K.,Undirected,70865,2
+"Swawite, Marguerite","Foster, George Burman",Undirected,70863,6
+"Swawite, Marguerite","Tietjens, Eunice",Undirected,70858,4
+"Swawite, Marguerite","Nietzsche, Friedrich",Undirected,70857,2
+"Swawite, Marguerite","Lindsay, Nicholas Vachel",Undirected,70844,2
+"Swawite, Marguerite","Gabirol, Ibn",Undirected,70836,2
+"Swawite, Marguerite",M. H. P.,Undirected,70834,3
+"Swawite, Marguerite","Ashleigh, Charles",Undirected,70829,2
+"Swawite, Marguerite","Saphier, William",Undirected,70827,2
+"Swawite, Marguerite","Sell, Henry Blackman",Undirected,70824,3
+"Swawite, Marguerite","Jones, Llewellyn",Undirected,70821,3
+"Swawite, Marguerite","Aldington, Richard",Undirected,70820,2
+"Swawite, Marguerite","Cannell, Skipwith",Undirected,70815,2
+"Jones, Llewellyn","Chenery, William L.",Undirected,71014,2
+"Jones, Llewellyn","Wing, DeWitt C.",Undirected,71012,4
+"Jones, Llewellyn","Gabirol, Ibn",Undirected,71010,2
+"Jones, Llewellyn","Butler, Samuel",Undirected,71002,2
+"Jones, Llewellyn","Stephens, James",Undirected,71000,2
+"Jones, Llewellyn","Ficke, Arthur Davison",Undirected,70996,4
+"Jones, Llewellyn","Lowell, Amy",Undirected,70993,4
+"Jones, Llewellyn","Soule, George",Undirected,70991,6
+"Jones, Llewellyn","Stearns, Mary Adams",Undirected,70990,2
+"Jones, Llewellyn","Nietzsche, Friedrich",Undirected,70984,3
+"Jones, Llewellyn","Wells, H. G.",Undirected,70974,3
+"Jones, Llewellyn","Iverson, Sade",Undirected,70967,3
+"Jones, Llewellyn","Hoyt, Helen",Undirected,70966,2
+"Jones, Llewellyn",K.,Undirected,70965,3
+"Jones, Llewellyn","Foster, George Burman",Undirected,70962,5
+"Jones, Llewellyn","Tietjens, Eunice",Undirected,70955,6
+"Jones, Llewellyn","Lindsay, Nicholas Vachel",Undirected,70953,2
+"Jones, Llewellyn","Schuchert, Herman",Undirected,70944,3
+"Jones, Llewellyn","Saphier, William",Undirected,70939,4
+"Jones, Llewellyn","Anderson, Sherwood",Undirected,70936,2
+"Jones, Llewellyn",M. C. A.,Undirected,70934,3
+"Jones, Llewellyn",M. H. P.,Undirected,70928,4
+"Jones, Llewellyn",D. C. W.,Undirected,70926,2
+"Jones, Llewellyn","Bodenheim, Maxwell",Undirected,70917,2
+"Jones, Llewellyn","Sell, Henry Blackman",Undirected,70913,3
+"Jones, Llewellyn","Aldington, Richard",Undirected,70909,2
+"Yeats, William Butler","Szukalski, Stanislaw",Undirected,71201,2
+"Yeats, William Butler","Anderson, Margaret",Undirected,71187,2
+"Yeats, William Butler","Hecht, Ben",Undirected,71184,2
+"Yeats, William Butler","Joyce, James",Undirected,71172,4
+"Yeats, William Butler","Henderson, Alice Corbin",Undirected,71171,5
+"Yeats, William Butler","Tietjens, Eunice",Undirected,71169,2
+"Yeats, William Butler","Pound, Ezra",Undirected,71166,10
+"Yeats, William Butler","Hartley, Marsden",Undirected,71157,2
+"Yeats, William Butler",M. C. A.,Undirected,71149,2
+"Yeats, William Butler","Rodker, John",Undirected,71144,5
+"Yeats, William Butler","Wattles, Willard",Undirected,71142,2
+"Yeats, William Butler","Corbin, Alice",Undirected,71136,2
+"Yeats, William Butler",E. P.,Undirected,71128,2
+"Yeats, William Butler",jh,Undirected,71115,4
+"Yeats, William Butler","Solon, Israel",Undirected,71114,2
+"Yeats, William Butler","Monroe, Harriet",Undirected,71113,10
+"Yeats, William Butler","Fenollosa, Ernest",Undirected,71099,2
+"Yeats, William Butler","Gilmore, Louis",Undirected,71087,3
+"Yeats, William Butler","Sandburg, Carl",Undirected,71086,2
+"Yeats, William Butler","Seiffert, Marjorie Allen",Undirected,71081,2
+"Yeats, William Butler","Anderson, Sherwood",Undirected,71080,2
+"Yeats, William Butler","Barry, Iris",Undirected,71079,2
+"Yeats, William Butler","Lee, Agnes",Undirected,71066,2
+"Currey, Margery","Ficke, Arthur Davison",Undirected,71263,2
+"Peyton, John R. C.","Monroe, Harriet",Undirected,71333,2
+"De Bosschere, Jean","Pound, Ezra",Undirected,71375,2
+"De Bosschere, Jean",Anonymous,Undirected,71360,2
+"De Bosschere, Jean","Groff, Alice",Undirected,71347,2
+"Carman, Bliss","Pound, Ezra",Undirected,71399,2
+"Carman, Bliss","Monroe, Harriet",Undirected,71395,2
+"Carman, Bliss","Cannell, Skipwith",Undirected,71394,2
+"Bodenheim, Maxwell","Nietzsche, Friedrich",Undirected,71698,3
+"Bodenheim, Maxwell","Lowell, Amy",Undirected,71687,10
+"Bodenheim, Maxwell","Barnes, Djuna",Undirected,71682,4
+"Bodenheim, Maxwell",Sasaki,Undirected,71679,2
+"Bodenheim, Maxwell","Szukalski, Stanislaw",Undirected,71674,2
+"Bodenheim, Maxwell",G. S.,Undirected,71672,2
+"Bodenheim, Maxwell","Maeterlinck, Maurice",Undirected,71663,2
+"Bodenheim, Maxwell","Goldman, Emma",Undirected,71661,2
+"Bodenheim, Maxwell","Butts, Mary",Undirected,71659,3
+"Bodenheim, Maxwell","O'Brien, Edward J.",Undirected,71657,2
+"Bodenheim, Maxwell","Heller, Helen West",Undirected,71648,2
+"Bodenheim, Maxwell","Gould, Wallace",Undirected,71645,2
+"Bodenheim, Maxwell",F. E. R.,Undirected,71641,3
+"Bodenheim, Maxwell","Saphier, William",Undirected,71637,6
+"Bodenheim, Maxwell","Hueffer, Ford Madox",Undirected,71629,2
+"Bodenheim, Maxwell","Stevens, Wallace",Undirected,71613,2
+"Bodenheim, Maxwell","Gilmore, Louis",Undirected,71609,5
+"Bodenheim, Maxwell",jh,Undirected,71605,9
+"Bodenheim, Maxwell","Solon, Israel",Undirected,71604,2
+"Bodenheim, Maxwell","Monroe, Harriet",Undirected,71602,11
+"Bodenheim, Maxwell","Lewis, Wyndham",Undirected,71600,5
+"Bodenheim, Maxwell",Li Po,Undirected,71598,2
+"Bodenheim, Maxwell","Ficke, Arthur Davison",Undirected,71595,3
+"Bodenheim, Maxwell","Baker, Karle Wilson",Undirected,71587,2
+"Bodenheim, Maxwell","Groff, Alice",Undirected,71584,3
+"Bodenheim, Maxwell","Wilde, Oscar",Undirected,71583,3
+"Bodenheim, Maxwell","Aiken, Conrad",Undirected,71580,2
+"Bodenheim, Maxwell","Knopf, Alfred A.",Undirected,71575,2
+"Bodenheim, Maxwell","Loving, Pierre",Undirected,71574,2
+"Bodenheim, Maxwell",K.,Undirected,71570,5
+"Bodenheim, Maxwell","Foster, George Burman",Undirected,71568,5
+"Bodenheim, Maxwell","Scott, Evelyn",Undirected,71566,2
+"Bodenheim, Maxwell",H. D.,Undirected,71565,2
+"Bodenheim, Maxwell","McCarthy, John Russell",Undirected,71560,2
+"Bodenheim, Maxwell","Symons, Arthur",Undirected,71559,2
+"Bodenheim, Maxwell",M. C. A.,Undirected,71558,12
+"Bodenheim, Maxwell","Turbyfill, Mark",Undirected,71556,4
+"Bodenheim, Maxwell","Richardson, Dorothy",Undirected,71547,8
+"Bodenheim, Maxwell","Anderson, Sherwood",Undirected,71544,7
+"Bodenheim, Maxwell","Goethe, Johann Wolfgang",Undirected,71541,2
+"Bodenheim, Maxwell","Cowley, Malcolm",Undirected,71528,2
+"Bodenheim, Maxwell","Deutsch, Babette",Undirected,71526,2
+"Bodenheim, Maxwell","Schuchert, Herman",Undirected,71524,4
+"Bodenheim, Maxwell","Hoyt, Helen",Undirected,71519,4
+"Bodenheim, Maxwell","Freer, Agnes Lee",Undirected,71516,3
+"Bodenheim, Maxwell","Soule, George",Undirected,71507,5
+"Bodenheim, Maxwell","Anderson, Margaret",Undirected,71502,5
+"Bodenheim, Maxwell","Hecht, Ben",Undirected,71499,5
+"Bodenheim, Maxwell","Sinclair, May",Undirected,71493,3
+"Bodenheim, Maxwell","Carnevali, Emanuel",Undirected,71491,7
+"Bodenheim, Maxwell","Joyce, James",Undirected,71489,12
+"Bodenheim, Maxwell","Henderson, Alice Corbin",Undirected,71488,8
+"Bodenheim, Maxwell","Tietjens, Eunice",Undirected,71483,4
+"Bodenheim, Maxwell","Pound, Ezra",Undirected,71482,12
+"Bodenheim, Maxwell",M. B.,Undirected,71481,2
+"Bodenheim, Maxwell","Hartley, Marsden",Undirected,71472,2
+"Bodenheim, Maxwell","Driscoll, Louise",Undirected,71470,2
+"Bodenheim, Maxwell","Sapir, Edward",Undirected,71468,2
+"Bodenheim, Maxwell","Brandes, George",Undirected,71465,2
+"Bodenheim, Maxwell","Rodker, John",Undirected,71461,6
+"Bodenheim, Maxwell","Cournos, John",Undirected,71460,2
+"Bodenheim, Maxwell","Ashleigh, Charles",Undirected,71458,3
+"Bodenheim, Maxwell","Aldington, Richard",Undirected,71449,10
+"Bodenheim, Maxwell","Williams, William Carlos",Undirected,71445,7
+"Bodenheim, Maxwell","Gabirol, Ibn",Undirected,71442,2
+"Bodenheim, Maxwell","Ciolkowska, Muriel",Undirected,71430,3
+"Bodenheim, Maxwell","Sandburg, Carl",Undirected,71424,2
+"Bodenheim, Maxwell","Seiffert, Marjorie Allen",Undirected,71415,2
+"Campbell, Joseph","McCarthy, John Russell",Undirected,71767,2
+"Campbell, Joseph","Pound, Ezra",Undirected,71765,3
+"Campbell, Joseph","Monroe, Harriet",Undirected,71763,5
+"Campbell, Joseph","Driscoll, Louise",Undirected,71751,2
+"Campbell, Joseph","Lowell, Amy",Undirected,71747,2
+"Campbell, Joseph","Henderson, Alice Corbin",Undirected,71716,4
+"Campbell, Joseph","Aldington, Richard",Undirected,71714,3
+"Campbell, Joseph","Frank, Florence Kiper",Undirected,71705,2
+"Rosenthal, A. A.","Schneider, Isidor",Undirected,71834,2
+"Rosenthal, A. A.","Monroe, Harriet",Undirected,71828,2
+"Bryher, W.","Winters, Yvor",Undirected,71872,2
+"Bryher, W.","Monroe, Harriet",Undirected,71871,2
+Li Po,"Pound, Ezra",Undirected,71967,2
+Li Po,Sasaki,Undirected,71966,2
+Li Po,jh,Undirected,71964,2
+Li Po,"Lewis, Wyndham",Undirected,71961,2
+M. H. P.,"Chenery, William L.",Undirected,72056,2
+M. H. P.,"Wing, DeWitt C.",Undirected,72054,4
+M. H. P.,"Wells, H. G.",Undirected,72044,3
+M. H. P.,"Butler, Samuel",Undirected,72043,2
+M. H. P.,"Ficke, Arthur Davison",Undirected,72039,3
+M. H. P.,"Lowell, Amy",Undirected,72037,2
+M. H. P.,"Stephens, James",Undirected,72036,2
+M. H. P.,"Soule, George",Undirected,72035,4
+M. H. P.,"Saphier, William",Undirected,72018,2
+M. H. P.,"Iverson, Sade",Undirected,72014,2
+M. H. P.,"Foster, George Burman",Undirected,72010,4
+M. H. P.,"Tietjens, Eunice",Undirected,72006,4
+M. H. P.,"Nietzsche, Friedrich",Undirected,72005,2
+M. H. P.,"Lindsay, Nicholas Vachel",Undirected,71994,2
+M. H. P.,"Anderson, Sherwood",Undirected,71991,2
+M. H. P.,D. C. W.,Undirected,71984,2
+M. H. P.,"Sell, Henry Blackman",Undirected,71976,3
+"Brandes, George","Tietjens, Eunice",Undirected,72150,2
+"Brandes, George","Soule, George",Undirected,72126,2
+"Brandes, George",G. S.,Undirected,72124,2
+"Brandes, George",M. C. A.,Undirected,72122,2
+"Brandes, George","Wilde, Oscar",Undirected,72109,2
+"Brandes, George","Maeterlinck, Maurice",Undirected,72104,2
+"Brandes, George","Foster, George Burman",Undirected,72103,2
+"York, Virginia","Dean, Harriet",Undirected,72196,2
+"York, Virginia","Saphier, William",Undirected,72189,2
+"York, Virginia","Ficke, Arthur Davison",Undirected,72187,2
+"York, Virginia","Anderson, Sherwood",Undirected,72184,2
+"York, Virginia",K.,Undirected,72161,2
+"York, Virginia","Schnack, Fritz",Undirected,72154,2
+M. C. A.,"Sanders, Abel",Undirected,72481,2
+M. C. A.,"Schuchert, Herman",Undirected,72474,5
+M. C. A.,"Hoyt, Helen",Undirected,72469,3
+M. C. A.,"O'Brien, Edward J.",Undirected,72467,2
+M. C. A.,"Bauer, Harold",Undirected,72466,2
+M. C. A.,"Wing, DeWitt C.",Undirected,72465,2
+M. C. A.,"Dell, Floyd",Undirected,72456,2
+M. C. A.,"Lowell, Amy",Undirected,72451,7
+M. C. A.,"Soule, George",Undirected,72447,6
+M. C. A.,"Barnes, Djuna",Undirected,72442,5
+M. C. A.,"Dismorr, Jessie",Undirected,72438,2
+M. C. A.,"Nietzsche, Friedrich",Undirected,72436,4
+M. C. A.,"Anderson, Margaret",Undirected,72432,8
+M. C. A.,"Hecht, Ben",Undirected,72428,5
+M. C. A.,"Loving, Pierre",Undirected,72427,2
+M. C. A.,G. S.,Undirected,72426,2
+M. C. A.,"Stearns, Mary Adams",Undirected,72425,3
+M. C. A.,"von Freytag-Loringhoven, Else",Undirected,72423,3
+M. C. A.,"Saphier, William",Undirected,72421,6
+M. C. A.,"Kandinsky, Wassily",Undirected,72417,2
+M. C. A.,"Maeterlinck, Maurice",Undirected,72411,2
+M. C. A.,"Joyce, James",Undirected,72409,9
+M. C. A.,"Symons, Arthur",Undirected,72400,2
+M. C. A.,"Kenton, Edna",Undirected,72399,2
+M. C. A.,"Tietjens, Eunice",Undirected,72397,5
+M. C. A.,"Carnevali, Emanuel",Undirected,72395,4
+M. C. A.,"Pound, Ezra",Undirected,72394,9
+M. C. A.,"De Braila, Lupo",Undirected,72392,2
+M. C. A.,"Goldman, Emma",Undirected,72391,2
+M. C. A.,M. B.,Undirected,72387,2
+M. C. A.,"Crane, Hart",Undirected,72383,2
+M. C. A.,"Hartley, Marsden",Undirected,72376,2
+M. C. A.,"Ashleigh, Charles",Undirected,72365,3
+M. C. A.,F. E. R.,Undirected,72356,2
+M. C. A.,"Cann, Louise Gebhard",Undirected,72351,2
+M. C. A.,"Macdougall, Allan Ross",Undirected,72348,2
+M. C. A.,"Sell, Henry Blackman",Undirected,72346,2
+M. C. A.,"Groff, Alice",Undirected,72345,2
+M. C. A.,"Scott, Evelyn",Undirected,72341,2
+M. C. A.,"Frank, Florence Kiper",Undirected,72334,2
+M. C. A.,"Williams, William Carlos",Undirected,72332,6
+M. C. A.,"Gabirol, Ibn",Undirected,72325,3
+M. C. A.,"Richardson, Dorothy",Undirected,72324,6
+M. C. A.,"von Freytag-Loringhoven, Else (Baroness)",Undirected,72322,2
+M. C. A.,jh,Undirected,72321,13
+M. C. A.,"Solon, Israel",Undirected,72320,3
+M. C. A.,"Lewis, Wyndham",Undirected,72319,4
+M. C. A.,"Rodker, John",Undirected,72314,9
+M. C. A.,"Ficke, Arthur Davison",Undirected,72310,4
+M. C. A.,"Sandburg, Carl",Undirected,72308,2
+M. C. A.,"Butts, Mary",Undirected,72303,5
+M. C. A.,S. H. G.,Undirected,72297,2
+M. C. A.,M. A. S.,Undirected,72294,2
+M. C. A.,"Turbyfill, Mark",Undirected,72292,4
+M. C. A.,K.,Undirected,72287,5
+M. C. A.,"Kohen, Esther",Undirected,72286,2
+M. C. A.,"Ciolkowska, Muriel",Undirected,72285,2
+M. C. A.,"Hudson, Stephen",Undirected,72280,2
+M. C. A.,"Iverson, Sade",Undirected,72278,2
+M. C. A.,"Foster, George Burman",Undirected,72273,4
+M. C. A.,H. D.,Undirected,72270,3
+M. C. A.,"Aldington, Richard",Undirected,72268,5
+M. C. A.,"Schnack, Fritz",Undirected,72267,2
+M. C. A.,"Lindsay, Nicholas Vachel",Undirected,72266,2
+M. C. A.,"Gilmore, Louis",Undirected,72263,7
+M. C. A.,"Wilde, Oscar",Undirected,72262,2
+M. C. A.,C. Z.,Undirected,72259,2
+M. C. A.,"Monroe, Harriet",Undirected,72254,2
+M. C. A.,"Fenollosa, Ernest",Undirected,72249,3
+M. C. A.,"Eliot, T. S.",Undirected,72248,2
+M. C. A.,"Anderson, Sherwood",Undirected,72245,9
+M. C. A.,"Goethe, Johann Wolfgang",Undirected,72239,2
+M. C. A.,"Szukalski, Stanislaw",Undirected,72229,2
+M. C. A.,"Flint, F. S.",Undirected,72228,2
+"Holley, Horace","Pound, Ezra",Undirected,72565,2
+"Holley, Horace","Stork, Charles Wharton",Undirected,72558,2
+"Holley, Horace","Monroe, Harriet",Undirected,72538,3
+"Holley, Horace","Henderson, Alice Corbin",Undirected,72518,2
+"Joyce, James","Cowley, Malcolm",Undirected,72817,3
+"Joyce, James","Barry, Iris",Undirected,72808,2
+"Joyce, James","Lowell, Amy",Undirected,72803,2
+"Joyce, James","Barnes, Djuna",Undirected,72800,7
+"Joyce, James","Anderson, Margaret",Undirected,72793,6
+"Joyce, James","Szukalski, Stanislaw",Undirected,72789,3
+"Joyce, James","Saphier, William",Undirected,72783,3
+"Joyce, James","Sinclair, May",Undirected,72780,6
+"Joyce, James","Carnevali, Emanuel",Undirected,72777,6
+"Joyce, James","Henderson, Alice Corbin",Undirected,72775,2
+"Joyce, James","Pound, Ezra",Undirected,72765,15
+"Joyce, James","Monroe, Harriet",Undirected,72763,2
+"Joyce, James","Heller, Helen West",Undirected,72757,2
+"Joyce, James","Hartley, Marsden",Undirected,72752,3
+"Joyce, James","Gould, Wallace",Undirected,72750,2
+"Joyce, James",F. E. R.,Undirected,72745,2
+"Joyce, James",H. H.,Undirected,72743,2
+"Joyce, James","Butts, Mary",Undirected,72742,5
+"Joyce, James","Rodker, John",Undirected,72740,11
+"Joyce, James","Hueffer, Ford Madox",Undirected,72735,6
+"Joyce, James","Jepson, Edgar",Undirected,72727,3
+"Joyce, James","Groff, Alice",Undirected,72725,3
+"Joyce, James",E. P.,Undirected,72722,5
+"Joyce, James","Scott, Evelyn",Undirected,72721,3
+"Joyce, James","Aldington, Richard",Undirected,72720,2
+"Joyce, James","Williams, William Carlos",Undirected,72713,9
+"Joyce, James","Damon, S. Foster",Undirected,72712,2
+"Joyce, James","Richardson, Dorothy",Undirected,72710,10
+"Joyce, James","von Freytag-Loringhoven, Else (Baroness)",Undirected,72708,2
+"Joyce, James",jh,Undirected,72707,12
+"Joyce, James","Solon, Israel",Undirected,72706,5
+"Joyce, James","Lewis, Wyndham",Undirected,72704,4
+"Joyce, James","Winthrop, Arthur",Undirected,72702,2
+"Joyce, James","Symons, Arthur",Undirected,72697,3
+"Joyce, James","von Freytag-Loringhoven, Else",Undirected,72694,4
+"Joyce, James","Reiss, R.",Undirected,72692,2
+"Joyce, James","Fenollosa, Ernest",Undirected,72689,2
+"Joyce, James","Cournos, John",Undirected,72687,2
+"Joyce, James","Kohen, Esther",Undirected,72684,2
+"Joyce, James","Ciolkowska, Muriel",Undirected,72682,2
+"Joyce, James","Dismorr, Jessie",Undirected,72680,3
+"Joyce, James","Loving, Pierre",Undirected,72679,2
+"Joyce, James","Reiss, Robert",Undirected,72674,2
+"Joyce, James","Gilmore, Louis",Undirected,72667,5
+"Joyce, James","Sandburg, Carl",Undirected,72665,2
+"Joyce, James","Turbyfill, Mark",Undirected,72663,6
+"Joyce, James","Bellamann, H. H.",Undirected,72660,2
+"Joyce, James","Seiffert, Marjorie Allen",Undirected,72655,2
+"Joyce, James","Anderson, Sherwood",Undirected,72654,11
+"Joyce, James","Crane, Hart",Undirected,72647,2
+"Joyce, James","Hecht, Ben",Undirected,72637,9
+"Joyce, James","Michelson, Max",Undirected,72627,2
+"Driscoll, Louise","Hoyt, Helen",Undirected,72899,2
+"Driscoll, Louise","Monroe, Harriet",Undirected,72897,9
+"Driscoll, Louise","Lowell, Amy",Undirected,72891,2
+"Driscoll, Louise","Baker, Karle Wilson",Undirected,72890,2
+"Driscoll, Louise","Waley, Arthur",Undirected,72888,2
+"Driscoll, Louise","Henderson, Alice Corbin",Undirected,72874,5
+"Driscoll, Louise","Tietjens, Eunice",Undirected,72870,2
+"Driscoll, Louise","Pound, Ezra",Undirected,72867,3
+"Driscoll, Louise","Seiffert, Marjorie Allen",Undirected,72857,2
+"Driscoll, Louise","Stevens, Wallace",Undirected,72843,2
+"Driscoll, Louise","Browne, Maurice",Undirected,72840,2
+Anonymous,"Hoyt, Helen",Undirected,73145,2
+Anonymous,jh,Undirected,73144,2
+Anonymous,"De Braila, Lupo",Undirected,73138,2
+Anonymous,"Lowell, Amy",Undirected,73136,3
+Anonymous,"Nietzsche, Friedrich",Undirected,73134,2
+Anonymous,"Henderson, Alice Corbin",Undirected,73116,3
+Anonymous,R. G.,Undirected,73111,2
+Anonymous,"Pound, Ezra",Undirected,73106,4
+Anonymous,"Zwaska, Charles",Undirected,73105,2
+Anonymous,"Anderson, Sherwood",Undirected,73090,2
+Anonymous,"Macdougall, Allan Ross",Undirected,73080,2
+Anonymous,"Groff, Alice",Undirected,73077,4
+Anonymous,"Aldington, Richard",Undirected,73076,2
+Anonymous,"Monroe, Harriet",Undirected,73072,2
+"Johns, Orrick","Pound, Ezra",Undirected,73199,2
+"Johns, Orrick","Monroe, Harriet",Undirected,73195,5
+"Johns, Orrick","Aldington, Richard",Undirected,73160,2
+"Johns, Orrick","Henderson, Alice Corbin",Undirected,73156,3
+"Wilkinson, Marguerite","Wheelock, John Hall",Undirected,73223,2
+"Wilkinson, Marguerite","Monroe, Harriet",Undirected,73221,3
+"Wilkinson, Marguerite","Henderson, Alice Corbin",Undirected,73208,3
+"Conkling, Hilda","Monroe, Harriet",Undirected,73370,6
+"Conkling, Hilda","Phelps, Arthur L.",Undirected,73362,2
+"Conkling, Hilda","Lawrence, D. H.",Undirected,73361,2
+"Conkling, Hilda","Tietjens, Eunice",Undirected,73341,2
+"Conkling, Hilda","McNaught, Elmond Franklin",Undirected,73332,2
+"Conkling, Hilda","Henderson, Alice Corbin",Undirected,73325,4
+"Conkling, Hilda","McCluskey, Katherine Wisner",Undirected,73316,2
+"Conkling, Hilda","Aldington, Richard",Undirected,73309,2
+"Conkling, Hilda","Kreymborg, Alfred",Undirected,73307,2
+"Conkling, Hilda","Williams, William Carlos",Undirected,73304,3
+M. B.,"Lowell, Amy",Undirected,73446,3
+M. B.,"Hoyt, Helen",Undirected,73442,2
+M. B.,"Foster, George Burman",Undirected,73427,2
+M. B.,"Soule, George",Undirected,73426,2
+M. B.,"Ashleigh, Charles",Undirected,73417,3
+M. B.,"Maeterlinck, Maurice",Undirected,73403,2
+"Rivola, Flora Shufelt","Monroe, Harriet",Undirected,73553,2
+"Cocteau, Jean","Pound, Ezra",Undirected,73650,2
+"Cocteau, Jean",jh,Undirected,73647,2
+"Cocteau, Jean","Picabia, Francis",Undirected,73643,2
+"Stein, Gertrude",jh,Undirected,73678,2
+"Stein, Gertrude","Apollinaire, Guillaume",Undirected,73675,2
+"Stein, Gertrude","Picabia, Francis",Undirected,73673,2
+"Geddes, Virgil","Monroe, Harriet",Undirected,73696,2
+"Henderson, Alice Corbin","Manning, Frederic",Undirected,74103,2
+"Henderson, Alice Corbin","Thorp, N. Howard",Undirected,74098,2
+"Henderson, Alice Corbin","Lowell, Amy",Undirected,74089,13
+"Henderson, Alice Corbin","Baker, Karle Wilson",Undirected,74086,3
+"Henderson, Alice Corbin","Lindsay, Vachel",Undirected,74079,5
+"Henderson, Alice Corbin","Teasdale, Sara",Undirected,74077,4
+"Henderson, Alice Corbin","Wolff, Adolf",Undirected,74075,2
+"Henderson, Alice Corbin","Schneider, Isidor",Undirected,74074,2
+"Henderson, Alice Corbin","Colahan, Ellwood",Undirected,74072,2
+"Henderson, Alice Corbin","Griffith, William",Undirected,74069,2
+"Henderson, Alice Corbin","Cawein, Madison",Undirected,74064,2
+"Henderson, Alice Corbin","Skinner, Constance Lindsay",Undirected,74057,2
+"Henderson, Alice Corbin","Eliot, T. S.",Undirected,74053,3
+"Henderson, Alice Corbin","Cournos, John",Undirected,74050,3
+"Henderson, Alice Corbin","Gordon, Frank S.",Undirected,74046,3
+"Henderson, Alice Corbin","Wheelock, John Hall",Undirected,74044,5
+"Henderson, Alice Corbin","Stork, Charles Wharton",Undirected,74043,2
+"Henderson, Alice Corbin","Shaw, Frances",Undirected,74041,2
+"Henderson, Alice Corbin","Lee, Agnes",Undirected,74040,6
+"Henderson, Alice Corbin",E. T.,Undirected,74029,5
+"Henderson, Alice Corbin",A. F.,Undirected,74028,3
+"Henderson, Alice Corbin",N. A. C.,Undirected,74023,2
+"Henderson, Alice Corbin","Patterson, Antoinette DeCoursey",Undirected,74018,3
+"Henderson, Alice Corbin","Hall, Hazel",Undirected,74009,2
+"Henderson, Alice Corbin","Syrian, Ajan",Undirected,74004,2
+"Henderson, Alice Corbin","Kreymborg, Alfred",Undirected,73997,7
+"Henderson, Alice Corbin","Davies, Mary Carolyn",Undirected,73996,2
+"Henderson, Alice Corbin","Dodd, Lee Wilson",Undirected,73992,4
+"Henderson, Alice Corbin","Fuller, Henry B.",Undirected,73989,4
+"Henderson, Alice Corbin","Monroe, Harriet",Undirected,73980,59
+"Henderson, Alice Corbin","Williams, Oscar",Undirected,73978,2
+"Henderson, Alice Corbin","Rodker, John",Undirected,73977,2
+"Henderson, Alice Corbin","Campbell, Nancy",Undirected,73975,2
+"Henderson, Alice Corbin","Tagore, Rabindranath",Undirected,73969,2
+"Henderson, Alice Corbin","Wood, Clement",Undirected,73965,3
+"Henderson, Alice Corbin",M. A. S.,Undirected,73963,2
+"Henderson, Alice Corbin","Livesay, Florence Randal",Undirected,73950,2
+"Henderson, Alice Corbin",H. D.,Undirected,73944,3
+"Henderson, Alice Corbin","Piper, Edwin Ford",Undirected,73943,2
+"Henderson, Alice Corbin","Untermeyer, Louis",Undirected,73941,2
+"Henderson, Alice Corbin","Bangs, Janet Norris",Undirected,73940,2
+"Henderson, Alice Corbin","Gilmore, Louis",Undirected,73939,2
+"Henderson, Alice Corbin","Brownell, Baker",Undirected,73938,2
+"Henderson, Alice Corbin","McCarthy, John Russell",Undirected,73937,3
+"Henderson, Alice Corbin","Symons, Arthur",Undirected,73936,3
+"Henderson, Alice Corbin","Turbyfill, Mark",Undirected,73933,2
+"Henderson, Alice Corbin","Dresbach, Glenn Ward",Undirected,73926,4
+"Henderson, Alice Corbin","McNaught, Elmond Franklin",Undirected,73922,2
+"Henderson, Alice Corbin","Simpson, William H.",Undirected,73918,2
+"Henderson, Alice Corbin","Anderson, Sherwood",Undirected,73916,2
+"Henderson, Alice Corbin","Iris, Scharmel",Undirected,73899,2
+"Henderson, Alice Corbin","Stevens, Wallace",Undirected,73894,4
+"Henderson, Alice Corbin","Deutsch, Babette",Undirected,73889,2
+"Henderson, Alice Corbin","Williams, William Carlos",Undirected,73882,6
+"Henderson, Alice Corbin","Davis, H. L.",Undirected,73877,2
+"Henderson, Alice Corbin","Wyatt, Edith",Undirected,73876,6
+"Henderson, Alice Corbin","Hoyt, Helen",Undirected,73873,4
+"Henderson, Alice Corbin","Stevens, Thomas Wood",Undirected,73872,2
+"Henderson, Alice Corbin","O'Brien, Edward J.",Undirected,73870,2
+"Henderson, Alice Corbin","Freer, Agnes Lee",Undirected,73868,5
+"Henderson, Alice Corbin","Fox, Moireen",Undirected,73867,2
+"Henderson, Alice Corbin","Shanafelt, Clara",Undirected,73866,2
+"Henderson, Alice Corbin","Lawrence, D. H.",Undirected,73864,6
+"Henderson, Alice Corbin","Patterson, Antoinette De Coursey",Undirected,73862,2
+"Henderson, Alice Corbin","Aiken, Conrad",Undirected,73859,2
+"Henderson, Alice Corbin","Hitch, Alfred",Undirected,73853,2
+"Henderson, Alice Corbin","Mixter, Florence Kilpatrick",Undirected,73852,2
+"Henderson, Alice Corbin","Flexner, Hortense",Undirected,73848,3
+"Henderson, Alice Corbin","Benét, William Rose",Undirected,73842,5
+"Henderson, Alice Corbin","Carnevali, Emanuel",Undirected,73837,10
+"Henderson, Alice Corbin","Scott, Evelyn",Undirected,73832,2
+"Henderson, Alice Corbin","Tietjens, Eunice",Undirected,73831,12
+"Henderson, Alice Corbin","Pound, Ezra",Undirected,73829,24
+"Henderson, Alice Corbin","Untermeyer, Jean Starr",Undirected,73825,2
+"Henderson, Alice Corbin","Millay, Edna St. Vincent",Undirected,73822,3
+"Henderson, Alice Corbin","Austin, Mary",Undirected,73820,3
+"Henderson, Alice Corbin","Hartley, Marsden",Undirected,73818,2
+"Henderson, Alice Corbin","McAlmon, Robert",Undirected,73816,2
+"Henderson, Alice Corbin",H. H.,Undirected,73815,6
+"Henderson, Alice Corbin","Wattles, Willard",Undirected,73811,2
+"Henderson, Alice Corbin","Drinkwater, John",Undirected,73809,2
+"Henderson, Alice Corbin","Corbin, Alice",Undirected,73805,7
+"Henderson, Alice Corbin","Ficke, Arthur Davison",Undirected,73799,3
+"Henderson, Alice Corbin","Aldington, Richard",Undirected,73797,9
+"Henderson, Alice Corbin","Frank, Florence Kiper",Undirected,73790,2
+"Henderson, Alice Corbin","O'Donnell, Charles L.",Undirected,73787,4
+"Henderson, Alice Corbin","Hunt, Richard",Undirected,73786,3
+"Henderson, Alice Corbin","Phelps, Arthur L.",Undirected,73785,2
+"Henderson, Alice Corbin","Beach, Joseph Warren",Undirected,73778,2
+"Henderson, Alice Corbin","Trench, Herbert",Undirected,73775,2
+"Henderson, Alice Corbin","Head, Cloyd",Undirected,73774,2
+"Henderson, Alice Corbin","Starbuck, Victor",Undirected,73773,2
+"Henderson, Alice Corbin","Jennings, Leslie Nelson",Undirected,73771,2
+"Henderson, Alice Corbin","Gibson, Wilfrid Wilson",Undirected,73762,4
+"Henderson, Alice Corbin","Sandburg, Carl",Undirected,73758,9
+"Henderson, Alice Corbin","Akins, Zoë",Undirected,73755,2
+"Henderson, Alice Corbin","Barrett, Wilton Agnew",Undirected,73753,2
+"Henderson, Alice Corbin","Hueffer, Ford Madox",Undirected,73747,3
+"Henderson, Alice Corbin","Seiffert, Marjorie Allen",Undirected,73746,6
+"Henderson, Alice Corbin","Waley, Arthur",Undirected,73736,2
+"Henderson, Alice Corbin","Strobel, Marion",Undirected,73735,2
+"Henderson, Alice Corbin","Flint, F. S.",Undirected,73733,2
+"Henderson, Alice Corbin","Michelson, Max",Undirected,73725,6
+"Powys, John Cowper","Monroe, Harriet",Undirected,74300,2
+"Powys, John Cowper","Ficke, Arthur Davison",Undirected,74296,2
+"Powys, John Cowper","Soule, George",Undirected,74290,2
+"Powys, John Cowper",K.,Undirected,74278,2
+"Powys, John Cowper","Foster, George Burman",Undirected,74274,2
+"Powys, John Cowper","Schuchert, Herman",Undirected,74264,3
+"Powys, John Cowper","Saphier, William",Undirected,74261,2
+"Powys, John Cowper","Cowan, Sada",Undirected,74251,2
+"Powys, John Cowper","O'Neil, David",Undirected,74242,2
+"Powys, John Cowper","Aldington, Richard",Undirected,74241,5
+"Powys, John Cowper","Rolland, Romain",Undirected,74233,2
+"Speyer, Leonora","Winters, Yvor",Undirected,74336,2
+"Speyer, Leonora","Sapir, Edward",Undirected,74334,2
+"Speyer, Leonora","Tietjens, Eunice",Undirected,74330,2
+"Speyer, Leonora","Deutsch, Babette",Undirected,74328,2
+"Speyer, Leonora","Monroe, Harriet",Undirected,74325,3
+"Sherry, Laura","Schneider, Isidor",Undirected,74530,3
+"Sherry, Laura","Carnevali, Emanuel",Undirected,74521,3
+"Sherry, Laura","Monroe, Harriet",Undirected,74512,7
+"Sherry, Laura","Sapir, Edward",Undirected,74503,2
+"Sherry, Laura","Strobel, Marion",Undirected,74496,3
+"Sherry, Laura","Wescott, Glenway",Undirected,74494,2
+"Sherry, Laura","Aldington, Richard",Undirected,74485,2
+"Benét, William Rose","Sandburg, Carl",Undirected,74642,2
+"Benét, William Rose","Pound, Ezra",Undirected,74641,4
+"Benét, William Rose","Millay, Edna St. Vincent",Undirected,74632,2
+"Benét, William Rose","Monroe, Harriet",Undirected,74631,5
+"Benét, William Rose","Gibson, Wilfrid Wilson",Undirected,74617,2
+"Flexner, Hortense","Monroe, Harriet",Undirected,74695,4
+"Flexner, Hortense","Bishop, Morris",Undirected,74687,2
+"Josephson, Matthew","Carnevali, Emanuel",Undirected,74790,2
+"Mixter, Florence Kilpatrick","Monroe, Harriet",Undirected,74828,2
+"Nietzsche, Friedrich","Wing, DeWitt C.",Undirected,75001,4
+"Nietzsche, Friedrich","Schuchert, Herman",Undirected,74999,3
+"Nietzsche, Friedrich","Hoyt, Helen",Undirected,74996,2
+"Nietzsche, Friedrich","Shanafelt, Clara",Undirected,74992,2
+"Nietzsche, Friedrich","Butler, Samuel",Undirected,74991,2
+"Nietzsche, Friedrich","Dell, Floyd",Undirected,74990,2
+"Nietzsche, Friedrich","Lowell, Amy",Undirected,74985,7
+"Nietzsche, Friedrich","Soule, George",Undirected,74983,5
+"Nietzsche, Friedrich","Lindsay, Nicholas Vachel",Undirected,74968,2
+"Nietzsche, Friedrich","Tietjens, Eunice",Undirected,74959,6
+"Nietzsche, Friedrich","Pound, Ezra",Undirected,74956,2
+"Nietzsche, Friedrich","Goldman, Emma",Undirected,74954,2
+"Nietzsche, Friedrich","Saphier, William",Undirected,74947,3
+"Nietzsche, Friedrich","Sandburg, Carl",Undirected,74939,2
+"Nietzsche, Friedrich","Ashleigh, Charles",Undirected,74938,2
+"Nietzsche, Friedrich","Macdougall, Allan Ross",Undirected,74935,2
+"Nietzsche, Friedrich","Groff, Alice",Undirected,74933,3
+"Nietzsche, Friedrich",S. H. G.,Undirected,74931,2
+"Nietzsche, Friedrich","Frank, Florence Kiper",Undirected,74928,2
+"Nietzsche, Friedrich",D. C. W.,Undirected,74919,2
+"Nietzsche, Friedrich","Ficke, Arthur Davison",Undirected,74918,7
+"Nietzsche, Friedrich","De Braila, Lupo",Undirected,74917,2
+"Nietzsche, Friedrich","Sell, Henry Blackman",Undirected,74909,4
+"Nietzsche, Friedrich","Wells, H. G.",Undirected,74906,2
+"Nietzsche, Friedrich","Iverson, Sade",Undirected,74901,4
+"Nietzsche, Friedrich",K.,Undirected,74899,6
+"Nietzsche, Friedrich","Foster, George Burman",Undirected,74897,5
+"Nietzsche, Friedrich","Aldington, Richard",Undirected,74895,5
+"Nietzsche, Friedrich","Schnack, Fritz",Undirected,74894,2
+"Nietzsche, Friedrich",R. G.,Undirected,74893,3
+"Nietzsche, Friedrich","Anderson, Sherwood",Undirected,74884,4
+"Nietzsche, Friedrich",The Scavenger',Undirected,74873,2
+"Nietzsche, Friedrich","Hecht, Ben",Undirected,74872,6
+"Nietzsche, Friedrich","Flint, F. S.",Undirected,74871,2
+A. S. K.,"Tietjens, Eunice",Undirected,75158,3
+A. S. K.,"Wing, DeWitt C.",Undirected,75157,2
+A. S. K.,"Tagore, Rabindranath",Undirected,75144,2
+A. S. K.,"Soule, George",Undirected,75135,3
+A. S. K.,"Sell, Henry Blackman",Undirected,75118,2
+A. S. K.,"Ficke, Arthur Davison",Undirected,75117,2
+A. S. K.,"Foster, George Burman",Undirected,75112,3
+"Aiken, Conrad","Tietjens, Eunice",Undirected,75285,2
+"Aiken, Conrad","Monroe, Harriet",Undirected,75279,5
+"Aiken, Conrad","Lowell, Amy",Undirected,75264,2
+"Aiken, Conrad","Aldington, Richard",Undirected,75234,3
+"Sitwell, Osbert","Monroe, Harriet",Undirected,75352,2
+"Howard, Katherine","Lindsay, Vachel",Undirected,75394,2
+"Howard, Katherine","Pound, Ezra",Undirected,75392,2
+"Howard, Katherine","Monroe, Harriet",Undirected,75390,2
+"De Bosschère, Jean",jh,Undirected,75453,2
+"De Bosschère, Jean","Anderson, Margaret",Undirected,75438,2
+"De Bosschère, Jean","Williams, William Carlos",Undirected,75422,2
+"Fox, Moireen","Tietjens, Eunice",Undirected,75475,2
+"Fox, Moireen","Monroe, Harriet",Undirected,75471,2
+"Laforgue, Jules","Pound, Ezra",Undirected,75490,2
+"Hoyt, Helen","Ficke, Arthur Davison",Undirected,75693,2
+"Hoyt, Helen","Lowell, Amy",Undirected,75691,8
+"Hoyt, Helen","Soule, George",Undirected,75689,3
+"Hoyt, Helen","Schuchert, Herman",Undirected,75686,2
+"Hoyt, Helen","Knopf, Alfred A.",Undirected,75680,2
+"Hoyt, Helen",K.,Undirected,75665,3
+"Hoyt, Helen",H. D.,Undirected,75661,2
+"Hoyt, Helen","Tietjens, Eunice",Undirected,75656,5
+"Hoyt, Helen","Aldington, Richard",Undirected,75653,4
+"Hoyt, Helen","Pound, Ezra",Undirected,75652,4
+"Hoyt, Helen","Monroe, Harriet",Undirected,75643,6
+"Hoyt, Helen","Saphier, William",Undirected,75637,2
+"Hoyt, Helen","Hueffer, Ford Madox",Undirected,75634,2
+"Hoyt, Helen","Foster, George Burman",Undirected,75628,3
+"Hoyt, Helen","Ashleigh, Charles",Undirected,75621,3
+"Hoyt, Helen","Hecht, Ben",Undirected,75614,3
+"Hoyt, Helen","Groff, Alice",Undirected,75610,2
+"Hoyt, Helen","Campbell, Nancy",Undirected,75609,2
+"Hoyt, Helen","Kilmer, Joyce",Undirected,75602,2
+"Hoyt, Helen","Cannell, Skipwith",Undirected,75599,2
+"Eddy, Lucy",H. H.,Undirected,75733,2
+"Mastin, Florence Ripley","Monroe, Harriet",Undirected,76101,2
+N. A. C.,"Monroe, Harriet",Undirected,76255,2
+N. A. C.,"McAlmon, Robert",Undirected,76248,2
+"Murphy, Charles R.","Monroe, Harriet",Undirected,76356,2
+"Murphy, Charles R.","Scott, Evelyn",Undirected,76350,2
+"Iris, Scharmel","Tietjens, Eunice",Undirected,76412,3
+"Iris, Scharmel","Monroe, Harriet",Undirected,76408,2
+"Knopf, Alfred A.","Schuchert, Herman",Undirected,76449,2
+"Knopf, Alfred A.","Lowell, Amy",Undirected,76448,3
+"Knopf, Alfred A.","Soule, George",Undirected,76434,3
+"Knopf, Alfred A.",K.,Undirected,76427,3
+"Knopf, Alfred A.","Aldington, Richard",Undirected,76421,2
+"Knopf, Alfred A.","Foster, George Burman",Undirected,76418,2
+"Brody, Alter","Monroe, Harriet",Undirected,76653,2
+"Sabel, Marx G.","Turbyfill, Mark",Undirected,76728,2
+"Sabel, Marx G.","Monroe, Harriet",Undirected,76725,3
+"Crane, Hart","Apollinaire, Guillaume",Undirected,76802,2
+"Crane, Hart","Anderson, Margaret",Undirected,76789,3
+"Crane, Hart","Hecht, Ben",Undirected,76786,2
+"Crane, Hart","Hudson, Stephen",Undirected,76783,2
+"Crane, Hart","Burke, Kenneth",Undirected,76780,2
+"Crane, Hart",E. P.,Undirected,76778,2
+"Crane, Hart",jh,Undirected,76777,5
+"Crane, Hart","Gilmore, Louis",Undirected,76771,2
+"Crane, Hart","Pound, Ezra",Undirected,76766,2
+"Crane, Hart","Picabia, Francis",Undirected,76752,2
+"Crane, Hart",Man Ray,Undirected,76733,2
+"Corbin, Alice","Monroe, Harriet",Undirected,76898,9
+"Corbin, Alice","Rodker, John",Undirected,76895,2
+"Corbin, Alice","Carnevali, Emanuel",Undirected,76874,3
+"Corbin, Alice","Skinner, Constance Lindsay",Undirected,76871,2
+"Corbin, Alice","Sandburg, Carl",Undirected,76867,3
+"Corbin, Alice","Pound, Ezra",Undirected,76866,6
+"Corbin, Alice","Seiffert, Marjorie Allen",Undirected,76856,2
+"Corbin, Alice",E. T.,Undirected,76851,3
+"Corbin, Alice",H. H.,Undirected,76850,2
+"Corbin, Alice","Wilkinson, Florence",Undirected,76847,2
+"Corbin, Alice","Aldington, Richard",Undirected,76840,2
+"Corbin, Alice","Fuller, Henry B.",Undirected,76832,2
+"Anderson, Margaret","Sanders, Abel",Undirected,77046,4
+"Anderson, Margaret","Anderson, Sherwood",Undirected,77041,6
+"Anderson, Margaret","Apollinaire, Guillaume",Undirected,77034,2
+"Anderson, Margaret","Barnes, Djuna",Undirected,77023,7
+"Anderson, Margaret","Loving, Pierre",Undirected,77022,2
+"Anderson, Margaret","Waley, Arthur",Undirected,77020,2
+"Anderson, Margaret",Po Chu-I,Undirected,77019,2
+"Anderson, Margaret","Saphier, William",Undirected,77014,2
+"Anderson, Margaret","Sinclair, May",Undirected,77011,3
+"Anderson, Margaret","Butts, Mary",Undirected,77007,3
+"Anderson, Margaret","Carnevali, Emanuel",Undirected,77003,3
+"Anderson, Margaret","Hecht, Ben",Undirected,76997,6
+"Anderson, Margaret","Hartley, Marsden",Undirected,76995,2
+"Anderson, Margaret",E. P.,Undirected,76973,3
+"Anderson, Margaret","Scott, Evelyn",Undirected,76972,2
+"Anderson, Margaret","Williams, William Carlos",Undirected,76968,6
+"Anderson, Margaret","Damon, S. Foster",Undirected,76965,2
+"Anderson, Margaret","Richardson, Dorothy",Undirected,76963,4
+"Anderson, Margaret",jh,Undirected,76961,12
+"Anderson, Margaret","Solon, Israel",Undirected,76960,4
+"Anderson, Margaret","Monroe, Harriet",Undirected,76959,2
+"Anderson, Margaret","Lewis, Wyndham",Undirected,76958,4
+"Anderson, Margaret","Picabia, Francis",Undirected,76957,2
+"Anderson, Margaret","Rodker, John",Undirected,76956,8
+"Anderson, Margaret","Pound, Ezra",Undirected,76950,11
+"Anderson, Margaret","von Freytag-Loringhoven, Else",Undirected,76949,4
+"Anderson, Margaret","Turbyfill, Mark",Undirected,76945,2
+"Anderson, Margaret","Dismorr, Jessie",Undirected,76939,2
+"Anderson, Margaret","Hudson, Stephen",Undirected,76937,2
+"Anderson, Margaret","Gilmore, Louis",Undirected,76928,6
+"Anderson, Margaret","Fenollosa, Ernest",Undirected,76923,2
+"Anderson, Margaret","Szukalski, Stanislaw",Undirected,76913,2
+"Simpson, William H.","Monroe, Harriet",Undirected,77146,3
+"Simpson, William H.","Carnevali, Emanuel",Undirected,77129,2
+"Dresbach, Glenn Ward","Monroe, Harriet",Undirected,77261,8
+"Dresbach, Glenn Ward","Lawrence, D. H.",Undirected,77256,2
+"Dresbach, Glenn Ward","Baker, Karle Wilson",Undirected,77250,2
+"Dresbach, Glenn Ward","Tietjens, Eunice",Undirected,77231,2
+"Dresbach, Glenn Ward","Wheelock, John Hall",Undirected,77226,3
+"Dresbach, Glenn Ward","Lee, Agnes",Undirected,77221,2
+"Dresbach, Glenn Ward","Williams, William Carlos",Undirected,77217,3
+"Dresbach, Glenn Ward","Aldington, Richard",Undirected,77201,3
+"Hutchinson, Eugene","Hecht, Ben",Undirected,77390,2
+"Hutchinson, Eugene",The Scavenger',Undirected,77382,2
+"Hutchinson, Eugene","Frank, Florence Kiper",Undirected,77374,2
+"Hutchinson, Eugene","Aldington, Richard",Undirected,77371,2
+"Schuchert, Herman","Gabirol, Ibn",Undirected,77497,4
+"Schuchert, Herman","Tietjens, Eunice",Undirected,77494,5
+"Schuchert, Herman","Ficke, Arthur Davison",Undirected,77484,4
+"Schuchert, Herman","Lowell, Amy",Undirected,77480,4
+"Schuchert, Herman","Soule, George",Undirected,77478,6
+"Schuchert, Herman","Stearns, Mary Adams",Undirected,77477,3
+"Schuchert, Herman","Carter, Huntley",Undirected,77474,2
+"Schuchert, Herman",M. A. S.,Undirected,77470,2
+"Schuchert, Herman","Wilde, Oscar",Undirected,77467,2
+"Schuchert, Herman",K.,Undirected,77463,7
+"Schuchert, Herman","Iverson, Sade",Undirected,77457,2
+"Schuchert, Herman","Foster, George Burman",Undirected,77454,5
+"Schuchert, Herman",H. D.,Undirected,77451,2
+"Schuchert, Herman","Aldington, Richard",Undirected,77448,6
+"Schuchert, Herman","Schnack, Fritz",Undirected,77447,2
+"Schuchert, Herman","Anderson, Sherwood",Undirected,77425,2
+"Schuchert, Herman","Simon, Anne",Undirected,77421,2
+"Schuchert, Herman","Goethe, Johann Wolfgang",Undirected,77420,2
+"Schuchert, Herman","Cowan, Sada",Undirected,77414,2
+"Schuchert, Herman","Saphier, William",Undirected,77411,5
+"Schuchert, Herman","Hecht, Ben",Undirected,77409,2
+"Schuchert, Herman","Flint, F. S.",Undirected,77408,2
+"Schuchert, Herman","O'Neil, David",Undirected,77402,2
+"Schuchert, Herman","Frank, Florence Kiper",Undirected,77392,3
+"McCarthy, John Russell","Carnevali, Emanuel",Undirected,77554,2
+"McCarthy, John Russell","Monroe, Harriet",Undirected,77550,4
+"McCarthy, John Russell","Lowell, Amy",Undirected,77545,2
+"Bell, Clive","Kandinsky, Wassily",Undirected,77587,2
+"Untermeyer, Louis","Monroe, Harriet",Undirected,77686,7
+"Untermeyer, Louis","Carnevali, Emanuel",Undirected,77663,2
+"Untermeyer, Louis",H. B. F.,Undirected,77661,2
+"Untermeyer, Louis","Pound, Ezra",Undirected,77652,3
+"Untermeyer, Louis","Lee, Muna",Undirected,77650,2
+"Untermeyer, Louis","Eliot, T. S.",Undirected,77645,2
+"Untermeyer, Louis","Strobel, Marion",Undirected,77634,2
+"Untermeyer, Louis","Fuller, Henry B.",Undirected,77624,3
+"Piper, Edwin Ford","Davis, H. L.",Undirected,77730,2
+"Piper, Edwin Ford","Aldington, Richard",Undirected,77728,2
+"Piper, Edwin Ford","Monroe, Harriet",Undirected,77722,3
+"Piper, Edwin Ford","Carnevali, Emanuel",Undirected,77707,2
+H. D.,"Hecht, Ben",Undirected,77821,2
+H. D.,jh,Undirected,77818,2
+H. D.,"Ficke, Arthur Davison",Undirected,77811,2
+H. D.,"Lowell, Amy",Undirected,77808,3
+H. D.,"Soule, George",Undirected,77805,2
+H. D.,K.,Undirected,77787,2
+H. D.,"Schnack, Fritz",Undirected,77783,2
+H. D.,"Tietjens, Eunice",Undirected,77780,2
+H. D.,"Pound, Ezra",Undirected,77778,3
+H. D.,"Turbyfill, Mark",Undirected,77776,2
+H. D.,"Monroe, Harriet",Undirected,77775,6
+H. D.,"Saphier, William",Undirected,77768,2
+H. D.,"Hartley, Marsden",Undirected,77767,2
+H. D.,"Anderson, Sherwood",Undirected,77763,3
+H. D.,"Dean, Harriet",Undirected,77758,2
+H. D.,"Flint, F. S.",Undirected,77747,3
+H. D.,"Frank, Florence Kiper",Undirected,77741,2
+H. D.,"Aldington, Richard",Undirected,77737,4
+"Jennings, Leslie Nelson","Pound, Ezra",Undirected,77860,2
+"Jennings, Leslie Nelson","Monroe, Harriet",Undirected,77856,3
+"Buss, Kate","Monroe, Harriet",Undirected,77886,3
+"Foster, George Burman","Hecht, Ben",Undirected,78050,2
+"Foster, George Burman","Wing, DeWitt C.",Undirected,78044,6
+"Foster, George Burman","Butler, Samuel",Undirected,78041,2
+"Foster, George Burman","Dell, Floyd",Undirected,78039,2
+"Foster, George Burman","Lowell, Amy",Undirected,78036,9
+"Foster, George Burman","Tagore, Rabindranath",Undirected,78035,2
+"Foster, George Burman","Soule, George",Undirected,78033,10
+"Foster, George Burman","Stearns, Mary Adams",Undirected,78032,2
+"Foster, George Burman","Saphier, William",Undirected,78018,5
+"Foster, George Burman","Maeterlinck, Maurice",Undirected,78014,3
+"Foster, George Burman","Tietjens, Eunice",Undirected,78007,8
+"Foster, George Burman","Dhone, Illiam",Undirected,78005,2
+"Foster, George Burman","Lindsay, Nicholas Vachel",Undirected,77998,3
+"Foster, George Burman",D. C. W.,Undirected,77991,2
+"Foster, George Burman","Ashleigh, Charles",Undirected,77990,4
+"Foster, George Burman","Sell, Henry Blackman",Undirected,77986,5
+"Foster, George Burman","Cannell, Skipwith",Undirected,77977,2
+"Foster, George Burman","Rolland, Romain",Undirected,77976,2
+"Foster, George Burman","Frank, Florence Kiper",Undirected,77975,2
+"Foster, George Burman","Chenery, William L.",Undirected,77974,3
+"Foster, George Burman","Gabirol, Ibn",Undirected,77971,4
+"Foster, George Burman","Ficke, Arthur Davison",Undirected,77962,7
+"Foster, George Burman","Stephens, James",Undirected,77958,2
+"Foster, George Burman",G. S.,Undirected,77957,2
+"Foster, George Burman",S. H. G.,Undirected,77954,2
+"Foster, George Burman","Wilde, Oscar",Undirected,77951,3
+"Foster, George Burman","Wells, H. G.",Undirected,77949,3
+"Foster, George Burman","Iverson, Sade",Undirected,77945,3
+"Foster, George Burman",K.,Undirected,77944,6
+"Foster, George Burman","Aldington, Richard",Undirected,77938,6
+"Foster, George Burman","Anderson, Sherwood",Undirected,77929,2
+"Foster, George Burman","Goethe, Johann Wolfgang",Undirected,77925,2
+"Foster, George Burman",The Scavenger',Undirected,77917,2
+H. B. F.,"Monroe, Harriet",Undirected,78071,3
+H. B. F.,"Pound, Ezra",Undirected,78057,2
+"Reiss, Robert","Anderson, Sherwood",Undirected,78192,2
+"Reiss, Robert","von Freytag-Loringhoven, Else",Undirected,78191,2
+"Reiss, Robert",jh,Undirected,78187,2
+"Bauer, Harold","De Braila, Lupo",Undirected,78240,2
+"Bauer, Harold","Anderson, Sherwood",Undirected,78238,2
+"Bauer, Harold","Lowell, Amy",Undirected,78237,2
+"Bauer, Harold","Macdougall, Allan Ross",Undirected,78229,2
+"Bauer, Harold","Aldington, Richard",Undirected,78224,2
+"Iverson, Sade","Wing, DeWitt C.",Undirected,78309,3
+"Iverson, Sade","Butler, Samuel",Undirected,78307,2
+"Iverson, Sade",D. C. W.,Undirected,78304,2
+"Iverson, Sade","Ficke, Arthur Davison",Undirected,78301,3
+"Iverson, Sade","Lowell, Amy",Undirected,78298,3
+"Iverson, Sade","Soule, George",Undirected,78296,4
+"Iverson, Sade","Wells, H. G.",Undirected,78285,2
+"Iverson, Sade",K.,Undirected,78281,2
+"Iverson, Sade","Tietjens, Eunice",Undirected,78276,4
+"Iverson, Sade","Saphier, William",Undirected,78266,2
+"Iverson, Sade","Anderson, Sherwood",Undirected,78262,2
+"Iverson, Sade","Flint, F. S.",Undirected,78256,2
+"Iverson, Sade","Sell, Henry Blackman",Undirected,78255,3
+"Iverson, Sade","Aldington, Richard",Undirected,78253,2
+"Loving, Pierre","Pound, Ezra",Undirected,78358,2
+"Loving, Pierre","Richardson, Dorothy",Undirected,78357,2
+"Loving, Pierre",jh,Undirected,78354,2
+"Loving, Pierre","Saphier, William",Undirected,78347,2
+"Loving, Pierre","Scott, Evelyn",Undirected,78345,2
+"Loving, Pierre","Anderson, Sherwood",Undirected,78343,2
+"Loving, Pierre","Barnes, Djuna",Undirected,78338,2
+"Johnson, Fenton","Waldron, Winifred",Undirected,78404,2
+"Johnson, Fenton","Monroe, Harriet",Undirected,78400,2
+"Kohen, Esther","von Freytag-Loringhoven, Else (Baroness)",Undirected,78501,2
+"Kohen, Esther","Hecht, Ben",Undirected,78497,2
+"Kohen, Esther","Williams, William Carlos",Undirected,78478,2
+"Bellamann, Henry","Monroe, Harriet",Undirected,78514,2
+"Marks, Jeannette","Monroe, Harriet",Undirected,78632,2
+"Tagore, Rabindranath","Tietjens, Eunice",Undirected,78764,2
+"Tagore, Rabindranath","Pound, Ezra",Undirected,78761,2
+"Tagore, Rabindranath","Monroe, Harriet",Undirected,78758,2
+"Tagore, Rabindranath","Soule, George",Undirected,78740,2
+"Waldron, Winifred","Monroe, Harriet",Undirected,78774,2
+"von Freytag-Loringhoven, Else","Richardson, Dorothy",Undirected,78850,2
+"von Freytag-Loringhoven, Else",jh,Undirected,78849,6
+"von Freytag-Loringhoven, Else","Solon, Israel",Undirected,78848,3
+"von Freytag-Loringhoven, Else","Rodker, John",Undirected,78843,3
+"von Freytag-Loringhoven, Else","Barnes, Djuna",Undirected,78838,5
+"von Freytag-Loringhoven, Else","Hecht, Ben",Undirected,78835,3
+"von Freytag-Loringhoven, Else","Sinclair, May",Undirected,78831,2
+"von Freytag-Loringhoven, Else","Butts, Mary",Undirected,78828,5
+"von Freytag-Loringhoven, Else","Gilmore, Louis",Undirected,78826,2
+"von Freytag-Loringhoven, Else","Pound, Ezra",Undirected,78823,2
+"von Freytag-Loringhoven, Else","Anderson, Sherwood",Undirected,78815,5
+"von Freytag-Loringhoven, Else","Winthrop, Arthur",Undirected,78814,2
+"von Freytag-Loringhoven, Else","Scott, Evelyn",Undirected,78803,2
+"von Freytag-Loringhoven, Else","Williams, William Carlos",Undirected,78800,3
+"Birch, Helen Louise","Monroe, Harriet",Undirected,78895,2
+"Boyle, Kay","Monroe, Harriet",Undirected,78931,2
+"Ravenel, Beatrice","Monroe, Harriet",Undirected,78964,2
+"Campbell, Nancy","Monroe, Harriet",Undirected,79037,4
+"Campbell, Nancy","Pound, Ezra",Undirected,79031,2
+"Campbell, Nancy","Tietjens, Eunice",Undirected,79014,2
+"Monroe, Harriet","Manning, Frederic",Undirected,79672,3
+"Monroe, Harriet","Tanaquil, Paul",Undirected,79668,3
+"Monroe, Harriet","Pinckney, Josephine",Undirected,79662,2
+"Monroe, Harriet","Cheyne, Elizabeth Gibson",Undirected,79659,2
+"Monroe, Harriet","Weaver, John V. A.",Undirected,79651,2
+"Monroe, Harriet","McAlmon, Robert",Undirected,79648,2
+"Monroe, Harriet","Schneider, Isidor",Undirected,79647,9
+"Monroe, Harriet","Griffith, William",Undirected,79643,2
+"Monroe, Harriet","Upward, Allen",Undirected,79639,3
+"Monroe, Harriet","Skinner, Constance Lindsay",Undirected,79634,4
+"Monroe, Harriet","Livesay, Florence Randal",Undirected,79633,3
+"Monroe, Harriet","Ryan, Kathryn White",Undirected,79631,2
+"Monroe, Harriet","Winters, Yvor",Undirected,79627,6
+"Monroe, Harriet","Wheelock, John Hall",Undirected,79625,6
+"Monroe, Harriet","Stork, Charles Wharton",Undirected,79624,2
+"Monroe, Harriet","Saphier, William",Undirected,79620,3
+"Monroe, Harriet","Hunt, Richard",Undirected,79616,3
+"Monroe, Harriet",E. T.,Undirected,79611,7
+"Monroe, Harriet","Wilenski, Reginald H.",Undirected,79608,2
+"Monroe, Harriet","Syrian, Ajan",Undirected,79598,2
+"Monroe, Harriet","Browne, Maurice",Undirected,79596,3
+"Monroe, Harriet","Sanders, Emmy Veronica",Undirected,79594,2
+"Monroe, Harriet","Bangs, Janet Norris",Undirected,79587,2
+"Monroe, Harriet","Fuller, Henry B.",Undirected,79583,7
+"Monroe, Harriet",jh,Undirected,79577,3
+"Monroe, Harriet","Williams, Oscar",Undirected,79574,2
+"Monroe, Harriet","Drinkwater, John",Undirected,79571,4
+"Monroe, Harriet","Ficke, Arthur Davison",Undirected,79570,7
+"Monroe, Harriet",M. A. S.,Undirected,79559,3
+"Monroe, Harriet","Turbyfill, Mark",Undirected,79558,7
+"Monroe, Harriet","Kilmer, Aline",Undirected,79556,2
+"Monroe, Harriet","Roe, Robert J.",Undirected,79553,2
+"Monroe, Harriet","Rich, H. Thompson",Undirected,79551,3
+"Monroe, Harriet","Broadus, Edmund Kemper",Undirected,79548,2
+"Monroe, Harriet","McClure, John",Undirected,79546,2
+"Monroe, Harriet","Updegraff, Allan",Undirected,79545,2
+"Monroe, Harriet","Snow, Royall",Undirected,79537,2
+"Monroe, Harriet","Redfield, Louise",Undirected,79536,2
+"Monroe, Harriet","Dodd, Lee Wilson",Undirected,79535,4
+"Monroe, Harriet","Gilmore, Louis",Undirected,79534,2
+"Monroe, Harriet","Brownell, Baker",Undirected,79533,6
+"Monroe, Harriet","Bernhard, Svea",Undirected,79530,2
+"Monroe, Harriet","Waley, Arthur",Undirected,79526,5
+"Monroe, Harriet","Grudin, Louis",Undirected,79525,3
+"Monroe, Harriet","McNaught, Elmond Franklin",Undirected,79517,2
+"Monroe, Harriet","Anderson, Sherwood",Undirected,79512,2
+"Monroe, Harriet","Bishop, Morris",Undirected,79505,3
+"Monroe, Harriet","Sarett, Lew",Undirected,79498,2
+"Monroe, Harriet","Brooke, Rupert",Undirected,79492,2
+"Monroe, Harriet","Davis, Fannie Stearns",Undirected,79487,2
+"Monroe, Harriet","Frank, Florence Kiper",Undirected,79485,5
+"Monroe, Harriet","Aber, Loureine",Undirected,79484,2
+"Monroe, Harriet","Akins, Zoë",Undirected,79483,2
+"Monroe, Harriet","Smith, Clark Ashton",Undirected,79480,2
+"Monroe, Harriet","Williams, William Carlos",Undirected,79478,11
+"Monroe, Harriet","Davis, H. L.",Undirected,79475,5
+"Monroe, Harriet","Wyatt, Edith",Undirected,79471,10
+"Monroe, Harriet","Jones, Howard Mumford",Undirected,79467,2
+"Monroe, Harriet","O'Brien, Edward J.",Undirected,79466,2
+"Monroe, Harriet","Dudley, Helen",Undirected,79463,4
+"Monroe, Harriet","Heyward, DuBose",Undirected,79462,3
+"Monroe, Harriet","Lawrence, D. H.",Undirected,79461,7
+"Monroe, Harriet","Stuart, Muriel",Undirected,79460,2
+"Monroe, Harriet","Patterson, Antoinette De Coursey",Undirected,79459,3
+"Monroe, Harriet","Hecht, Ben",Undirected,79446,2
+"Monroe, Harriet","Hagedorn, Hermann",Undirected,79444,4
+"Monroe, Harriet","Fitzgerald, Ellen",Undirected,79441,3
+"Monroe, Harriet","Carnevali, Emanuel",Undirected,79440,19
+"Monroe, Harriet","Sapir, Edward",Undirected,79437,5
+"Monroe, Harriet","Frost, Robert",Undirected,79436,3
+"Monroe, Harriet","Tietjens, Eunice",Undirected,79433,23
+"Monroe, Harriet","Walton, Eda Lou",Undirected,79432,2
+"Monroe, Harriet","Tagore, Rabindra Nath",Undirected,79431,2
+"Monroe, Harriet","Pound, Ezra",Undirected,79430,44
+"Monroe, Harriet","Torrence, Ridgely",Undirected,79427,3
+"Monroe, Harriet","Untermeyer, Jean Starr",Undirected,79426,3
+"Monroe, Harriet","Monro, Harold",Undirected,79424,4
+"Monroe, Harriet","Millay, Edna St. Vincent",Undirected,79423,5
+"Monroe, Harriet","Hartley, Marsden",Undirected,79421,5
+"Monroe, Harriet","Lindsay, Vachel",Undirected,79420,8
+"Monroe, Harriet","Wattles, Willard",Undirected,79414,4
+"Monroe, Harriet","North, Jessica Nelson",Undirected,79409,2
+"Monroe, Harriet","Aldington, Richard",Undirected,79400,20
+"Monroe, Harriet","Kilmer, Joyce",Undirected,79396,2
+"Monroe, Harriet","Knevels, Mary Eastwood",Undirected,79395,2
+"Monroe, Harriet","Cannell, Skipwith",Undirected,79393,3
+"Monroe, Harriet","Fujita, Jun",Undirected,79392,3
+"Monroe, Harriet","O'Donnell, Charles L.",Undirected,79390,4
+"Monroe, Harriet","Goldring, Douglas",Undirected,79386,2
+"Monroe, Harriet","Galahad, Joseph Andrew",Undirected,79382,2
+"Monroe, Harriet","Phelps, Arthur L.",Undirected,79379,2
+"Monroe, Harriet","Webb, Winifred",Undirected,79376,2
+"Monroe, Harriet","Gibson, Wilfrid Wilson",Undirected,79372,4
+"Monroe, Harriet","Beach, Joseph Warren",Undirected,79371,2
+"Monroe, Harriet","Nichols, Robert",Undirected,79370,2
+"Monroe, Harriet","Boogher, Susan M.",Undirected,79369,2
+"Monroe, Harriet","Starbuck, Victor",Undirected,79366,3
+"Monroe, Harriet","Hitch, Alfred",Undirected,79360,2
+"Monroe, Harriet","Sandburg, Carl",Undirected,79346,14
+"Monroe, Harriet","Wickham, Anna",Undirected,79345,2
+"Monroe, Harriet","Barrett, Wilton Agnew",Undirected,79342,3
+"Monroe, Harriet","Stewart, H. W.",Undirected,79337,4
+"Monroe, Harriet","Barry, Iris",Undirected,79331,2
+"Monroe, Harriet","Deutsch, Babette",Undirected,79329,6
+"Monroe, Harriet","Zaturensky, Marya",Undirected,79323,2
+"Monroe, Harriet","Lindsay, Nicholas Vachel",Undirected,79322,3
+"Monroe, Harriet","Strobel, Marion",Undirected,79320,12
+"Monroe, Harriet","Norton, Grace Fallow",Undirected,79319,4
+"Monroe, Harriet","Flint, F. S.",Undirected,79318,5
+"Monroe, Harriet","Laird, William",Undirected,79317,3
+"Monroe, Harriet","Lee, Agnes",Undirected,79316,13
+"Monroe, Harriet","Michelson, Max",Undirected,79310,12
+"Monroe, Harriet","Long, Haniel",Undirected,79309,2
+"Monroe, Harriet","Fitch, Anita",Undirected,79306,2
+"Monroe, Harriet","Ciolkowska, Muriel",Undirected,79299,3
+"Monroe, Harriet","Dell, Floyd",Undirected,79294,3
+"Monroe, Harriet","De la Mare, Walter",Undirected,79293,2
+"Monroe, Harriet","Lowell, Amy",Undirected,79291,23
+"Monroe, Harriet","Baker, Karle Wilson",Undirected,79288,4
+"Monroe, Harriet","Lee, Muna",Undirected,79282,5
+"Monroe, Harriet","Teasdale, Sara",Undirected,79278,4
+"Monroe, Harriet","Gilbert, Morris",Undirected,79274,4
+"Monroe, Harriet","Colahan, Ellwood",Undirected,79272,2
+"Monroe, Harriet","Rhys, Ernest",Undirected,79271,3
+"Monroe, Harriet","Curran, Edwin",Undirected,79270,2
+"Monroe, Harriet","Stevens, Thomas Wood",Undirected,79264,2
+"Monroe, Harriet","Meeker, Marjorie",Undirected,79259,2
+"Monroe, Harriet","Gordon, Frank S.",Undirected,79251,3
+"Monroe, Harriet","Shaw, Frances",Undirected,79242,5
+"Monroe, Harriet","Roth, Samuel",Undirected,79240,2
+"Monroe, Harriet","Cook, Harold",Undirected,79239,2
+"Monroe, Harriet","Shanafelt, Clara",Undirected,79236,3
+"Monroe, Harriet","Wood, Clement",Undirected,79231,5
+"Monroe, Harriet",A. F.,Undirected,79230,4
+"Monroe, Harriet","McCluskey, Katherine Wisner",Undirected,79226,2
+"Monroe, Harriet","Golding, Louis",Undirected,79225,2
+"Monroe, Harriet","Patterson, Antoinette DeCoursey",Undirected,79224,3
+"Monroe, Harriet","Hueffer, Ford Madox",Undirected,79223,4
+"Monroe, Harriet","Hall, Hazel",Undirected,79217,3
+"Monroe, Harriet","Rilke, Rainer Maria",Undirected,79215,2
+"Monroe, Harriet","Kreymborg, Alfred",Undirected,79211,13
+"Monroe, Harriet","Davies, Mary Carolyn",Undirected,79210,4
+"Monroe, Harriet","Robinson, Edwin Arlington",Undirected,79208,2
+"Monroe, Harriet",Anon.,Undirected,79207,2
+"Monroe, Harriet","Wilkinson, Florence",Undirected,79205,4
+"Monroe, Harriet","Wescott, Glenway",Undirected,79203,5
+"Monroe, Harriet","Birch-Bartlett, Helen",Undirected,79201,2
+"Monroe, Harriet","Symons, Arthur",Undirected,79194,2
+"Monroe, Harriet","Eliot, T. S.",Undirected,79192,4
+"Monroe, Harriet","Stevens, Wallace",Undirected,79185,8
+"Monroe, Harriet","Seiffert, Marjorie Allen",Undirected,79184,10
+"Monroe, Harriet","Jesson, Frederick Shea",Undirected,79181,2
+"Monroe, Harriet","Austin, Mary",Undirected,79180,3
+"Monroe, Harriet","Freer, Agnes Lee",Undirected,79179,9
+"Monroe, Harriet",H. H.,Undirected,79174,7
+"Monroe, Harriet","Cawein, Madison",Undirected,79173,4
+"Monroe, Harriet","Morton, David",Undirected,79172,3
+"Monroe, Harriet","Rodker, John",Undirected,79171,6
+"Monroe, Harriet","Cournos, John",Undirected,79169,2
+"Monroe, Harriet","Scott, Evelyn",Undirected,79167,4
+"Monroe, Harriet","Trench, Herbert",Undirected,79162,2
+"Monroe, Harriet","Head, Cloyd",Undirected,79161,5
+"Monroe, Harriet","Alvord, James Church",Undirected,79157,2
+"Wescott, Glenway","Heyward, DuBose",Undirected,79727,2
+"Wescott, Glenway","Carnevali, Emanuel",Undirected,79718,2
+"Wescott, Glenway","Schneider, Isidor",Undirected,79710,2
+"Wescott, Glenway","Strobel, Marion",Undirected,79708,2
+"Shanafelt, Clara","Pound, Ezra",Undirected,79810,3
+"Shanafelt, Clara","Ficke, Arthur Davison",Undirected,79806,2
+"Shanafelt, Clara","Cawein, Madison",Undirected,79799,2
+"Shanafelt, Clara","Hecht, Ben",Undirected,79794,2
+"Shanafelt, Clara","Aldington, Richard",Undirected,79777,2
+"Richardson, Dorothy","Cowley, Malcolm",Undirected,79948,2
+"Richardson, Dorothy",jh,Undirected,79941,5
+"Richardson, Dorothy","Solon, Israel",Undirected,79940,2
+"Richardson, Dorothy","Rodker, John",Undirected,79937,6
+"Richardson, Dorothy","Turbyfill, Mark",Undirected,79936,3
+"Richardson, Dorothy","Barnes, Djuna",Undirected,79934,4
+"Richardson, Dorothy","Ciolkowska, Muriel",Undirected,79921,2
+"Richardson, Dorothy","Dismorr, Jessie",Undirected,79919,2
+"Richardson, Dorothy","Carnevali, Emanuel",Undirected,79917,7
+"Richardson, Dorothy","Butts, Mary",Undirected,79914,4
+"Richardson, Dorothy","Gilmore, Louis",Undirected,79910,4
+"Richardson, Dorothy","Pound, Ezra",Undirected,79908,7
+"Richardson, Dorothy","Bellamann, H. H.",Undirected,79903,2
+"Richardson, Dorothy","Fenollosa, Ernest",Undirected,79901,3
+"Richardson, Dorothy","Saphier, William",Undirected,79900,3
+"Richardson, Dorothy","Hartley, Marsden",Undirected,79899,3
+"Richardson, Dorothy","Anderson, Sherwood",Undirected,79897,7
+"Richardson, Dorothy",F. E. R.,Undirected,79894,3
+"Richardson, Dorothy","Scott, Evelyn",Undirected,79884,3
+"Richardson, Dorothy","Williams, William Carlos",Undirected,79882,7
+Anon.,"Aldington, Richard",Undirected,79983,2
+Anon.,"Strobel, Marion",Undirected,79962,2
+Anon.,"Tietjens, Eunice",Undirected,79955,2
+Anon.,"Frank, Florence Kiper",Undirected,79951,2
+Man Ray,jh,Undirected,80005,2
+R. G.,"Ficke, Arthur Davison",Undirected,80088,2
+R. G.,"Anderson, Sherwood",Undirected,80086,2
+R. G.,"Lowell, Amy",Undirected,80085,2
+R. G.,"Hecht, Ben",Undirected,80081,2
+R. G.,"De Braila, Lupo",Undirected,80080,2
+R. G.,"Macdougall, Allan Ross",Undirected,80078,2
+R. G.,"Groff, Alice",Undirected,80076,2
+"Robinson, Edwin Arlington","Lowell, Amy",Undirected,80120,2
+"Davies, Mary Carolyn","Lee, Muna",Undirected,80213,2
+"Davies, Mary Carolyn","Carnevali, Emanuel",Undirected,80204,2
+"Davies, Mary Carolyn","Pound, Ezra",Undirected,80196,2
+"Kreymborg, Alfred","Gilbert, Morris",Undirected,80299,2
+"Kreymborg, Alfred","Deutsch, Babette",Undirected,80295,2
+"Kreymborg, Alfred",H. H.,Undirected,80290,2
+"Kreymborg, Alfred","Carnevali, Emanuel",Undirected,80286,4
+"Kreymborg, Alfred","Sandburg, Carl",Undirected,80274,4
+"Kreymborg, Alfred","Pound, Ezra",Undirected,80273,6
+"Kreymborg, Alfred","Hartley, Marsden",Undirected,80262,3
+"Kreymborg, Alfred","Lee, Agnes",Undirected,80261,2
+"Kreymborg, Alfred","Lindsay, Vachel",Undirected,80253,2
+"Kreymborg, Alfred","Waley, Arthur",Undirected,80251,2
+"Kreymborg, Alfred","Morton, David",Undirected,80250,2
+"Kreymborg, Alfred","Wattles, Willard",Undirected,80248,2
+"Kreymborg, Alfred","Flint, F. S.",Undirected,80241,2
+"Kreymborg, Alfred","Aldington, Richard",Undirected,80231,4
+"Kreymborg, Alfred","Michelson, Max",Undirected,80230,2
+"Kreymborg, Alfred","Williams, William Carlos",Undirected,80227,2
+"Baker, Karle Wilson","Sandburg, Carl",Undirected,80379,2
+"Baker, Karle Wilson","Wheelock, John Hall",Undirected,80377,2
+"Baker, Karle Wilson","Lowell, Amy",Undirected,80371,2
+"Baker, Karle Wilson","Stevens, Wallace",Undirected,80364,3
+E. P.,"Hecht, Ben",Undirected,80465,6
+E. P.,jh,Undirected,80460,6
+E. P.,"Solon, Israel",Undirected,80459,3
+E. P.,"Lewis, Wyndham",Undirected,80458,4
+E. P.,"Rodker, John",Undirected,80455,4
+E. P.,"Szukalski, Stanislaw",Undirected,80444,2
+E. P.,"Dismorr, Jessie",Undirected,80439,2
+E. P.,"Sinclair, May",Undirected,80438,2
+E. P.,"Pound, Ezra",Undirected,80433,6
+E. P.,"Hartley, Marsden",Undirected,80426,2
+E. P.,"Anderson, Sherwood",Undirected,80423,3
+E. P.,"Hueffer, Ford Madox",Undirected,80415,5
+E. P.,"Jepson, Edgar",Undirected,80410,2
+E. P.,"Daniel, Arnaut",Undirected,80403,2
+E. P.,"Michelson, Max",Undirected,80401,2
+E. P.,"Williams, William Carlos",Undirected,80399,3
+"Groff, Alice","Hecht, Ben",Undirected,80552,3
+"Groff, Alice","Lowell, Amy",Undirected,80547,3
+"Groff, Alice",jh,Undirected,80546,5
+"Groff, Alice","Lewis, Wyndham",Undirected,80543,2
+"Groff, Alice","Zwaska, Charles",Undirected,80534,2
+"Groff, Alice","Symons, Arthur",Undirected,80515,2
+"Groff, Alice","Pound, Ezra",Undirected,80514,5
+"Groff, Alice","Cann, Louise Gebhard",Undirected,80506,2
+"Groff, Alice","Anderson, Sherwood",Undirected,80501,2
+"Groff, Alice",K.,Undirected,80500,2
+"Groff, Alice","De Braila, Lupo",Undirected,80493,2
+"Groff, Alice","Carr, Daphne",Undirected,80486,2
+"Groff, Alice","Macdougall, Allan Ross",Undirected,80485,3
+"Groff, Alice","Aldington, Richard",Undirected,80480,4
+"Schnack, Fritz","Sandburg, Carl",Undirected,80591,2
+"Schnack, Fritz","Saphier, William",Undirected,80585,3
+"Schnack, Fritz","Anderson, Sherwood",Undirected,80581,2
+"Schnack, Fritz","Soule, George",Undirected,80579,2
+"Schnack, Fritz","Dean, Harriet",Undirected,80576,2
+"Schnack, Fritz",K.,Undirected,80566,3
+"Schnack, Fritz","Flint, F. S.",Undirected,80564,2
+"Schnack, Fritz","Ficke, Arthur Davison",Undirected,80562,2
+"Schnack, Fritz","Aldington, Richard",Undirected,80559,2
+"Hall, Hazel","Carnevali, Emanuel",Undirected,80660,2
+"Jepson, Edgar","Pound, Ezra",Undirected,80686,2
+"Jepson, Edgar","Rodker, John",Undirected,80679,2
+"Jepson, Edgar","Hueffer, Ford Madox",Undirected,80671,2
+"Jepson, Edgar","Hecht, Ben",Undirected,80670,2
+"Lawrence, D. H.","Rodker, John",Undirected,80760,2
+"Lawrence, D. H.","Lowell, Amy",Undirected,80756,2
+"Lawrence, D. H.","Phelps, Arthur L.",Undirected,80755,2
+"Lawrence, D. H.","Tietjens, Eunice",Undirected,80737,3
+"Lawrence, D. H.","Pound, Ezra",Undirected,80734,3
+"Lawrence, D. H.","Sandburg, Carl",Undirected,80728,2
+"Lawrence, D. H.",H. H.,Undirected,80717,2
+"Lawrence, D. H.","Aldington, Richard",Undirected,80709,4
+"Lawrence, D. H.","Williams, William Carlos",Undirected,80704,2
+"Webb, Winifred","Pound, Ezra",Undirected,80786,2
+"Hueffer, Ford Madox","Lowell, Amy",Undirected,80924,2
+"Hueffer, Ford Madox","Lewis, Wyndham",Undirected,80921,4
+"Hueffer, Ford Madox","Rodker, John",Undirected,80919,4
+"Hueffer, Ford Madox",jh,Undirected,80912,4
+"Hueffer, Ford Madox","Hecht, Ben",Undirected,80905,5
+"Hueffer, Ford Madox","Dismorr, Jessie",Undirected,80896,2
+"Hueffer, Ford Madox","Sinclair, May",Undirected,80895,2
+"Hueffer, Ford Madox","Pound, Ezra",Undirected,80893,11
+"Hueffer, Ford Madox","Anderson, Sherwood",Undirected,80864,3
+"Hueffer, Ford Madox","Aldington, Richard",Undirected,80850,2
+"Hueffer, Ford Madox","Michelson, Max",Undirected,80849,2
+"Hueffer, Ford Madox","Kilmer, Joyce",Undirected,80848,2
+"Hueffer, Ford Madox","Williams, William Carlos",Undirected,80845,3
+"Patterson, Antoinette DeCoursey","Michelson, Max",Undirected,80950,2
+A. F.,"Tietjens, Eunice",Undirected,81140,3
+A. F.,"Pound, Ezra",Undirected,81126,2
+A. F.,"O'Donnell, Charles L.",Undirected,81124,2
+"Wood, Clement","Tietjens, Eunice",Undirected,81177,2
+"Wood, Clement","Pound, Ezra",Undirected,81175,2
+"Simon, Anne","Tietjens, Eunice",Undirected,81210,2
+"Simon, Anne",K.,Undirected,81208,2
+"Gould, Wallace","Heller, Helen West",Undirected,81351,2
+"Shaw, Frances","Pound, Ezra",Undirected,81413,2
+"Shaw, Frances","Tietjens, Eunice",Undirected,81411,2
+"Shaw, Frances","Michelson, Max",Undirected,81379,3
+"Freer, Agnes Lee","Lowell, Amy",Undirected,81619,3
+"Freer, Agnes Lee","Carnevali, Emanuel",Undirected,81593,2
+"Freer, Agnes Lee","Sandburg, Carl",Undirected,81586,2
+"Freer, Agnes Lee","Sapir, Edward",Undirected,81574,2
+"Freer, Agnes Lee","Aldington, Richard",Undirected,81559,2
+"Gordon, Frank S.","Pound, Ezra",Undirected,81631,2
+"Eliot, T. S.","Pound, Ezra",Undirected,81778,8
+"Eliot, T. S.",jh,Undirected,81774,3
+"Eliot, T. S.","Lewis, Wyndham",Undirected,81772,3
+"Eliot, T. S.","Rodker, John",Undirected,81771,3
+"Eliot, T. S.",E. T.,Undirected,81764,2
+"Eliot, T. S.","Ficke, Arthur Davison",Undirected,81763,2
+"Eliot, T. S.","Griffith, William",Undirected,81750,2
+"Eliot, T. S.","Livesay, Florence Randal",Undirected,81747,2
+C. A. Z.,K.,Undirected,81904,3
+C. A. Z.,"Soule, George",Undirected,81903,2
+C. A. Z.,"Ficke, Arthur Davison",Undirected,81887,2
+"Stevens, Thomas Wood","Lee, Agnes",Undirected,81956,2
+"Maeterlinck, Maurice","Tietjens, Eunice",Undirected,82002,2
+"Maeterlinck, Maurice",K.,Undirected,82000,2
+"Maeterlinck, Maurice","Lowell, Amy",Undirected,81990,2
+"Maeterlinck, Maurice","Soule, George",Undirected,81987,3
+"Maeterlinck, Maurice","Ashleigh, Charles",Undirected,81978,2
+"Maeterlinck, Maurice",G. S.,Undirected,81975,2
+"Maeterlinck, Maurice","Wilde, Oscar",Undirected,81968,2
+"Wilkinson, Florence","Pound, Ezra",Undirected,82039,2
+"Wilkinson, Florence","Lee, Agnes",Undirected,82036,2
+"Rhys, Ernest","Pound, Ezra",Undirected,82210,3
+"Picabia, Francis","Gilmore, Louis",Undirected,82307,2
+"Picabia, Francis","Apollinaire, Guillaume",Undirected,82302,3
+"Picabia, Francis","Pound, Ezra",Undirected,82295,2
+"Picabia, Francis",jh,Undirected,82288,4
+"Picabia, Francis","Burke, Kenneth",Undirected,82279,3
+"Szukalski, Stanislaw","Rodker, John",Undirected,82349,2
+"Szukalski, Stanislaw","Reiss, R.",Undirected,82344,2
+"Szukalski, Stanislaw","Hecht, Ben",Undirected,82339,3
+"Szukalski, Stanislaw",jh,Undirected,82334,2
+"Szukalski, Stanislaw","Pound, Ezra",Undirected,82330,3
+"Szukalski, Stanislaw","Turbyfill, Mark",Undirected,82329,2
+"Szukalski, Stanislaw","Williams, William Carlos",Undirected,82309,2
+"Gilbert, Morris","Sandburg, Carl",Undirected,82379,2
+"Gilbert, Morris","Tietjens, Eunice",Undirected,82375,2
+"Gilbert, Morris","Lowell, Amy",Undirected,82371,2
+"Wolff, Adolf","Lowell, Amy",Undirected,82415,2
+"Rosenberg, Isaac","Pound, Ezra",Undirected,82436,2
+"Teasdale, Sara","Lowell, Amy",Undirected,82488,2
+"Teasdale, Sara","Sandburg, Carl",Undirected,82470,2
+"Teasdale, Sara","Pound, Ezra",Undirected,82469,3
+"Teasdale, Sara",M. M.,Undirected,82462,2
+"Teasdale, Sara","Seiffert, Marjorie Allen",Undirected,82449,2
+"Waley, Arthur",jh,Undirected,82564,2
+"Waley, Arthur","Lewis, Wyndham",Undirected,82562,2
+"Waley, Arthur","Lowell, Amy",Undirected,82560,3
+"Waley, Arthur","Tietjens, Eunice",Undirected,82544,2
+"Waley, Arthur","Pound, Ezra",Undirected,82542,4
+"Waley, Arthur",Po Chu-I,Undirected,82534,2
+"Waley, Arthur",H. H.,Undirected,82533,2
+"Waley, Arthur","Strobel, Marion",Undirected,82532,2
+"Lee, Muna","Pound, Ezra",Undirected,82590,2
+"Lee, Muna","Strobel, Marion",Undirected,82585,2
+"Lee, Muna","Fuller, Henry B.",Undirected,82573,2
+"Barnes, Djuna","Sanders, Abel",Undirected,82719,2
+"Barnes, Djuna","Cowley, Malcolm",Undirected,82717,2
+"Barnes, Djuna",jh,Undirected,82710,7
+"Barnes, Djuna","Solon, Israel",Undirected,82709,3
+"Barnes, Djuna","Rodker, John",Undirected,82706,5
+"Barnes, Djuna","Carnevali, Emanuel",Undirected,82699,3
+"Barnes, Djuna","Sinclair, May",Undirected,82695,2
+"Barnes, Djuna","Gilmore, Louis",Undirected,82688,3
+"Barnes, Djuna","Pound, Ezra",Undirected,82685,5
+"Barnes, Djuna","Turbyfill, Mark",Undirected,82684,3
+"Barnes, Djuna","Saphier, William",Undirected,82679,2
+"Barnes, Djuna","Tzara, Tristan",Undirected,82677,2
+"Barnes, Djuna","Damon, S. Foster",Undirected,82676,3
+"Barnes, Djuna","Anderson, Sherwood",Undirected,82675,9
+"Barnes, Djuna","Butts, Mary",Undirected,82668,5
+"Barnes, Djuna",F. E. R.,Undirected,82666,2
+"Barnes, Djuna","Hecht, Ben",Undirected,82661,4
+"Barnes, Djuna","Stevens, Wallace",Undirected,82658,2
+"Barnes, Djuna","Scott, Evelyn",Undirected,82657,2
+"Barnes, Djuna","Williams, William Carlos",Undirected,82653,3
+G. S.,"Tietjens, Eunice",Undirected,82818,2
+G. S.,"Soule, George",Undirected,82803,2
+G. S.,"Wilde, Oscar",Undirected,82799,2
+"Lowell, Amy","Wing, DeWitt C.",Undirected,83026,4
+"Lowell, Amy","Dell, Floyd",Undirected,83014,3
+"Lowell, Amy","Cheyne, Elizabeth Gibson",Undirected,83011,2
+"Lowell, Amy","Stearns, Mary Adams",Undirected,83010,2
+"Lowell, Amy","Kilmer, Joyce",Undirected,82999,2
+"Lowell, Amy","Goldman, Emma",Undirected,82995,2
+"Lowell, Amy","O'Brien, Edward J.",Undirected,82992,2
+"Lowell, Amy","De Braila, Lupo",Undirected,82989,2
+"Lowell, Amy","Saphier, William",Undirected,82984,3
+"Lowell, Amy","Lee, Agnes",Undirected,82983,3
+"Lowell, Amy","Hunt, Richard",Undirected,82982,3
+"Lowell, Amy","Cann, Louise Gebhard",Undirected,82978,2
+"Lowell, Amy","Fuller, Henry B.",Undirected,82966,2
+"Lowell, Amy",jh,Undirected,82961,3
+"Lowell, Amy","Ficke, Arthur Davison",Undirected,82955,6
+"Lowell, Amy","Chenery, William L.",Undirected,82954,2
+"Lowell, Amy","Stephens, James",Undirected,82952,2
+"Lowell, Amy","Wilde, Oscar",Undirected,82948,2
+"Lowell, Amy",K.,Undirected,82939,6
+"Lowell, Amy","Symons, Arthur",Undirected,82933,2
+"Lowell, Amy","Turbyfill, Mark",Undirected,82932,5
+"Lowell, Amy","Brooke, Rupert",Undirected,82926,3
+"Lowell, Amy","Anderson, Sherwood",Undirected,82925,6
+"Lowell, Amy","Hecht, Ben",Undirected,82915,6
+"Lowell, Amy","Stevens, Wallace",Undirected,82914,4
+"Lowell, Amy","Frank, Florence Kiper",Undirected,82912,7
+"Lowell, Amy","Hagedorn, Hermann",Undirected,82910,2
+"Lowell, Amy","Dudley, Helen",Undirected,82902,2
+"Lowell, Amy","Soule, George",Undirected,82900,8
+"Lowell, Amy","Lindsay, Nicholas Vachel",Undirected,82895,5
+"Lowell, Amy","Tietjens, Eunice",Undirected,82890,10
+"Lowell, Amy","Pound, Ezra",Undirected,82889,11
+"Lowell, Amy","Upward, Allen",Undirected,82880,3
+"Lowell, Amy","Cournos, John",Undirected,82879,2
+"Lowell, Amy","Ashleigh, Charles",Undirected,82878,5
+"Lowell, Amy","Macdougall, Allan Ross",Undirected,82877,2
+"Lowell, Amy","Sell, Henry Blackman",Undirected,82874,3
+"Lowell, Amy","Aldington, Richard",Undirected,82872,11
+"Lowell, Amy","Cannell, Skipwith",Undirected,82868,3
+"Lowell, Amy","Gabirol, Ibn",Undirected,82862,2
+"Lowell, Amy",S. H. G.,Undirected,82855,2
+"Lowell, Amy","Sandburg, Carl",Undirected,82841,6
+"Lowell, Amy","Trench, Herbert",Undirected,82834,2
+"Lowell, Amy","Stewart, H. W.",Undirected,82833,2
+"Lowell, Amy","Seiffert, Marjorie Allen",Undirected,82830,2
+"Lowell, Amy","Deutsch, Babette",Undirected,82829,2
+"Lowell, Amy",The Scavenger',Undirected,82825,2
+"Lowell, Amy","Flint, F. S.",Undirected,82823,5
+"Lowell, Amy","Michelson, Max",Undirected,82820,4
+"Dell, Floyd","Wing, DeWitt C.",Undirected,83133,2
+"Dell, Floyd","Tietjens, Eunice",Undirected,83130,2
+"Dell, Floyd","Soule, George",Undirected,83121,2
+"Dell, Floyd",S. H. G.,Undirected,83117,2
+"Dell, Floyd","Lindsay, Nicholas Vachel",Undirected,83094,2
+"Dell, Floyd","Sell, Henry Blackman",Undirected,83089,2
+"Dell, Floyd","Browne, Maurice",Undirected,83083,2
+"Apollinaire, Guillaume","Gilmore, Louis",Undirected,83180,2
+"Apollinaire, Guillaume",jh,Undirected,83164,3
+"Apollinaire, Guillaume","Burke, Kenneth",Undirected,83153,2
+"Davis, H. L.","Seiffert, Marjorie Allen",Undirected,83270,2
+"Davis, H. L.","Aldington, Richard",Undirected,83262,2
+"Birch-Bartlett, Helen","Aldington, Richard",Undirected,83339,2
+"Birch-Bartlett, Helen","Carnevali, Emanuel",Undirected,83332,2
+"Sanders, Abel",jh,Undirected,83406,4
+"Sanders, Abel","Lewis, Wyndham",Undirected,83405,2
+"Sanders, Abel","Rodker, John",Undirected,83404,3
+"Sanders, Abel","Anderson, Sherwood",Undirected,83401,2
+"Sanders, Abel","Pound, Ezra",Undirected,83399,2
+"Sanders, Abel","Williams, William Carlos",Undirected,83383,2
+"Long, Haniel","Carnevali, Emanuel",Undirected,83467,2
+"Michelson, Max","O'Brien, Edward J.",Undirected,83588,2
+"Michelson, Max","Carnevali, Emanuel",Undirected,83576,2
+"Michelson, Max","Anderson, Sherwood",Undirected,83574,2
+"Michelson, Max","Pound, Ezra",Undirected,83570,5
+"Michelson, Max","Tietjens, Eunice",Undirected,83566,2
+"Michelson, Max","Lindsay, Vachel",Undirected,83559,2
+"Michelson, Max",jh,Undirected,83541,2
+"Michelson, Max","Sandburg, Carl",Undirected,83524,2
+"Michelson, Max","Barry, Iris",Undirected,83519,2
+"Michelson, Max","Hecht, Ben",Undirected,83511,3
+"Michelson, Max","Stevens, Wallace",Undirected,83509,2
+"Wilde, Oscar","Soule, George",Undirected,83644,3
+"Wilde, Oscar",K.,Undirected,83638,2
+"Wilde, Oscar","Tietjens, Eunice",Undirected,83630,2
+"Lee, Agnes","Tietjens, Eunice",Undirected,83810,2
+"Lee, Agnes","Sandburg, Carl",Undirected,83803,2
+"Lee, Agnes","Carnevali, Emanuel",Undirected,83791,2
+"Lee, Agnes","Pound, Ezra",Undirected,83781,4
+"Lee, Agnes","Seiffert, Marjorie Allen",Undirected,83774,2
+"Lee, Agnes","Flint, F. S.",Undirected,83766,2
+"Laird, William","Wyatt, Edith",Undirected,83826,2
+"Laird, William","Flint, F. S.",Undirected,83823,2
+"Flint, F. S.","Ficke, Arthur Davison",Undirected,83884,2
+"Flint, F. S.","Soule, George",Undirected,83878,3
+"Flint, F. S.","Hagedorn, Hermann",Undirected,83872,2
+"Flint, F. S.","Saphier, William",Undirected,83869,2
+"Flint, F. S.",K.,Undirected,83866,2
+"Flint, F. S.","Tietjens, Eunice",Undirected,83861,2
+"Flint, F. S.","Dean, Harriet",Undirected,83860,2
+"Flint, F. S.","Pound, Ezra",Undirected,83859,4
+"Flint, F. S.","Anderson, Sherwood",Undirected,83848,2
+"Flint, F. S.","Aldington, Richard",Undirected,83847,4
+"Flint, F. S.","Sandburg, Carl",Undirected,83843,2
+"Flint, F. S.","Frank, Florence Kiper",Undirected,83831,2
+"Norton, Grace Fallow","Pound, Ezra",Undirected,83918,2
+"Norton, Grace Fallow","Aldington, Richard",Undirected,83916,2
+"Strobel, Marion","Deutsch, Babette",Undirected,83991,2
+"Strobel, Marion","Winters, Yvor",Undirected,83989,2
+"Strobel, Marion","Schneider, Isidor",Undirected,83976,3
+"Strobel, Marion","Carnevali, Emanuel",Undirected,83971,6
+"Strobel, Marion","Sanders, Emmy Veronica",Undirected,83967,2
+"Strobel, Marion","Tietjens, Eunice",Undirected,83963,5
+"Strobel, Marion","Brownell, Baker",Undirected,83962,2
+"Strobel, Marion","Monro, Harold",Undirected,83955,2
+"Strobel, Marion","Seiffert, Marjorie Allen",Undirected,83949,2
+"Strobel, Marion","Sapir, Edward",Undirected,83940,2
+"Strobel, Marion","Williams, William Carlos",Undirected,83929,2
+"Strobel, Marion","Fuller, Henry B.",Undirected,83928,2
+The Scavenger',"Ficke, Arthur Davison",Undirected,84005,3
+The Scavenger',K.,Undirected,84003,2
+The Scavenger',"Hecht, Ben",Undirected,83999,4
+The Scavenger',"Aldington, Richard",Undirected,83994,4
+The Scavenger',"Rolland, Romain",Undirected,83993,2
+The Scavenger',"Frank, Florence Kiper",Undirected,83992,2
+"Lindsay, Nicholas Vachel","Wing, DeWitt C.",Undirected,84071,3
+"Lindsay, Nicholas Vachel","Soule, George",Undirected,84059,3
+"Lindsay, Nicholas Vachel",S. H. G.,Undirected,84057,2
+"Lindsay, Nicholas Vachel","Tietjens, Eunice",Undirected,84047,3
+"Lindsay, Nicholas Vachel","Pound, Ezra",Undirected,84045,2
+"Lindsay, Nicholas Vachel","Sell, Henry Blackman",Undirected,84031,2
+"Zaturensky, Marya","Carnevali, Emanuel",Undirected,84084,2
+"Deutsch, Babette","Pound, Ezra",Undirected,84259,2
+"Deutsch, Babette","Seiffert, Marjorie Allen",Undirected,84249,2
+"Deutsch, Babette","Aldington, Richard",Undirected,84240,2
+"Deutsch, Babette","Williams, William Carlos",Undirected,84236,2
+"Barry, Iris",jh,Undirected,84348,2
+"Barry, Iris","Rodker, John",Undirected,84346,2
+"Barry, Iris","Pound, Ezra",Undirected,84330,3
+"Seiffert, Marjorie Allen","Pound, Ezra",Undirected,84434,2
+"Seiffert, Marjorie Allen","Carnevali, Emanuel",Undirected,84421,2
+"Seiffert, Marjorie Allen","Tietjens, Eunice",Undirected,84416,2
+"Seiffert, Marjorie Allen","Turbyfill, Mark",Undirected,84409,2
+"Seiffert, Marjorie Allen","Aldington, Richard",Undirected,84385,3
+"Bellamann, H. H.","Ciolkowska, Muriel",Undirected,84625,2
+S. H. G.,"Tietjens, Eunice",Undirected,84681,2
+S. H. G.,"Wing, DeWitt C.",Undirected,84680,2
+S. H. G.,"Soule, George",Undirected,84664,2
+S. H. G.,"Sell, Henry Blackman",Undirected,84658,2
+"Barrett, Wilton Agnew","Pound, Ezra",Undirected,84683,2
+C. Z.,"Gilmore, Louis",Undirected,84710,2
+C. Z.,jh,Undirected,84708,2
+"Zwaska, Charles","Anderson, Sherwood",Undirected,84757,2
+"Zwaska, Charles","De Braila, Lupo",Undirected,84750,2
+"Zwaska, Charles","Macdougall, Allan Ross",Undirected,84749,2
+"Sandburg, Carl",E. T.,Undirected,84843,3
+"Sandburg, Carl","Wyatt, Edith",Undirected,84834,2
+"Sandburg, Carl","Saphier, William",Undirected,84833,3
+"Sandburg, Carl","Carnevali, Emanuel",Undirected,84829,2
+"Sandburg, Carl","Tietjens, Eunice",Undirected,84825,5
+"Sandburg, Carl",K.,Undirected,84822,2
+"Sandburg, Carl","Pound, Ezra",Undirected,84821,7
+"Sandburg, Carl",H. H.,Undirected,84813,2
+"Sandburg, Carl","Wattles, Willard",Undirected,84811,3
+"Sandburg, Carl","Aldington, Richard",Undirected,84808,4
+"Sandburg, Carl","Williams, William Carlos",Undirected,84804,2
+"Sandburg, Carl","Fuller, Henry B.",Undirected,84803,3
+"Sandburg, Carl","Stevens, Wallace",Undirected,84801,2
+"Sandburg, Carl","Gibson, Wilfrid Wilson",Undirected,84789,2
+"Sandburg, Carl","Turbyfill, Mark",Undirected,84776,2
+"Sandburg, Carl","Anderson, Sherwood",Undirected,84774,3
+"Sandburg, Carl","Hecht, Ben",Undirected,84769,2
+D. C. W.,"Tietjens, Eunice",Undirected,84883,2
+D. C. W.,"Wing, DeWitt C.",Undirected,84874,2
+D. C. W.,"Wells, H. G.",Undirected,84872,2
+D. C. W.,"Butler, Samuel",Undirected,84871,2
+D. C. W.,"Ficke, Arthur Davison",Undirected,84869,2
+D. C. W.,"Anderson, Sherwood",Undirected,84865,2
+D. C. W.,"Soule, George",Undirected,84863,2
+D. C. W.,"Sell, Henry Blackman",Undirected,84858,2
+"Reiss, R.","Hecht, Ben",Undirected,85023,2
+"Reiss, R.","Turbyfill, Mark",Undirected,85018,2
+"Reiss, R.","Williams, William Carlos",Undirected,85015,2
+"Dean, Harriet","Saphier, William",Undirected,85058,2
+"Dean, Harriet","Ficke, Arthur Davison",Undirected,85056,2
+"Dean, Harriet","Anderson, Sherwood",Undirected,85053,3
+"Dean, Harriet",K.,Undirected,85045,2
+"Dean, Harriet","Frank, Florence Kiper",Undirected,85041,2
+"Dean, Harriet","Aldington, Richard",Undirected,85040,2
+"Wheelock, John Hall","Schneider, Isidor",Undirected,85078,2
+"Wheelock, John Hall","Pound, Ezra",Undirected,85072,2
+"Hudson, Stephen",jh,Undirected,85134,2
+"Wells, H. G.","Wing, DeWitt C.",Undirected,85221,3
+"Wells, H. G.","Butler, Samuel",Undirected,85215,2
+"Wells, H. G.","Ficke, Arthur Davison",Undirected,85214,3
+"Wells, H. G.","Stephens, James",Undirected,85213,2
+"Wells, H. G.","Soule, George",Undirected,85212,3
+"Wells, H. G.","Tietjens, Eunice",Undirected,85204,3
+"Wells, H. G.","Anderson, Sherwood",Undirected,85195,2
+"Wells, H. G.","Sell, Henry Blackman",Undirected,85190,3
+"Fenollosa, Ernest","Gilmore, Louis",Undirected,85300,2
+"Fenollosa, Ernest","Pound, Ezra",Undirected,85299,5
+"Fenollosa, Ernest",jh,Undirected,85296,2
+"Fenollosa, Ernest","Rodker, John",Undirected,85294,3
+"Fenollosa, Ernest",F. E. R.,Undirected,85291,2
+"Fenollosa, Ernest","Carnevali, Emanuel",Undirected,85286,3
+"Fenollosa, Ernest","Anderson, Sherwood",Undirected,85285,2
+"Fenollosa, Ernest","Butts, Mary",Undirected,85284,2
+"Fenollosa, Ernest","Williams, William Carlos",Undirected,85281,2
+"Nichols, Robert","Tietjens, Eunice",Undirected,85306,2
+"Beach, Joseph Warren","Pound, Ezra",Undirected,85344,2
+"Gibson, Wilfrid Wilson","Tietjens, Eunice",Undirected,85367,2
+"Gibson, Wilfrid Wilson","Torrence, Ridgely",Undirected,85365,2
+"Gibson, Wilfrid Wilson","Pound, Ezra",Undirected,85358,4
+"O'Donnell, Charles L.","Tietjens, Eunice",Undirected,85383,3
+"O'Donnell, Charles L.","Aldington, Richard",Undirected,85371,2
+"Phelps, Arthur L.","Williams, William Carlos",Undirected,85440,2
+"Galahad, Joseph Andrew","Schneider, Isidor",Undirected,85487,2
+"Dhone, Illiam","Ficke, Arthur Davison",Undirected,85519,2
+"Dhone, Illiam","Soule, George",Undirected,85514,2
+"Winthrop, Arthur",jh,Undirected,85551,2
+"Rodker, John","Cowley, Malcolm",Undirected,85635,2
+"Rodker, John","Sinclair, May",Undirected,85619,3
+"Rodker, John","Butts, Mary",Undirected,85617,5
+"Rodker, John","Carnevali, Emanuel",Undirected,85613,3
+"Rodker, John","Pound, Ezra",Undirected,85612,15
+"Rodker, John","Hecht, Ben",Undirected,85607,7
+"Rodker, John","Hartley, Marsden",Undirected,85605,4
+"Rodker, John","Tzara, Tristan",Undirected,85604,2
+"Rodker, John",F. E. R.,Undirected,85596,2
+"Rodker, John","Daniel, Arnaut",Undirected,85593,2
+"Rodker, John","Aldington, Richard",Undirected,85586,3
+"Rodker, John","Williams, William Carlos",Undirected,85582,6
+"Rodker, John",jh,Undirected,85577,13
+"Rodker, John","Solon, Israel",Undirected,85576,3
+"Rodker, John","Lewis, Wyndham",Undirected,85575,3
+"Rodker, John","Turbyfill, Mark",Undirected,85569,4
+"Rodker, John","Ciolkowska, Muriel",Undirected,85566,3
+"Rodker, John","Dismorr, Jessie",Undirected,85565,3
+"Rodker, John","Gilmore, Louis",Undirected,85563,6
+"Rodker, John","Anderson, Sherwood",Undirected,85559,7
+"Gabirol, Ibn","Ficke, Arthur Davison",Undirected,85728,2
+"Gabirol, Ibn","Soule, George",Undirected,85724,3
+"Gabirol, Ibn","Stearns, Mary Adams",Undirected,85720,2
+"Gabirol, Ibn",K.,Undirected,85717,3
+"Gabirol, Ibn","Tietjens, Eunice",Undirected,85714,3
+"Gabirol, Ibn","Goethe, Johann Wolfgang",Undirected,85708,2
+"Gabirol, Ibn","Saphier, William",Undirected,85705,3
+"Gabirol, Ibn","Aldington, Richard",Undirected,85700,2
+"Stevens, Wallace","Damon, S. Foster",Undirected,85785,2
+"Stevens, Wallace","Solon, Israel",Undirected,85765,2
+"Stevens, Wallace","Turbyfill, Mark",Undirected,85759,2
+"Stevens, Wallace","Hecht, Ben",Undirected,85755,2
+"Stevens, Wallace","Anderson, Sherwood",Undirected,85752,2
+"Stevens, Wallace","Aldington, Richard",Undirected,85741,2
+"Stevens, Wallace","Frank, Florence Kiper",Undirected,85736,3
+"Stevens, Wallace","Williams, William Carlos",Undirected,85734,2
+"Damon, S. Foster","Solon, Israel",Undirected,85812,2
+"Damon, S. Foster","Anderson, Sherwood",Undirected,85809,3
+"Damon, S. Foster","Hecht, Ben",Undirected,85803,2
+"Damon, S. Foster","Williams, William Carlos",Undirected,85799,2
+"Williams, William Carlos","Anderson, Sherwood",Undirected,85943,6
+"Williams, William Carlos","Manning, Frederic",Undirected,85942,2
+"Williams, William Carlos","Saphier, William",Undirected,85924,2
+"Williams, William Carlos","Sinclair, May",Undirected,85923,3
+"Williams, William Carlos","Carnevali, Emanuel",Undirected,85922,7
+"Williams, William Carlos","Pound, Ezra",Undirected,85913,10
+"Williams, William Carlos","Hartley, Marsden",Undirected,85910,4
+"Williams, William Carlos","Lindsay, Vachel",Undirected,85908,2
+"Williams, William Carlos","Schneider, Isidor",Undirected,85903,2
+"Williams, William Carlos","Frost, Robert",Undirected,85896,2
+"Williams, William Carlos","Scott, Evelyn",Undirected,85894,2
+"Williams, William Carlos","Aldington, Richard",Undirected,85892,3
+"Williams, William Carlos","von Freytag-Loringhoven, Else (Baroness)",Undirected,85885,2
+"Williams, William Carlos",jh,Undirected,85884,9
+"Williams, William Carlos","Solon, Israel",Undirected,85883,5
+"Williams, William Carlos","Lewis, Wyndham",Undirected,85882,3
+"Williams, William Carlos","Butts, Mary",Undirected,85878,3
+"Williams, William Carlos","Turbyfill, Mark",Undirected,85875,4
+"Williams, William Carlos","Dismorr, Jessie",Undirected,85867,3
+"Williams, William Carlos","Gilmore, Louis",Undirected,85862,5
+"Williams, William Carlos","McNaught, Elmond Franklin",Undirected,85857,2
+"Williams, William Carlos","Hecht, Ben",Undirected,85849,6
+"Fujita, Jun","Tietjens, Eunice",Undirected,85971,2
+"Fujita, Jun","Turbyfill, Mark",Undirected,85963,2
+"Fujita, Jun","Carnevali, Emanuel",Undirected,85956,2
+"Fujita, Jun","Fuller, Henry B.",Undirected,85953,3
+"Cannell, Skipwith","Aldington, Richard",Undirected,86006,2
+"Cannell, Skipwith","Tietjens, Eunice",Undirected,86003,2
+"Cannell, Skipwith","Ficke, Arthur Davison",Undirected,85998,2
+"Cannell, Skipwith","Pound, Ezra",Undirected,85980,3
+"Cannell, Skipwith","Kilmer, Joyce",Undirected,85976,2
+"Aldington, Richard","Ciolkowska, Muriel",Undirected,86188,2
+"Aldington, Richard","Stearns, Mary Adams",Undirected,86184,2
+"Aldington, Richard","Lindsay, Vachel",Undirected,86180,2
+"Aldington, Richard","Schneider, Isidor",Undirected,86178,2
+"Aldington, Richard","Cournos, John",Undirected,86172,2
+"Aldington, Richard","De Braila, Lupo",Undirected,86171,2
+"Aldington, Richard","Saphier, William",Undirected,86165,4
+"Aldington, Richard",E. T.,Undirected,86162,3
+"Aldington, Richard","Cann, Louise Gebhard",Undirected,86159,2
+"Aldington, Richard","Carr, Daphne",Undirected,86158,3
+"Aldington, Richard","Rolland, Romain",Undirected,86150,3
+"Aldington, Richard",jh,Undirected,86147,4
+"Aldington, Richard","Ficke, Arthur Davison",Undirected,86140,8
+"Aldington, Richard",M. A. S.,Undirected,86136,2
+"Aldington, Richard",K.,Undirected,86129,6
+"Aldington, Richard","Turbyfill, Mark",Undirected,86123,4
+"Aldington, Richard","Anderson, Sherwood",Undirected,86118,4
+"Aldington, Richard","Cowan, Sada",Undirected,86113,2
+"Aldington, Richard","Hecht, Ben",Undirected,86110,7
+"Aldington, Richard","Soule, George",Undirected,86095,5
+"Aldington, Richard","Carter, Huntley",Undirected,86094,2
+"Aldington, Richard","Carnevali, Emanuel",Undirected,86090,4
+"Aldington, Richard","Sapir, Edward",Undirected,86089,3
+"Aldington, Richard","Tietjens, Eunice",Undirected,86086,7
+"Aldington, Richard","Pound, Ezra",Undirected,86084,9
+"Aldington, Richard","Morton, David",Undirected,86077,2
+"Aldington, Richard","Ashleigh, Charles",Undirected,86074,3
+"Aldington, Richard","Macdougall, Allan Ross",Undirected,86071,2
+"Aldington, Richard","O'Neil, David",Undirected,86067,2
+"Aldington, Richard","Frank, Florence Kiper",Undirected,86065,5
+"O'Neil, David","Saphier, William",Undirected,86234,2
+"O'Neil, David","Cowan, Sada",Undirected,86226,2
+"Macdougall, Allan Ross","Ficke, Arthur Davison",Undirected,86295,2
+"Macdougall, Allan Ross","Anderson, Sherwood",Undirected,86292,3
+"Macdougall, Allan Ross","De Braila, Lupo",Undirected,86286,3
+"Daniel, Arnaut","Hecht, Ben",Undirected,86326,2
+"Daniel, Arnaut","Pound, Ezra",Undirected,86325,2
+"Daniel, Arnaut",jh,Undirected,86321,2
+F. E. R.,"Gilmore, Louis",Undirected,86382,2
+F. E. R.,"Pound, Ezra",Undirected,86380,4
+F. E. R.,jh,Undirected,86379,2
+F. E. R.,"Anderson, Sherwood",Undirected,86375,3
+F. E. R.,"Butts, Mary",Undirected,86373,2
+F. E. R.,"Carnevali, Emanuel",Undirected,86372,3
+"Wattles, Willard","Tietjens, Eunice",Undirected,86428,2
+"Hartley, Marsden","Hecht, Ben",Undirected,86582,3
+"Hartley, Marsden",jh,Undirected,86581,2
+"Hartley, Marsden","Carnevali, Emanuel",Undirected,86573,4
+"Hartley, Marsden","Gilmore, Louis",Undirected,86570,3
+"Hartley, Marsden","Pound, Ezra",Undirected,86567,3
+"Hartley, Marsden","Anderson, Sherwood",Undirected,86558,3
+"Austin, Mary","Carnevali, Emanuel",Undirected,86602,2
+"Millay, Edna St. Vincent","Gilmore, Louis",Undirected,86637,2
+"Monro, Harold","Pound, Ezra",Undirected,86656,2
+"Monro, Harold","Tietjens, Eunice",Undirected,86655,3
+"Monro, Harold","Carnevali, Emanuel",Undirected,86641,2
+"Monro, Harold","Fuller, Henry B.",Undirected,86638,2
+"Torrence, Ridgely","Pound, Ezra",Undirected,86695,2
+"Pound, Ezra",E. T.,Undirected,86886,3
+"Pound, Ezra",Sasaki,Undirected,86874,2
+"Pound, Ezra","Saphier, William",Undirected,86870,4
+"Pound, Ezra","Griffith, William",Undirected,86869,2
+"Pound, Ezra","Fitzgerald, Ellen",Undirected,86867,2
+"Pound, Ezra","Cawein, Madison",Undirected,86865,3
+"Pound, Ezra","Butts, Mary",Undirected,86864,4
+"Pound, Ezra","Jones, Howard Mumford",Undirected,86863,2
+"Pound, Ezra","Skinner, Constance Lindsay",Undirected,86861,3
+"Pound, Ezra","Rimbaud, Arthur",Undirected,86842,2
+"Pound, Ezra","Carr, Daphne",Undirected,86837,2
+"Pound, Ezra","Browne, Maurice",Undirected,86830,2
+"Pound, Ezra","Sanborn, Robert Alden",Undirected,86828,2
+"Pound, Ezra","Fuller, Henry B.",Undirected,86825,2
+"Pound, Ezra","Davis, Fannie Stearns",Undirected,86821,2
+"Pound, Ezra",jh,Undirected,86816,18
+"Pound, Ezra","Solon, Israel",Undirected,86815,4
+"Pound, Ezra","Lewis, Wyndham",Undirected,86814,10
+"Pound, Ezra","Drinkwater, John",Undirected,86813,3
+"Pound, Ezra","Ficke, Arthur Davison",Undirected,86810,6
+"Pound, Ezra","Symons, Arthur",Undirected,86809,2
+"Pound, Ezra","Cheyne, Elizabeth Gibson",Undirected,86806,2
+"Pound, Ezra","Rich, H. Thompson",Undirected,86797,2
+"Pound, Ezra","Dismorr, Jessie",Undirected,86795,2
+"Pound, Ezra","Broadus, Edmund Kemper",Undirected,86794,2
+"Pound, Ezra","Gilmore, Louis",Undirected,86787,8
+"Pound, Ezra","Turbyfill, Mark",Undirected,86783,4
+"Pound, Ezra","Anderson, Sherwood",Undirected,86778,10
+"Pound, Ezra","Hecht, Ben",Undirected,86771,8
+"Pound, Ezra","Brooke, Rupert",Undirected,86770,3
+"Pound, Ezra","Wyatt, Edith",Undirected,86760,7
+"Pound, Ezra","Dudley, Helen",Undirected,86759,2
+"Pound, Ezra",Po Chu-I,Undirected,86752,2
+"Pound, Ezra","Hagedorn, Hermann",Undirected,86750,2
+"Pound, Ezra","Sinclair, May",Undirected,86746,5
+"Pound, Ezra","Carnevali, Emanuel",Undirected,86745,7
+"Pound, Ezra","Tietjens, Eunice",Undirected,86742,8
+"Pound, Ezra",H. H.,Undirected,86738,4
+"Pound, Ezra","Lindsay, Vachel",Undirected,86733,5
+"Pound, Ezra","Scott, Evelyn",Undirected,86732,2
+"Pound, Ezra","Kilmer, Joyce",Undirected,86731,2
+"Pound, Ezra","Ciolkowska, Muriel",Undirected,86725,2
+"Pound, Ezra","Hitch, Alfred",Undirected,86719,2
+"Tietjens, Eunice","Wing, DeWitt C.",Undirected,87024,6
+"Tietjens, Eunice","Butler, Samuel",Undirected,87019,2
+"Tietjens, Eunice","Stearns, Mary Adams",Undirected,87017,2
+"Tietjens, Eunice","Fitzgerald, Ellen",Undirected,87007,2
+"Tietjens, Eunice","Winters, Yvor",Undirected,87001,2
+"Tietjens, Eunice","Saphier, William",Undirected,86996,6
+"Tietjens, Eunice",E. T.,Undirected,86992,2
+"Tietjens, Eunice","Sanders, Emmy Veronica",Undirected,86987,2
+"Tietjens, Eunice","Fuller, Henry B.",Undirected,86983,3
+"Tietjens, Eunice","Head, Cloyd",Undirected,86977,2
+"Tietjens, Eunice","Ficke, Arthur Davison",Undirected,86976,8
+"Tietjens, Eunice",M. A. S.,Undirected,86973,2
+"Tietjens, Eunice",K.,Undirected,86968,5
+"Tietjens, Eunice","Turbyfill, Mark",Undirected,86963,3
+"Tietjens, Eunice","Anderson, Sherwood",Undirected,86955,3
+"Tietjens, Eunice","Goethe, Johann Wolfgang",Undirected,86953,2
+"Tietjens, Eunice","Frank, Florence Kiper",Undirected,86949,3
+"Tietjens, Eunice","Wyatt, Edith",Undirected,86944,4
+"Tietjens, Eunice","Soule, George",Undirected,86936,9
+"Tietjens, Eunice","Hecht, Ben",Undirected,86930,2
+"Tietjens, Eunice","Carnevali, Emanuel",Undirected,86928,2
+"Tietjens, Eunice","Sapir, Edward",Undirected,86924,2
+"Tietjens, Eunice","Ashleigh, Charles",Undirected,86919,3
+"Tietjens, Eunice","Chenery, William L.",Undirected,86918,2
+"Tietjens, Eunice","Whitman, Walt",Undirected,86916,2
+"Tietjens, Eunice","Sell, Henry Blackman",Undirected,86915,5
+"Tietjens, Eunice","Kilmer, Joyce",Undirected,86914,2
+"Tietjens, Eunice","Stephens, James",Undirected,86911,2
+"Kenton, Edna","Anderson, Sherwood",Undirected,87046,2
+"Sapir, Edward","Carnevali, Emanuel",Undirected,87084,2
+"Carnevali, Emanuel","Sanders, Emmy Veronica",Undirected,87165,2
+"Carnevali, Emanuel","Dismorr, Jessie",Undirected,87159,2
+"Carnevali, Emanuel","Schneider, Isidor",Undirected,87157,6
+"Carnevali, Emanuel","Saphier, William",Undirected,87154,2
+"Carnevali, Emanuel","Butts, Mary",Undirected,87150,4
+"Carnevali, Emanuel",H. H.,Undirected,87140,3
+"Carnevali, Emanuel","Morton, David",Undirected,87139,2
+"Carnevali, Emanuel","Scott, Evelyn",Undirected,87136,3
+"Carnevali, Emanuel","Fuller, Henry B.",Undirected,87134,2
+"Carnevali, Emanuel",jh,Undirected,87133,2
+"Carnevali, Emanuel","Turbyfill, Mark",Undirected,87130,3
+"Carnevali, Emanuel","Gilmore, Louis",Undirected,87116,4
+"Carnevali, Emanuel","Brownell, Baker",Undirected,87115,2
+"Carnevali, Emanuel","Anderson, Sherwood",Undirected,87108,4
+"Carnevali, Emanuel",M. A. S.,Undirected,87107,2
+"Sinclair, May",jh,Undirected,87219,5
+"Sinclair, May","Lewis, Wyndham",Undirected,87216,3
+"Sinclair, May","Hecht, Ben",Undirected,87213,4
+"Sinclair, May","Butts, Mary",Undirected,87211,2
+"Sinclair, May","Solon, Israel",Undirected,87210,4
+"Sinclair, May","Gilmore, Louis",Undirected,87209,3
+"Sinclair, May","Anderson, Sherwood",Undirected,87204,2
+"Goethe, Johann Wolfgang","Saphier, William",Undirected,87256,2
+"Goethe, Johann Wolfgang","Soule, George",Undirected,87253,2
+"Goethe, Johann Wolfgang",K.,Undirected,87249,2
+"Hagedorn, Hermann","Cheyne, Elizabeth Gibson",Undirected,87301,2
+Po Chu-I,jh,Undirected,87338,2
+Po Chu-I,"Lewis, Wyndham",Undirected,87336,2
+"Carter, Huntley",K.,Undirected,87380,2
+"Carter, Huntley","Ficke, Arthur Davison",Undirected,87366,2
+"Carter, Huntley","Frank, Florence Kiper",Undirected,87363,2
+"Soule, George","Wing, DeWitt C.",Undirected,87456,6
+"Soule, George","Butler, Samuel",Undirected,87455,2
+"Soule, George","Stearns, Mary Adams",Undirected,87451,3
+"Soule, George","Saphier, William",Undirected,87447,6
+"Soule, George",K.,Undirected,87444,7
+"Soule, George","Ashleigh, Charles",Undirected,87437,4
+"Soule, George","Sell, Henry Blackman",Undirected,87435,5
+"Soule, George","Frank, Florence Kiper",Undirected,87431,2
+"Soule, George","Chenery, William L.",Undirected,87430,3
+"Soule, George","Ficke, Arthur Davison",Undirected,87424,7
+"Soule, George","Stephens, James",Undirected,87422,2
+"Soule, George",M. A. S.,Undirected,87420,2
+"Soule, George","Anderson, Sherwood",Undirected,87410,3
+"O'Brien, Edward J.","Anderson, Sherwood",Undirected,87555,3
+"Livesay, Florence Randal",E. T.,Undirected,87589,2
+"Wyatt, Edith","Dodd, Lee Wilson",Undirected,87624,2
+"Wyatt, Edith","Cawein, Madison",Undirected,87617,2
+"Wyatt, Edith","Ficke, Arthur Davison",Undirected,87611,3
+"Cowley, Malcolm","Anderson, Sherwood",Undirected,87666,2
+"Ciolkowska, Muriel","Turbyfill, Mark",Undirected,87717,3
+"Ciolkowska, Muriel",jh,Undirected,87715,3
+"Ciolkowska, Muriel","Anderson, Sherwood",Undirected,87712,2
+"Frank, Florence Kiper","Ficke, Arthur Davison",Undirected,87796,3
+"Frank, Florence Kiper","Stearns, Mary Adams",Undirected,87794,2
+"Frank, Florence Kiper",M. A. S.,Undirected,87790,2
+"Frank, Florence Kiper",K.,Undirected,87787,3
+"Frank, Florence Kiper","Grudin, Louis",Undirected,87782,2
+"Frank, Florence Kiper","Anderson, Sherwood",Undirected,87775,3
+"Frank, Florence Kiper","Hecht, Ben",Undirected,87771,2
+"Whitman, Walt","Ficke, Arthur Davison",Undirected,87861,2
+"Cowan, Sada","Saphier, William",Undirected,87899,2
+"Anderson, Sherwood","Wing, DeWitt C.",Undirected,88016,2
+"Anderson, Sherwood","Stearns, Mary Adams",Undirected,88008,2
+"Anderson, Sherwood","Cournos, John",Undirected,88005,2
+"Anderson, Sherwood","De Braila, Lupo",Undirected,87998,3
+"Anderson, Sherwood","Goldman, Emma",Undirected,87997,2
+"Anderson, Sherwood","Hecht, Ben",Undirected,87996,7
+"Anderson, Sherwood","Saphier, William",Undirected,87995,5
+"Anderson, Sherwood","Tzara, Tristan",Undirected,87994,2
+"Anderson, Sherwood",K.,Undirected,87992,3
+"Anderson, Sherwood","Sell, Henry Blackman",Undirected,87986,2
+"Anderson, Sherwood",jh,Undirected,87978,11
+"Anderson, Sherwood","Solon, Israel",Undirected,87977,4
+"Anderson, Sherwood","Ficke, Arthur Davison",Undirected,87975,5
+"Anderson, Sherwood","Butts, Mary",Undirected,87973,5
+"Anderson, Sherwood",M. A. S.,Undirected,87970,2
+"Anderson, Sherwood","Turbyfill, Mark",Undirected,87969,6
+"Anderson, Sherwood","Scott, Evelyn",Undirected,87965,3
+"Anderson, Sherwood","Gilmore, Louis",Undirected,87963,4
+"Anderson, Sherwood","Butler, Samuel",Undirected,87959,2
+"Anderson, Sherwood","Hunt, Richard",Undirected,87952,2
+"Gilmore, Louis",jh,Undirected,88174,9
+"Gilmore, Louis","Solon, Israel",Undirected,88173,5
+"Gilmore, Louis","Lewis, Wyndham",Undirected,88172,3
+"Gilmore, Louis","Saphier, William",Undirected,88162,2
+"Gilmore, Louis","Butts, Mary",Undirected,88152,3
+"Scott, Evelyn","Solon, Israel",Undirected,88222,2
+"Scott, Evelyn",jh,Undirected,88216,3
+"Scott, Evelyn","Saphier, William",Undirected,88212,2
+K.,"Stearns, Mary Adams",Undirected,88260,3
+K.,"Hecht, Ben",Undirected,88259,4
+K.,"Ashleigh, Charles",Undirected,88255,2
+K.,"Ficke, Arthur Davison",Undirected,88245,7
+K.,M. A. S.,Undirected,88240,2
+K.,"Saphier, William",Undirected,88234,5
+"Tanner, Allan",jh,Undirected,88278,2
+"Dismorr, Jessie","Hecht, Ben",Undirected,88290,2
+"Dismorr, Jessie","Lewis, Wyndham",Undirected,88286,2
+"Turbyfill, Mark","Butts, Mary",Undirected,88363,3
+"Turbyfill, Mark","Carr, Daphne",Undirected,88354,2
+"Turbyfill, Mark",jh,Undirected,88348,4
+"Turbyfill, Mark","Symons, Arthur",Undirected,88345,2
+"Turbyfill, Mark","Hecht, Ben",Undirected,88339,3
+M. A. S.,"Ficke, Arthur Davison",Undirected,88381,2
+M. A. S.,"Stearns, Mary Adams",Undirected,88378,2
+"Sell, Henry Blackman","Wing, DeWitt C.",Undirected,88405,5
+"Sell, Henry Blackman","Butler, Samuel",Undirected,88401,2
+"Sell, Henry Blackman","Ficke, Arthur Davison",Undirected,88400,4
+"Sell, Henry Blackman","Stephens, James",Undirected,88399,2
+"Sell, Henry Blackman","Ashleigh, Charles",Undirected,88389,2
+"Stephens, James","Wing, DeWitt C.",Undirected,88440,2
+"Stephens, James","Ficke, Arthur Davison",Undirected,88435,2
+"Chenery, William L.","Wing, DeWitt C.",Undirected,88453,2
+"Chenery, William L.","Saphier, William",Undirected,88450,2
+"Symons, Arthur",jh,Undirected,88465,2
+"Symons, Arthur","Lewis, Wyndham",Undirected,88464,2
+"Ficke, Arthur Davison","Wing, DeWitt C.",Undirected,88502,4
+"Ficke, Arthur Davison","Butler, Samuel",Undirected,88500,2
+"Ficke, Arthur Davison","Saphier, William",Undirected,88488,4
+"Ficke, Arthur Davison","Ashleigh, Charles",Undirected,88486,3
+"Ficke, Arthur Davison","De Braila, Lupo",Undirected,88485,2
+"Ficke, Arthur Davison","Rolland, Romain",Undirected,88480,2
+"Ficke, Arthur Davison","Stearns, Mary Adams",Undirected,88476,3
+"Ficke, Arthur Davison","Hecht, Ben",Undirected,88474,4
+"Lewis, Wyndham","Hecht, Ben",Undirected,88546,3
+"Lewis, Wyndham",jh,Undirected,88542,9
+"Lewis, Wyndham",Sasaki,Undirected,88539,2
+"Lewis, Wyndham","Solon, Israel",Undirected,88537,2
+"Solon, Israel","Hecht, Ben",Undirected,88565,3
+"Solon, Israel",jh,Undirected,88562,7
+jh,"Burke, Kenneth",Undirected,88603,3
+jh,Sasaki,Undirected,88599,2
+jh,"Kandinsky, Wassily",Undirected,88594,2
+jh,"Hecht, Ben",Undirected,88593,7
+jh,"Saphier, William",Undirected,88592,2
+jh,"Butts, Mary",Undirected,88585,6
+jh,"Carr, Daphne",Undirected,88579,3
+jh,"Rimbaud, Arthur",Undirected,88570,2
+jh,"Tzara, Tristan",Undirected,88567,2
+jh,"Cann, Louise Gebhard",Undirected,88566,3
+"von Freytag-Loringhoven, Else (Baroness)","Hecht, Ben",Undirected,88618,2
+"Carr, Daphne","Hecht, Ben",Undirected,88699,2
+"Rolland, Romain","Hecht, Ben",Undirected,88737,2
+"Ashleigh, Charles","Wing, DeWitt C.",Undirected,88748,2
+"Saphier, William","Stearns, Mary Adams",Undirected,88778,2
+"Saphier, William","Wing, DeWitt C.",Undirected,88771,2
+"Butts, Mary","Hecht, Ben",Undirected,88837,2
+"Goldman, Emma","Hecht, Ben",Undirected,88846,2
+"Butler, Samuel","Wing, DeWitt C.",Undirected,88900,2
