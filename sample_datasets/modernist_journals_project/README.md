@@ -5,20 +5,18 @@ This folder contains network data for literary authors who published together in
 ## Data & Methodology
 
 ### *The Crisis*
----
+
 Nodes: 96; unimodal*
 
 Edges: 162; weighted; undirected
 
 ### *Poetry and The Little Review*
----
 
 Nodes: 379; unimodal*
 
 Edges: 2,394; weighted; undirected
 
 ### *The Freewoman, The New Freewoman, and The Egoist*
----
 
 Nodes: 259; unimodal*
 
