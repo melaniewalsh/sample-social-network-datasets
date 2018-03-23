@@ -1,6 +1,6 @@
 ## Source
 
-This folder contains network data for character relationships within the Marvel comic book universe (beginning in 1961 and ending around 1999/2000?), which was originally compiled by Cesc Rosselló, Ricardo Alberich, and Joe Miro from Russ Chappell's [Marvel Chronology Project](http://www.chronologyproject.com/)*, a database that catalogues every appearance by every significant character in the Marvel comic book universe. This network data was originally used and analyzed by Rosselló, Alberich, and Miro in ["Marvel Universe looks almost like a real social network."](https://arxiv.org/pdf/cond-mat/0202174.pdf).
+This folder contains network data for character relationships within the Marvel comic book universe (beginning in 1961 and ending around 1999/2000?), which was originally compiled by Cesc Rosselló, Ricardo Alberich, and Joe Miro from Russ Chappell's [Marvel Chronology Project](http://www.chronologyproject.com/)*, a database that catalogues every appearance by every significant character in the Marvel comic book universe. This network data was originally used and analyzed by Rosselló, Alberich, and Miro in ["Marvel Universe looks almost like a real social network."](https://arxiv.org/pdf/cond-mat/0202174.pdf)
 
 *This website is astounding both in its comprehensiveness and its fabulous '90s web aesthetic.
 

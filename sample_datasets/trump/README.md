@@ -2,7 +2,7 @@
 
 This folder contains network data for relationships between President Donald Trump and other people, which was originally compiled by John Templon, Anthony Cormier, Alex Campbell, and Jeremy Singer-Vine as part of a larger project of [mapping "TrumpWorld" for BuzzFeed News](https://www.buzzfeed.com/johntemplon/help-us-map-trumpworld?utm_term=.wloL0RAvM#.ru1M6Y21D).
 
-The full dataset, which you can access as [a Google Sheet](https://docs.google.com/spreadsheets/d/1Z5Vo5pbvxKJ5XpfALZXvCzW26Cl4we3OaN73K9Ae5Ss/edit#gid=1996904412) or [on GitHub](https://github.com/BuzzFeedNews/trumpworld) also includes information about organizations and agencies. The data was compiled by culling from "public records, news reports, and other sources on the Trump family, his Cabinet picks, and top advisers," as well as via crowdsourced tips and information from the public ([if you have any more, you can continue contribute them here](https://tips.buzzfeed.com/).
+The full dataset, which you can access as [a Google Sheet](https://docs.google.com/spreadsheets/d/1Z5Vo5pbvxKJ5XpfALZXvCzW26Cl4we3OaN73K9Ae5Ss/edit#gid=1996904412) or [on GitHub](https://github.com/BuzzFeedNews/trumpworld) also includes information about organizations and agencies. The data was compiled by culling from "public records, news reports, and other sources on the Trump family, his Cabinet picks, and top advisers," as well as via crowdsourced tips and information from the public ([if you have any more, you can continue to contribute them here)](https://tips.buzzfeed.com/).
 
 ## Data & Methodology
 

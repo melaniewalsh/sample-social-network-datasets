@@ -4,19 +4,24 @@ This folder contains network data for literary authors who published together in
 
 ## Data & Methodology
 
-**The Crisis**
+*The Crisis*
 
+---
 Nodes: 96; unimodal*
 
 Edges: 162; weighted; undirected
 
-**Poetry and The Little Review**
+*Poetry and The Little Review*
+
+---
 
 Nodes: 379; unimodal*
 
 Edges: 2,394; weighted; undirected
 
-**The Freewoman, The New Freewoman, and The Egoist**
+*The Freewoman, The New Freewoman, and The Egoist*
+
+---
 
 Nodes: 259; unimodal*
 
@@ -28,7 +33,7 @@ The nodes csvs contain authors, and the edges csvs contain weighted publication 
 
 ## Background & Significance
 
-**The Crisis (1910-1922)**
+*The Crisis (1910-1922)*
 
 From the Modernist Journals Project's [brief history of *The Crisis*](http://modjourn.org/render.php?view=mjp_object&id=crisiscollection):
 
@@ -36,7 +41,7 @@ From the Modernist Journals Project's [brief history of *The Crisis*](http://mod
 
 >In the twelve years that will be covered by the MJP edition (from 1910 to 1922), The Crisis also addressed most every facet of life for blacks in America, devoting special issues to such topics as women's suffrage, education, children, labor, homes, vacations, and the war. From the start, the magazine actively promoted the arts as well, and is deservedly recognized as an important crucible for the Harlem Renaissance. Among the notable authors who published in The Crisis during the MJP years is Jessie Fauset—who began contributing in 1912 and became the magazine’s literary editor in 1919—as well as William Stanley Braithwaite, Charles Chesnutt, Countee Cullen, Alice Dunbar-Nelson, Angelina W. Grimke, Langston Hughes, Georgia Douglas Johnson, James Weldon Johnson, Alain Locke, Arthur Schomburg, Jean Toomer, and Walter White.
 
-**Poetry (1912-22) and The Little Review (1914-1922)**
+*Poetry (1912-22) and The Little Review (1914-1922)*
 
 From the Modernist Journals Project's [brief history of *Poetry*](http://modjourn.org/render.php?view=mjp_object&id=1202232622296875):
 
@@ -46,7 +51,7 @@ From the Modernist Journals Project's [brief history of *The Little Review*](htt
 
 >During its first three years, The Little Review was largely an anarchist publication that battled on behalf of imagism and published such writers as Richard Aldington, Sherwood Anderson, Maxwell Bodenheim, Ben Hecht, and Amy Lowell. Under Pound's influence, the magazine experienced a fresh infusion of international experimentalism and added contributions by the likes of Djuna Barnes, T. S. Eliot, Wyndham Lewis, Mina Loy, Francis Picabia, Dorothy Richardson, May Sinclair, Gertrude Stein, W. C. Williams, and W. B. Yeats. But even among this talented field, The Little Review's most lasting (and boldest) achievement was its serialization of Joyce's Ulysses, in 23 installments, from 1918 to 1920...
 
-**The Freewoman (1911-1912), The New Freewoman (1913), and The Egoist (1914-1919)**
+*The Freewoman (1911-1912), The New Freewoman (1913), and The Egoist (1914-1919)*
 
 From the Modernist Journals Project's [brief history of *The Freewoman*](http://modjourn.org/render.php?view=mjp_object&id=LittleReviewCollection):
 
