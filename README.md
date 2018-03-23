@@ -1,6 +1,6 @@
 # Essential Readings in the Digital Humanities - Lab Report #2
 
-This repository contains sample social network datasets for the Washington University in St. Louis graduate seminar/lab **Humanities by the Numbers: Essential Readings in the Digital Humanities**.
+This repository contains sample social network datasets for the Washington University in St. Louis graduate seminar **Humanities by the Numbers: Essential Readings in the Digital Humanities**.
 
 Each folder contains a nodes csv and an edges csv that can be imported into Gephi and used for **Lab Report #2**. Each folder also includes background information about the original source of the data, the methodologies used to compile it, and the context/significance of the social network.
 
