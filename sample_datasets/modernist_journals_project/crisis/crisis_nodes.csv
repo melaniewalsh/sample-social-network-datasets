@@ -1,80 +1,97 @@
-Id,Label
-"DuBois, W. E. B.","DuBois, W. E. B."
-"Stoddard, Yetta Kay","Stoddard, Yetta Kay"
-"Brawley, Benjamin","Brawley, Benjamin"
-"Schomburg, Arthur A.","Schomburg, Arthur A."
-"Du Bois, W. E. B.","Du Bois, W. E. B."
-"Spencer, Anne","Spencer, Anne"
-"Lindsay, Nicholas Vachel","Lindsay, Nicholas Vachel"
-"Koch, Felix J.","Koch, Felix J."
-"Addams, Jane","Addams, Jane"
-"Smith, Albert","Smith, Albert"
-"Jordan, Winifred Virginia","Jordan, Winifred Virginia"
-"Bagnall, R. W.","Bagnall, R. W."
-"Walts, Frank","Walts, Frank"
-"Richardson, Willis","Richardson, Willis"
-"Battey, C. M.","Battey, C. M."
-"Corrothers, James D.","Corrothers, James D."
-"Milholland, John E. (Mrs.)","Milholland, John E. (Mrs.)"
-"Johnson, James Weldon","Johnson, James Weldon"
-"Adams, John Henry","Adams, John Henry"
-"Johnson, Georgia Douglass","Johnson, Georgia Douglass"
-"Allison, M. G.","Allison, M. G."
-"Russell, Charles Edward","Russell, Charles Edward"
-"Cullen, Countee P.","Cullen, Countee P."
-"Braithwaite, William Stanley","Braithwaite, William Stanley"
-"Chesnutt, Charles W.","Chesnutt, Charles W."
-"Villard, Oswald Garrison","Villard, Oswald Garrison"
-"Hughes, Langston","Hughes, Langston"
-"Hunton, A. W.","Hunton, A. W."
-Underwood and Underwood,Underwood and Underwood
-"Johnson, Fenton","Johnson, Fenton"
-"Storey, Moorfield","Storey, Moorfield"
-"Moravsky, Maria","Moravsky, Maria"
-"Jones, Scipio","Jones, Scipio"
-"Johnson, Charles Bertram","Johnson, Charles Bertram"
-"Burch, Charles Eaton","Burch, Charles Eaton"
-"Fawcett, James Waldo","Fawcett, James Waldo"
-"DuBois, W. E. Burghardt","DuBois, W. E. Burghardt"
-"Hershaw, L. M.","Hershaw, L. M."
-"Hill, Leslie Pinckney","Hill, Leslie Pinckney"
-"Murray, Ella Rush","Murray, Ella Rush"
-"Watkins, Lucian B.","Watkins, Lucian B."
-"Pendleton, Leila Amos","Pendleton, Leila Amos"
-"Ovington, Mary White","Ovington, Mary White"
-"Bohanan, Otto Leland","Bohanan, Otto Leland"
-"Bradford, George G.","Bradford, George G."
-"McKay, Claude","McKay, Claude"
-"Allison, Madeline G.","Allison, Madeline G."
-"Wilkinson, Hilda Rue","Wilkinson, Hilda Rue"
-"Pickens, William","Pickens, William"
-"Cloud, F. H.","Cloud, F. H."
-"Moore, William","Moore, William"
-Underwood &amp; Underwood,Underwood &amp; Underwood
-"Fauset, Jessie","Fauset, Jessie"
-"Newsome, Mary Effie Lee","Newsome, Mary Effie Lee"
-"Canfield, Dorothy","Canfield, Dorothy"
-"Harris, Lorenzo","Harris, Lorenzo"
-"Wilkinson, Hilda","Wilkinson, Hilda"
-"Cotter, Joseph S.","Cotter, Joseph S."
-"Bentley, Florence Lewis","Bentley, Florence Lewis"
-"Saunders, Vincent","Saunders, Vincent"
-"Holmes, John Haynes","Holmes, John Haynes"
-"Dickerman, G. S.","Dickerman, G. S."
-"Johnson, Georgia Douglas","Johnson, Georgia Douglas"
-"White, Walter F.","White, Walter F."
-"Johnson, G. Douglas","Johnson, G. Douglas"
-"Lee, Mary Effie","Lee, Mary Effie"
-"Brown, Richard L.","Brown, Richard L."
-"Bagnall, Robert W.","Bagnall, Robert W."
-"Newsome, Effie Lee","Newsome, Effie Lee"
-Scurlock,Scurlock
-"Wheeler, Laura","Wheeler, Laura"
-"Smith, Albert A.","Smith, Albert A."
-"Spingarn, J. E.","Spingarn, J. E."
-"Clifford, Carrie W.","Clifford, Carrie W."
-"Brockman, W. L.","Brockman, W. L."
-"Francique, John","Francique, John"
-"Brooks, C. Ames","Brooks, C. Ames"
-"Toomer, Jean","Toomer, Jean"
-J. F.,J. F.
+Id,Label,timeset,d1
+"Latimer, Louise R.","Latimer, Louise R.",,author
+"Allison, M. G.","Allison, M. G.",,author
+"Hurst, John","Hurst, John",,author
+"Lindsay, Nicholas Vachel","Lindsay, Nicholas Vachel",,author
+"Stafford, Wendell Phillips","Stafford, Wendell Phillips",,author
+"Moore, William","Moore, William",,author
+"Johnson, Fenton","Johnson, Fenton",,author
+Brown and Dawson,Brown and Dawson,,author
+"Du Bois, W. E. B.","Du Bois, W. E. B.",,author
+"Harris, Lorenzo","Harris, Lorenzo",,author
+"Jones, Harry H.","Jones, Harry H.",,author
+"Koch, Felix J.","Koch, Felix J.",,author
+"Brockman, W. L.","Brockman, W. L.",,author
+"Hill, Leslie Pinckney","Hill, Leslie Pinckney",,author
+"Clifford, Carrie W.","Clifford, Carrie W.",,author
+"Toomer, Jean","Toomer, Jean",,author
+"Wheeler, Laura","Wheeler, Laura",,author
+"Spingarn, J. E.","Spingarn, J. E.",,author
+"Bradford, George G.","Bradford, George G.",,author
+"Moravsky, Maria","Moravsky, Maria",,author
+"Cloud, F. H.","Cloud, F. H.",,author
+"Schomburg, Arthur A.","Schomburg, Arthur A.",,author
+"Jordan, L. G.","Jordan, L. G.",,author
+"Rogers, Lucille","Rogers, Lucille",,author
+"Lee, Mary Effie","Lee, Mary Effie",,author
+"Ovington, Mary W.","Ovington, Mary W.",,author
+"Dunbar-Nelson, Alice","Dunbar-Nelson, Alice",,author
+"Bentley, Florence Lewis","Bentley, Florence Lewis",,author
+M. W. O.,M. W. O.,,author
+"Work, Monroe N.","Work, Monroe N.",,author
+"Smith, Albert","Smith, Albert",,author
+"Addams, Jane","Addams, Jane",,author
+"Wilkinson, Hilda","Wilkinson, Hilda",,author
+"Braithwaite, William Stanley","Braithwaite, William Stanley",,author
+"Johnson, James Weldon","Johnson, James Weldon",,author
+"Milholland, John E. (Mrs.)","Milholland, John E. (Mrs.)",,author
+"White, Walter F.","White, Walter F.",,author
+"Brown, Edward O.","Brown, Edward O.",,author
+"Pendleton, Leila Amos","Pendleton, Leila Amos",,author
+"Adams, John Henry","Adams, John Henry",,author
+"Brooks, C. Ames","Brooks, C. Ames",,author
+"Henderson, Edwin B.","Henderson, Edwin B.",,author
+"Johnson, Charles Bertram","Johnson, Charles Bertram",,author
+"Hunton, A. W.","Hunton, A. W.",,author
+"Dill, A. G.","Dill, A. G.",,author
+"Shaw, Charles A.","Shaw, Charles A.",,author
+"Grimke, Archibald H.","Grimke, Archibald H.",,author
+"Bohanan, Otto L.","Bohanan, Otto L.",,author
+Battey,Battey,,author
+"Battey, C. M.","Battey, C. M.",,author
+"Cullen, Countee P.","Cullen, Countee P.",,author
+"Fauset, Jessie","Fauset, Jessie",,author
+"Shillady, John R.","Shillady, John R.",,author
+"Terrell, Mary Church","Terrell, Mary Church",,author
+"Saunders, Vincent","Saunders, Vincent",,author
+"Talbert, Mary B.","Talbert, Mary B.",,author
+"Johnson, Georgia Douglas","Johnson, Georgia Douglas",,author
+"Burch, Charles Eaton","Burch, Charles Eaton",,author
+"Dickerman, G. S.","Dickerman, G. S.",,author
+"Pickens, William","Pickens, William",,author
+"Richardson, Willis","Richardson, Willis",,author
+"Spencer, Anne","Spencer, Anne",,author
+"Chesnutt, Charles W.","Chesnutt, Charles W.",,author
+Underwood and Underwood,Underwood and Underwood,,author
+"Storey, Moorfield","Storey, Moorfield",,author
+"Murray, Ella Rush","Murray, Ella Rush",,author
+"Jackson, May Howard","Jackson, May Howard",,author
+"Allison, Madeline G.","Allison, Madeline G.",,author
+"Clarana, José","Clarana, José",,author
+"Walts, Frank","Walts, Frank",,author
+"Jones, Scipio","Jones, Scipio",,author
+"Hershaw, L. M.","Hershaw, L. M.",,author
+"Francique, John","Francique, John",,author
+"Hughes, Langston","Hughes, Langston",,author
+"Canfield, Dorothy","Canfield, Dorothy",,author
+"Corrothers, James D.","Corrothers, James D.",,author
+"Carter, George R.","Carter, George R.",,author
+"Russell, Charles Edward","Russell, Charles Edward",,author
+"Villard, Oswald Garrison","Villard, Oswald Garrison",,author
+"Stoddard, Yetta Kay","Stoddard, Yetta Kay",,author
+"Bagnall, Robert W.","Bagnall, Robert W.",,author
+"Holmes, John Haynes","Holmes, John Haynes",,author
+"Scott, William E.","Scott, William E.",,author
+"Brown, Richard L.","Brown, Richard L.",,author
+"Lewin, Rose Dorothy","Lewin, Rose Dorothy",,author
+"Jordan, Winifred Virginia","Jordan, Winifred Virginia",,author
+Scurlock,Scurlock,,author
+"Frazier, C. Emily","Frazier, C. Emily",,author
+"Newsome, Effie Lee","Newsome, Effie Lee",,author
+"Fawcett, James Waldo","Fawcett, James Waldo",,author
+"McKay, Claude","McKay, Claude",,author
+"Steward, T. G.","Steward, T. G.",,author
+"Cotter, Joseph S.","Cotter, Joseph S.",,author
+"Brawley, Benjamin","Brawley, Benjamin",,author
+"Watkins, Lucian B.","Watkins, Lucian B.",,author
+J. F.,J. F.,,author
