@@ -56,11 +56,11 @@ Dora Marsden founded *The Freewoman* in 1911, a “Weekly Feminist Review” tha
 
 After struggling financially, *The Freewoman* closed within a year. Dora Marsen then launched a second journal, *The New Freewoman*, which was, according to the MJP, "more literary than its predecessor."
 
-Shortly after Ezra Pound got involved with the *The New Freewoman*, the magazine evolved into *The Egoist*, becoming one of the most important modernist magazines, which published novels by James Joyce and Wyndham Lewis as well as  poetry and criticism by Ezra Pound and T. S. Eliot.
+Shortly after Ezra Pound got involved with *The New Freewoman*, the magazine evolved into *The Egoist*, becoming one of the most important modernist magazines, which published novels by James Joyce and Wyndham Lewis as well as  poetry and criticism by Ezra Pound and T. S. Eliot.
 
 Notable authors who published in *The Freewoman* and are included in this dataset: Rebecca West, Muriel Ciolkowska, Dora Marsden ("Ed. of 'The Freewoman'"), and more.
 
-Notable authors who published in *The New Freewoman* and are included in this dataset : Rebecca West, Ezra Pound, Richard Aldington, Dora Marsden, and more. 
+Notable authors who published in *The New Freewoman* and are included in this dataset: Rebecca West, Ezra Pound, Richard Aldington, Dora Marsden, and more. 
 
 Notable authors who published in *The Egoist* and are included in this dataset : Amy Lowell, William Carlos Williams, Marianne Moore, Richard Aldington, Muriel Ciolkowska, Ezra Pound, Dora Marsen, T.S. Eliot, Wyndham Lewis, and more.
 
