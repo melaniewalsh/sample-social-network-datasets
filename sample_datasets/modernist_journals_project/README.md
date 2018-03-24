@@ -40,7 +40,7 @@ For more information, see the Modernist Journals Project on [*The Crisis*](http:
 
 ### *Poetry* (1912-1922) and *The Little Review* (1914-1922)
 
-Harriet Monroe founded *Poetry* in 1912, where, [according to the Modernist Journals Project]((http://modjourn.org/render.php?view=mjp_object&id=1202232622296875), she "not only published the best modern poetry she could find, but also used the pages of the magazine for debate and discussion about the forms and content of poetry proper for a modern age." *Poetry* is still being published today, though the network data here spans from 1912-1922.
+Harriet Monroe founded *Poetry* in 1912, where, [according to the Modernist Journals Project](http://modjourn.org/render.php?view=mjp_object&id=1202232622296875), she "not only published the best modern poetry she could find, but also used the pages of the magazine for debate and discussion about the forms and content of poetry proper for a modern age." *Poetry* is still being published today, though the network data here spans from 1912-1922.
 
 Margaret Anderson founded *The Little Review* in 1914. During its 15-year life, *The Little Review* published imagist and experimental works, as well as, famously, a serialization of James Joyce's *Ulysses*.
 
