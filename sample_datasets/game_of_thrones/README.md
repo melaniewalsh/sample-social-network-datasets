@@ -8,7 +8,7 @@ Nodes: 107; unimodal
 
 Edges: 353; weighted; undirected
 
-The nodes csv contains 107 different characters, and the edges csv contains 353 weighted relationships between those characters, which were calculated based on how many times two characters' names appeared within 15 words of one another in the novel. For more on the methodology, see [Beveridge and Shan's original article]((https://www.maa.org/sites/default/files/pdf/Mathhorizons/NetworkofThrones%20%281%29.pdf).
+The nodes csv contains 107 different characters, and the edges csv contains 353 weighted relationships between those characters, which were calculated based on how many times two characters' names appeared within 15 words of one another in the novel. For more on the methodology, see [Beveridge and Shan's original article](https://www.maa.org/sites/default/files/pdf/Mathhorizons/NetworkofThrones%20%281%29.pdf).
 
 ## Background & Significance
 
