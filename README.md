@@ -14,5 +14,5 @@ The sample Gephi project created in class with Game of Thrones network data can 
 
 ![][1]
 
-[1]: images/got-network.png
+[1]: download-tutorial/images/got-network.png
 
