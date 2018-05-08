@@ -1,6 +1,6 @@
-# Social Network Datasets For Teaching With Gephi
+# Sample Social Network Datasets For Teaching With Gephi
 
-This repository contains sample social network datasets specifically collected and (re)designed for teaching with Gephi. Each folder contains a nodes csv and an edges csv that can be imported into Gephi, as well as background information about the original source of the data, the methodologies used to compile it, and the context/significance of the social network.
+This repository contains sample social network datasets specifically collected and (re)designed for teaching with Gephi. Each folder contains a nodes csv, an edges csv, and a GraphML file that can be imported into Gephi, as well as background information about the original source of the data, the methodologies used to compile it, and the context/significance of the social network.
 
 Most of the edges csv files can also be dragged and dropped into [John Ladd's incredibly handy Network Navigator tool](http://dh-web.hss.cmu.edu/network_navigator/).
 
@@ -16,6 +16,7 @@ A sample Gephi project created with the Game of Thrones network data as a teachi
 ![][1]
 
 [1]: images/got-network.png
+*****
 
 The Game of Thrones network data can also be analyzed with [John Ladd's Network Navigator tool](http://dh-web.hss.cmu.edu/network_navigator/).
 

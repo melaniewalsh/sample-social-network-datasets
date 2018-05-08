@@ -1,0 +1,1600 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<graph edgedefault="undirected">
+<node id="Latimer, Louise R.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-214.55376</data>
+<data key="y">234.2096</data>
+</node>
+<node id="Johnson, Georgia Douglas">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-479.18375</data>
+<data key="y">-428.08032</data>
+</node>
+<node id="Allison, M. G.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">260.85684</data>
+<data key="y">191.92133</data>
+</node>
+<node id="Allison, Madeline G.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-34.51951</data>
+<data key="y">-60.061928</data>
+</node>
+<node id="Jordan, Winifred Virginia">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-442.44073</data>
+<data key="y">-157.19882</data>
+</node>
+<node id="Du Bois, W. E. B.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">212.50307</data>
+<data key="y">177.74872</data>
+</node>
+<node id="Hurst, John">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-70.9293</data>
+<data key="y">-7.0013795</data>
+</node>
+<node id="Bohanan, Otto L.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-536.1972</data>
+<data key="y">151.67346</data>
+</node>
+<node id="Villard, Oswald Garrison">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">216.92024</data>
+<data key="y">-1.3903564</data>
+</node>
+<node id="Johnson, James Weldon">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-176.558</data>
+<data key="y">-93.26304</data>
+</node>
+<node id="Fauset, Jessie">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">18.909872</data>
+<data key="y">-381.36026</data>
+</node>
+<node id="Storey, Moorfield">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">381.84024</data>
+<data key="y">-465.20093</data>
+</node>
+<node id="Lindsay, Nicholas Vachel">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">200.36732</data>
+<data key="y">-58.808846</data>
+</node>
+<node id="Spingarn, J. E.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">442.12918</data>
+<data key="y">-153.17673</data>
+</node>
+<node id="Stafford, Wendell Phillips">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">426.03354</data>
+<data key="y">300.99542</data>
+</node>
+<node id="Adams, John Henry">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-317.98734</data>
+<data key="y">168.28009</data>
+</node>
+<node id="Moore, William">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-151.76472</data>
+<data key="y">-302.7669</data>
+</node>
+<node id="Johnson, Fenton">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-419.3685</data>
+<data key="y">370.63184</data>
+</node>
+<node id="Brockman, W. L.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-48.74833</data>
+<data key="y">467.65234</data>
+</node>
+<node id="Corrothers, James D.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-117.68699</data>
+<data key="y">202.03961</data>
+</node>
+<node id="Brown and Dawson">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-177.70927</data>
+<data key="y">-121.6811</data>
+</node>
+<node id="J. F.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">217.72029</data>
+<data key="y">86.8778</data>
+</node>
+<node id="Scurlock">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-203.75038</data>
+<data key="y">-152.09995</data>
+</node>
+<node id="Cotter, Joseph S.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">257.79678</data>
+<data key="y">-173.66101</data>
+</node>
+<node id="Brown, Richard L.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-495.55844</data>
+<data key="y">241.20508</data>
+</node>
+<node id="Bagnall, Robert W.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-62.963173</data>
+<data key="y">51.354973</data>
+</node>
+<node id="Ovington, Mary W.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-153.2726</data>
+<data key="y">38.775932</data>
+</node>
+<node id="Fawcett, James Waldo">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">349.99368</data>
+<data key="y">-145.74365</data>
+</node>
+<node id="Frazier, C. Emily">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">302.00143</data>
+<data key="y">217.64154</data>
+</node>
+<node id="Lee, Mary Effie">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-101.42927</data>
+<data key="y">-242.96185</data>
+</node>
+<node id="Underwood and Underwood">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">293.7347</data>
+<data key="y">362.919</data>
+</node>
+<node id="Chesnutt, Charles W.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">147.52327</data>
+<data key="y">61.794426</data>
+</node>
+<node id="Rogers, Lucille">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">35.29061</data>
+<data key="y">-129.23312</data>
+</node>
+<node id="Jordan, L. G.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-368.2673</data>
+<data key="y">-327.17056</data>
+</node>
+<node id="Watkins, Lucian B.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">393.98282</data>
+<data key="y">100.26403</data>
+</node>
+<node id="Richardson, Willis">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-448.80484</data>
+<data key="y">-319.85083</data>
+</node>
+<node id="Newsome, Effie Lee">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-166.6455</data>
+<data key="y">-14.890631</data>
+</node>
+<node id="Pickens, William">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-111.69727</data>
+<data key="y">350.48175</data>
+</node>
+<node id="Spencer, Anne">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">419.91537</data>
+<data key="y">425.60748</data>
+</node>
+<node id="Burch, Charles Eaton">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-13.124796</data>
+<data key="y">-315.32962</data>
+</node>
+<node id="Pendleton, Leila Amos">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">213.58131</data>
+<data key="y">247.22534</data>
+</node>
+<node id="Brown, Edward O.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">43.534996</data>
+<data key="y">369.2292</data>
+</node>
+<node id="White, Walter F.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">100.317955</data>
+<data key="y">-365.92386</data>
+</node>
+<node id="Hershaw, L. M.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">279.39975</data>
+<data key="y">-224.95499</data>
+</node>
+<node id="Stoddard, Yetta Kay">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">270.99948</data>
+<data key="y">-275.99408</data>
+</node>
+<node id="Wheeler, Laura">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-216.29921</data>
+<data key="y">-362.34344</data>
+</node>
+<node id="Toomer, Jean">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">102.24886</data>
+<data key="y">486.5298</data>
+</node>
+<node id="Clifford, Carrie W.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">150.81746</data>
+<data key="y">191.23529</data>
+</node>
+<node id="Hill, Leslie Pinckney">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">153.037</data>
+<data key="y">95.683586</data>
+</node>
+<node id="Moravsky, Maria">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">68.35067</data>
+<data key="y">-177.66122</data>
+</node>
+<node id="Russell, Charles Edward">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">355.07217</data>
+<data key="y">-243.07077</data>
+</node>
+<node id="Smith, Albert">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-43.758034</data>
+<data key="y">-240.29749</data>
+</node>
+<node id="Braithwaite, William Stanley">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">245.52309</data>
+<data key="y">350.5694</data>
+</node>
+<node id="Canfield, Dorothy">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-394.42294</data>
+<data key="y">-77.218575</data>
+</node>
+<node id="Wilkinson, Hilda">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">267.37332</data>
+<data key="y">313.70093</data>
+</node>
+<node id="Harris, Lorenzo">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-479.40494</data>
+<data key="y">-185.55273</data>
+</node>
+<node id="Hughes, Langston">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-254.286</data>
+<data key="y">-101.44703</data>
+</node>
+<node id="McKay, Claude">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">328.55875</data>
+<data key="y">262.1941</data>
+</node>
+<node id="Saunders, Vincent">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">137.5403</data>
+<data key="y">317.1297</data>
+</node>
+<node id="Francique, John">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">189.52235</data>
+<data key="y">-112.60154</data>
+</node>
+<node id="Murray, Ella Rush">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-451.8763</data>
+<data key="y">310.3952</data>
+</node>
+<node id="Walts, Frank">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-388.33194</data>
+<data key="y">413.62732</data>
+</node>
+<node id="Johnson, Charles Bertram">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">308.78976</data>
+<data key="y">364.80975</data>
+</node>
+<node id="Jones, Scipio">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">457.7628</data>
+<data key="y">312.6811</data>
+</node>
+<node id="Shillady, John R.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-381.05872</data>
+<data key="y">139.84631</data>
+</node>
+<node id="Jackson, May Howard">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">214.42268</data>
+<data key="y">-168.99542</data>
+</node>
+<node id="Cullen, Countee P.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-130.57948</data>
+<data key="y">-332.81293</data>
+</node>
+<node id="Battey, C. M.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-211.74733</data>
+<data key="y">139.29517</data>
+</node>
+<node id="Battey">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">284.81613</data>
+<data key="y">-464.3804</data>
+</node>
+<node id="Bentley, Florence Lewis">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">191.56276</data>
+<data key="y">204.58044</data>
+</node>
+<node id="Scott, William E.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-50.92463</data>
+<data key="y">-414.7773</data>
+</node>
+<node id="Grimke, Archibald H.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-514.75397</data>
+<data key="y">-3.263861</data>
+</node>
+<node id="Clarana, José">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">111.791405</data>
+<data key="y">-399.74765</data>
+</node>
+<node id="Jones, Harry H.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">257.53433</data>
+<data key="y">-189.64346</data>
+</node>
+<node id="Koch, Felix J.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-88.2075</data>
+<data key="y">112.20879</data>
+</node>
+<node id="Brawley, Benjamin">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-265.26773</data>
+<data key="y">-191.91104</data>
+</node>
+<node id="Dunbar-Nelson, Alice">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">300.1686</data>
+<data key="y">-297.11478</data>
+</node>
+<node id="Cloud, F. H.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">343.6617</data>
+<data key="y">372.9859</data>
+</node>
+<node id="Bradford, George G.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-3.3723545</data>
+<data key="y">131.76953</data>
+</node>
+<node id="Schomburg, Arthur A.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">175.43257</data>
+<data key="y">495.12585</data>
+</node>
+<node id="Dickerman, G. S.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-228.91731</data>
+<data key="y">202.99146</data>
+</node>
+<node id="M. W. O.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">336.28818</data>
+<data key="y">211.69775</data>
+</node>
+<node id="Work, Monroe N.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">206.628</data>
+<data key="y">-465.92383</data>
+</node>
+<node id="Addams, Jane">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-386.34415</data>
+<data key="y">69.94042</data>
+</node>
+<node id="Milholland, John E. (Mrs.)">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">370.57053</data>
+<data key="y">292.08698</data>
+</node>
+<node id="Steward, T. G.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">234.16756</data>
+<data key="y">-311.22687</data>
+</node>
+<node id="Brooks, C. Ames">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-503.05978</data>
+<data key="y">-477.6901</data>
+</node>
+<node id="Henderson, Edwin B.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-254.70381</data>
+<data key="y">-242.3518</data>
+</node>
+<node id="Hunton, A. W.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-133.0873</data>
+<data key="y">-89.54737</data>
+</node>
+<node id="Dill, A. G.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">213.38783</data>
+<data key="y">230.1034</data>
+</node>
+<node id="Shaw, Charles A.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-437.16812</data>
+<data key="y">-308.5984</data>
+</node>
+<node id="Terrell, Mary Church">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-1.7476597</data>
+<data key="y">44.685356</data>
+</node>
+<node id="Talbert, Mary B.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-332.96872</data>
+<data key="y">-54.100044</data>
+</node>
+<node id="Carter, George R.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">338.10684</data>
+<data key="y">437.36224</data>
+</node>
+<node id="Lewin, Rose Dorothy">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-221.59032</data>
+<data key="y">-288.91882</data>
+</node>
+<node id="Holmes, John Haynes">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-141.44902</data>
+<data key="y">-202.76263</data>
+</node>
+<edge id="212960" source="Latimer, Louise R." target="Johnson, Georgia Douglas">
+<data key="weight">2.0</data>
+</edge>
+<edge id="212961" source="Allison, M. G." target="Allison, Madeline G.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="212962" source="Allison, M. G." target="Jordan, Winifred Virginia">
+<data key="weight">2.0</data>
+</edge>
+<edge id="212963" source="Allison, M. G." target="Du Bois, W. E. B.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="212964" source="Hurst, John" target="Bohanan, Otto L.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="212965" source="Hurst, John" target="Villard, Oswald Garrison">
+<data key="weight">2.0</data>
+</edge>
+<edge id="212966" source="Hurst, John" target="Johnson, James Weldon">
+<data key="weight">3.0</data>
+</edge>
+<edge id="212967" source="Hurst, John" target="Fauset, Jessie">
+<data key="weight">2.0</data>
+</edge>
+<edge id="212968" source="Hurst, John" target="Storey, Moorfield">
+<data key="weight">2.0</data>
+</edge>
+<edge id="212969" source="Hurst, John" target="Du Bois, W. E. B.">
+<data key="weight">3.0</data>
+</edge>
+<edge id="212970" source="Hurst, John" target="Johnson, Georgia Douglas">
+<data key="weight">2.0</data>
+</edge>
+<edge id="212971" source="Lindsay, Nicholas Vachel" target="Spingarn, J. E.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="212972" source="Stafford, Wendell Phillips" target="Adams, John Henry">
+<data key="weight">2.0</data>
+</edge>
+<edge id="212973" source="Moore, William" target="Johnson, Fenton">
+<data key="weight">2.0</data>
+</edge>
+<edge id="212974" source="Johnson, Fenton" target="Villard, Oswald Garrison">
+<data key="weight">2.0</data>
+</edge>
+<edge id="212975" source="Johnson, Fenton" target="Brockman, W. L.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="212976" source="Johnson, Fenton" target="Corrothers, James D.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="212977" source="Brown and Dawson" target="Du Bois, W. E. B.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="212978" source="Du Bois, W. E. B." target="J. F.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="212979" source="Du Bois, W. E. B." target="Bohanan, Otto L.">
+<data key="weight">3.0</data>
+</edge>
+<edge id="212980" source="Du Bois, W. E. B." target="Scurlock">
+<data key="weight">2.0</data>
+</edge>
+<edge id="212981" source="Du Bois, W. E. B." target="Jordan, Winifred Virginia">
+<data key="weight">4.0</data>
+</edge>
+<edge id="212982" source="Du Bois, W. E. B." target="Cotter, Joseph S.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="212983" source="Du Bois, W. E. B." target="Villard, Oswald Garrison">
+<data key="weight">6.0</data>
+</edge>
+<edge id="212984" source="Du Bois, W. E. B." target="Brown, Richard L.">
+<data key="weight">3.0</data>
+</edge>
+<edge id="212985" source="Du Bois, W. E. B." target="Bagnall, Robert W.">
+<data key="weight">5.0</data>
+</edge>
+<edge id="212986" source="Du Bois, W. E. B." target="Ovington, Mary W.">
+<data key="weight">4.0</data>
+</edge>
+<edge id="212987" source="Du Bois, W. E. B." target="Fawcett, James Waldo">
+<data key="weight">3.0</data>
+</edge>
+<edge id="212988" source="Du Bois, W. E. B." target="Frazier, C. Emily">
+<data key="weight">2.0</data>
+</edge>
+<edge id="212989" source="Du Bois, W. E. B." target="Lee, Mary Effie">
+<data key="weight">3.0</data>
+</edge>
+<edge id="212990" source="Du Bois, W. E. B." target="Underwood and Underwood">
+<data key="weight">3.0</data>
+</edge>
+<edge id="212991" source="Du Bois, W. E. B." target="Chesnutt, Charles W.">
+<data key="weight">3.0</data>
+</edge>
+<edge id="212992" source="Du Bois, W. E. B." target="Rogers, Lucille">
+<data key="weight">2.0</data>
+</edge>
+<edge id="212993" source="Du Bois, W. E. B." target="Jordan, L. G.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="212994" source="Du Bois, W. E. B." target="Watkins, Lucian B.">
+<data key="weight">3.0</data>
+</edge>
+<edge id="212995" source="Du Bois, W. E. B." target="Johnson, Georgia Douglas">
+<data key="weight">9.0</data>
+</edge>
+<edge id="212996" source="Du Bois, W. E. B." target="Richardson, Willis">
+<data key="weight">2.0</data>
+</edge>
+<edge id="212997" source="Du Bois, W. E. B." target="Newsome, Effie Lee">
+<data key="weight">6.0</data>
+</edge>
+<edge id="212998" source="Du Bois, W. E. B." target="Pickens, William">
+<data key="weight">4.0</data>
+</edge>
+<edge id="212999" source="Du Bois, W. E. B." target="Allison, Madeline G.">
+<data key="weight">37.0</data>
+</edge>
+<edge id="213000" source="Du Bois, W. E. B." target="Spencer, Anne">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213001" source="Du Bois, W. E. B." target="Burch, Charles Eaton">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213002" source="Du Bois, W. E. B." target="Pendleton, Leila Amos">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213003" source="Du Bois, W. E. B." target="Brown, Edward O.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213004" source="Du Bois, W. E. B." target="White, Walter F.">
+<data key="weight">4.0</data>
+</edge>
+<edge id="213005" source="Du Bois, W. E. B." target="Hershaw, L. M.">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213006" source="Du Bois, W. E. B." target="Spingarn, J. E.">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213007" source="Du Bois, W. E. B." target="Stoddard, Yetta Kay">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213008" source="Du Bois, W. E. B." target="Wheeler, Laura">
+<data key="weight">10.0</data>
+</edge>
+<edge id="213009" source="Du Bois, W. E. B." target="Adams, John Henry">
+<data key="weight">5.0</data>
+</edge>
+<edge id="213010" source="Du Bois, W. E. B." target="Toomer, Jean">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213011" source="Du Bois, W. E. B." target="Clifford, Carrie W.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213012" source="Du Bois, W. E. B." target="Hill, Leslie Pinckney">
+<data key="weight">4.0</data>
+</edge>
+<edge id="213013" source="Du Bois, W. E. B." target="Moravsky, Maria">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213014" source="Du Bois, W. E. B." target="Russell, Charles Edward">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213015" source="Du Bois, W. E. B." target="Smith, Albert">
+<data key="weight">5.0</data>
+</edge>
+<edge id="213016" source="Du Bois, W. E. B." target="Braithwaite, William Stanley">
+<data key="weight">4.0</data>
+</edge>
+<edge id="213017" source="Du Bois, W. E. B." target="Canfield, Dorothy">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213018" source="Du Bois, W. E. B." target="Wilkinson, Hilda">
+<data key="weight">7.0</data>
+</edge>
+<edge id="213019" source="Du Bois, W. E. B." target="Harris, Lorenzo">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213020" source="Du Bois, W. E. B." target="Hughes, Langston">
+<data key="weight">11.0</data>
+</edge>
+<edge id="213021" source="Du Bois, W. E. B." target="McKay, Claude">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213022" source="Du Bois, W. E. B." target="Saunders, Vincent">
+<data key="weight">11.0</data>
+</edge>
+<edge id="213023" source="Du Bois, W. E. B." target="Francique, John">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213024" source="Du Bois, W. E. B." target="Murray, Ella Rush">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213025" source="Du Bois, W. E. B." target="Walts, Frank">
+<data key="weight">8.0</data>
+</edge>
+<edge id="213026" source="Du Bois, W. E. B." target="Johnson, Charles Bertram">
+<data key="weight">6.0</data>
+</edge>
+<edge id="213027" source="Du Bois, W. E. B." target="Jones, Scipio">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213028" source="Du Bois, W. E. B." target="Johnson, James Weldon">
+<data key="weight">6.0</data>
+</edge>
+<edge id="213029" source="Du Bois, W. E. B." target="Shillady, John R.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213030" source="Du Bois, W. E. B." target="Fauset, Jessie">
+<data key="weight">29.0</data>
+</edge>
+<edge id="213031" source="Du Bois, W. E. B." target="Jackson, May Howard">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213032" source="Du Bois, W. E. B." target="Cullen, Countee P.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213033" source="Du Bois, W. E. B." target="Battey, C. M.">
+<data key="weight">4.0</data>
+</edge>
+<edge id="213034" source="Du Bois, W. E. B." target="Battey">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213035" source="Du Bois, W. E. B." target="Bentley, Florence Lewis">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213036" source="Du Bois, W. E. B." target="Scott, William E.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213037" source="Du Bois, W. E. B." target="Storey, Moorfield">
+<data key="weight">4.0</data>
+</edge>
+<edge id="213038" source="Harris, Lorenzo" target="Bohanan, Otto L.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213039" source="Harris, Lorenzo" target="Saunders, Vincent">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213040" source="Harris, Lorenzo" target="Grimke, Archibald H.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213041" source="Harris, Lorenzo" target="Corrothers, James D.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213042" source="Harris, Lorenzo" target="Scott, William E.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213043" source="Harris, Lorenzo" target="Johnson, Georgia Douglas">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213044" source="Harris, Lorenzo" target="Clarana, José">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213045" source="Harris, Lorenzo" target="Pendleton, Leila Amos">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213046" source="Harris, Lorenzo" target="Battey, C. M.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213047" source="Harris, Lorenzo" target="Storey, Moorfield">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213048" source="Jones, Harry H." target="Johnson, Georgia Douglas">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213049" source="Koch, Felix J." target="Johnson, Georgia Douglas">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213050" source="Hill, Leslie Pinckney" target="Adams, John Henry">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213051" source="Hill, Leslie Pinckney" target="Fauset, Jessie">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213052" source="Hill, Leslie Pinckney" target="Storey, Moorfield">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213053" source="Clifford, Carrie W." target="Brawley, Benjamin">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213054" source="Clifford, Carrie W." target="Fauset, Jessie">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213055" source="Clifford, Carrie W." target="Allison, Madeline G.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213056" source="Clifford, Carrie W." target="Battey, C. M.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213057" source="Toomer, Jean" target="Newsome, Effie Lee">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213058" source="Toomer, Jean" target="Allison, Madeline G.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213059" source="Wheeler, Laura" target="Dunbar-Nelson, Alice">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213060" source="Wheeler, Laura" target="Cotter, Joseph S.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213061" source="Wheeler, Laura" target="Russell, Charles Edward">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213062" source="Wheeler, Laura" target="Smith, Albert">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213063" source="Wheeler, Laura" target="Johnson, James Weldon">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213064" source="Wheeler, Laura" target="Canfield, Dorothy">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213065" source="Wheeler, Laura" target="Saunders, Vincent">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213066" source="Wheeler, Laura" target="Johnson, Georgia Douglas">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213067" source="Wheeler, Laura" target="Lee, Mary Effie">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213068" source="Wheeler, Laura" target="Allison, Madeline G.">
+<data key="weight">7.0</data>
+</edge>
+<edge id="213069" source="Wheeler, Laura" target="Fauset, Jessie">
+<data key="weight">9.0</data>
+</edge>
+<edge id="213070" source="Wheeler, Laura" target="Battey, C. M.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213071" source="Wheeler, Laura" target="Johnson, Charles Bertram">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213072" source="Wheeler, Laura" target="Walts, Frank">
+<data key="weight">4.0</data>
+</edge>
+<edge id="213073" source="Spingarn, J. E." target="Villard, Oswald Garrison">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213074" source="Spingarn, J. E." target="Cloud, F. H.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213075" source="Spingarn, J. E." target="Johnson, Georgia Douglas">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213076" source="Spingarn, J. E." target="Johnson, James Weldon">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213077" source="Spingarn, J. E." target="Fauset, Jessie">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213078" source="Spingarn, J. E." target="Ovington, Mary W.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213079" source="Spingarn, J. E." target="Storey, Moorfield">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213080" source="Spingarn, J. E." target="Watkins, Lucian B.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213081" source="Spingarn, J. E." target="Bradford, George G.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213082" source="Bradford, George G." target="Watkins, Lucian B.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213083" source="Bradford, George G." target="Johnson, Georgia Douglas">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213084" source="Moravsky, Maria" target="Allison, Madeline G.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213085" source="Moravsky, Maria" target="Wilkinson, Hilda">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213086" source="Cloud, F. H." target="Johnson, Georgia Douglas">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213087" source="Schomburg, Arthur A." target="Villard, Oswald Garrison">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213088" source="Schomburg, Arthur A." target="Dickerman, G. S.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213089" source="Jordan, L. G." target="Allison, Madeline G.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213090" source="Jordan, L. G." target="Fauset, Jessie">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213091" source="Jordan, L. G." target="Hughes, Langston">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213092" source="Rogers, Lucille" target="Allison, Madeline G.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213093" source="Rogers, Lucille" target="Fauset, Jessie">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213094" source="Lee, Mary Effie" target="Allison, Madeline G.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213095" source="Lee, Mary Effie" target="Underwood and Underwood">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213096" source="Lee, Mary Effie" target="Scurlock">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213097" source="Lee, Mary Effie" target="Fauset, Jessie">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213098" source="Ovington, Mary W." target="Allison, Madeline G.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213099" source="Ovington, Mary W." target="Hughes, Langston">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213100" source="Ovington, Mary W." target="Johnson, Georgia Douglas">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213101" source="Dunbar-Nelson, Alice" target="Johnson, Georgia Douglas">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213102" source="Bentley, Florence Lewis" target="Wilkinson, Hilda">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213103" source="Bentley, Florence Lewis" target="Johnson, Charles Bertram">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213104" source="Bentley, Florence Lewis" target="Allison, Madeline G.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213105" source="M. W. O." target="Villard, Oswald Garrison">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213106" source="M. W. O." target="Fauset, Jessie">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213107" source="Work, Monroe N." target="Johnson, Georgia Douglas">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213108" source="Smith, Albert" target="Walts, Frank">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213109" source="Smith, Albert" target="Pickens, William">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213110" source="Smith, Albert" target="Allison, Madeline G.">
+<data key="weight">5.0</data>
+</edge>
+<edge id="213111" source="Smith, Albert" target="Fauset, Jessie">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213112" source="Smith, Albert" target="Spencer, Anne">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213113" source="Addams, Jane" target="Adams, John Henry">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213114" source="Wilkinson, Hilda" target="Walts, Frank">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213115" source="Wilkinson, Hilda" target="Allison, Madeline G.">
+<data key="weight">6.0</data>
+</edge>
+<edge id="213116" source="Wilkinson, Hilda" target="Burch, Charles Eaton">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213117" source="Wilkinson, Hilda" target="Fauset, Jessie">
+<data key="weight">4.0</data>
+</edge>
+<edge id="213118" source="Wilkinson, Hilda" target="Johnson, Charles Bertram">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213119" source="Wilkinson, Hilda" target="Murray, Ella Rush">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213120" source="Braithwaite, William Stanley" target="Villard, Oswald Garrison">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213121" source="Braithwaite, William Stanley" target="Brown, Richard L.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213122" source="Braithwaite, William Stanley" target="Russell, Charles Edward">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213123" source="Braithwaite, William Stanley" target="Chesnutt, Charles W.">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213124" source="Braithwaite, William Stanley" target="Hershaw, L. M.">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213125" source="Johnson, James Weldon" target="Bohanan, Otto L.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213126" source="Johnson, James Weldon" target="Hughes, Langston">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213127" source="Johnson, James Weldon" target="Scurlock">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213128" source="Johnson, James Weldon" target="Fauset, Jessie">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213129" source="Johnson, James Weldon" target="Allison, Madeline G.">
+<data key="weight">4.0</data>
+</edge>
+<edge id="213130" source="Milholland, John E. (Mrs.)" target="Adams, John Henry">
+<data key="weight">5.0</data>
+</edge>
+<edge id="213131" source="White, Walter F." target="Walts, Frank">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213132" source="White, Walter F." target="Steward, T. G.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213133" source="White, Walter F." target="Allison, Madeline G.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213134" source="White, Walter F." target="Johnson, Georgia Douglas">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213135" source="Brown, Edward O." target="Villard, Oswald Garrison">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213136" source="Pendleton, Leila Amos" target="Allison, Madeline G.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213137" source="Pendleton, Leila Amos" target="Fauset, Jessie">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213138" source="Pendleton, Leila Amos" target="Bohanan, Otto L.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213139" source="Adams, John Henry" target="Villard, Oswald Garrison">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213140" source="Adams, John Henry" target="Allison, Madeline G.">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213141" source="Adams, John Henry" target="Fauset, Jessie">
+<data key="weight">6.0</data>
+</edge>
+<edge id="213142" source="Adams, John Henry" target="Hershaw, L. M.">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213143" source="Brooks, C. Ames" target="Hershaw, L. M.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213144" source="Henderson, Edwin B." target="Bohanan, Otto L.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213145" source="Johnson, Charles Bertram" target="Allison, Madeline G.">
+<data key="weight">5.0</data>
+</edge>
+<edge id="213146" source="Johnson, Charles Bertram" target="Fauset, Jessie">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213147" source="Hunton, A. W." target="Dickerman, G. S.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213148" source="Dill, A. G." target="Johnson, Georgia Douglas">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213149" source="Shaw, Charles A." target="Saunders, Vincent">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213150" source="Grimke, Archibald H." target="Corrothers, James D.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213151" source="Bohanan, Otto L." target="Scurlock">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213152" source="Bohanan, Otto L." target="Steward, T. G.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213153" source="Bohanan, Otto L." target="Watkins, Lucian B.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213154" source="Bohanan, Otto L." target="Storey, Moorfield">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213155" source="Battey, C. M." target="Storey, Moorfield">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213156" source="Battey, C. M." target="Allison, Madeline G.">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213157" source="Battey, C. M." target="Fauset, Jessie">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213158" source="Cullen, Countee P." target="Francique, John">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213159" source="Cullen, Countee P." target="Allison, Madeline G.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213160" source="Cullen, Countee P." target="Fauset, Jessie">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213161" source="Fauset, Jessie" target="Scurlock">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213162" source="Fauset, Jessie" target="Cotter, Joseph S.">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213163" source="Fauset, Jessie" target="Newsome, Effie Lee">
+<data key="weight">5.0</data>
+</edge>
+<edge id="213164" source="Fauset, Jessie" target="Underwood and Underwood">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213165" source="Fauset, Jessie" target="Francique, John">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213166" source="Fauset, Jessie" target="Johnson, Georgia Douglas">
+<data key="weight">5.0</data>
+</edge>
+<edge id="213167" source="Fauset, Jessie" target="Allison, Madeline G.">
+<data key="weight">27.0</data>
+</edge>
+<edge id="213168" source="Fauset, Jessie" target="Brown, Richard L.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213169" source="Fauset, Jessie" target="Dickerman, G. S.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213170" source="Fauset, Jessie" target="Villard, Oswald Garrison">
+<data key="weight">6.0</data>
+</edge>
+<edge id="213171" source="Fauset, Jessie" target="Russell, Charles Edward">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213172" source="Fauset, Jessie" target="Fawcett, James Waldo">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213173" source="Fauset, Jessie" target="Canfield, Dorothy">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213174" source="Fauset, Jessie" target="Hughes, Langston">
+<data key="weight">10.0</data>
+</edge>
+<edge id="213175" source="Fauset, Jessie" target="Hershaw, L. M.">
+<data key="weight">7.0</data>
+</edge>
+<edge id="213176" source="Fauset, Jessie" target="Walts, Frank">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213177" source="Fauset, Jessie" target="Jones, Scipio">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213178" source="Fauset, Jessie" target="Jackson, May Howard">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213179" source="Terrell, Mary Church" target="Hershaw, L. M.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213180" source="Saunders, Vincent" target="Villard, Oswald Garrison">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213181" source="Saunders, Vincent" target="Bagnall, Robert W.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213182" source="Saunders, Vincent" target="Scott, William E.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213183" source="Saunders, Vincent" target="Watkins, Lucian B.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213184" source="Saunders, Vincent" target="Johnson, Georgia Douglas">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213185" source="Talbert, Mary B." target="Johnson, Georgia Douglas">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213186" source="Johnson, Georgia Douglas" target="Newsome, Effie Lee">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213187" source="Johnson, Georgia Douglas" target="Underwood and Underwood">
+<data key="weight">4.0</data>
+</edge>
+<edge id="213188" source="Johnson, Georgia Douglas" target="Scurlock">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213189" source="Johnson, Georgia Douglas" target="Watkins, Lucian B.">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213190" source="Johnson, Georgia Douglas" target="Steward, T. G.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213191" source="Johnson, Georgia Douglas" target="Walts, Frank">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213192" source="Johnson, Georgia Douglas" target="Carter, George R.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213193" source="Johnson, Georgia Douglas" target="Hughes, Langston">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213194" source="Johnson, Georgia Douglas" target="Lewin, Rose Dorothy">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213195" source="Johnson, Georgia Douglas" target="Allison, Madeline G.">
+<data key="weight">5.0</data>
+</edge>
+<edge id="213196" source="Johnson, Georgia Douglas" target="Storey, Moorfield">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213197" source="Burch, Charles Eaton" target="Allison, Madeline G.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213198" source="Dickerman, G. S." target="Villard, Oswald Garrison">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213199" source="Pickens, William" target="Allison, Madeline G.">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213200" source="Spencer, Anne" target="Allison, Madeline G.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213201" source="Spencer, Anne" target="Walts, Frank">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213202" source="Chesnutt, Charles W." target="Villard, Oswald Garrison">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213203" source="Chesnutt, Charles W." target="Brown, Richard L.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213204" source="Chesnutt, Charles W." target="Brawley, Benjamin">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213205" source="Chesnutt, Charles W." target="Hershaw, L. M.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213206" source="Underwood and Underwood" target="Brawley, Benjamin">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213207" source="Underwood and Underwood" target="Allison, Madeline G.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213208" source="Underwood and Underwood" target="Walts, Frank">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213209" source="Storey, Moorfield" target="Villard, Oswald Garrison">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213210" source="Murray, Ella Rush" target="Allison, Madeline G.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213211" source="Allison, Madeline G." target="J. F.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213212" source="Allison, Madeline G." target="Jordan, Winifred Virginia">
+<data key="weight">4.0</data>
+</edge>
+<edge id="213213" source="Allison, Madeline G." target="Cotter, Joseph S.">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213214" source="Allison, Madeline G." target="Bagnall, Robert W.">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213215" source="Allison, Madeline G." target="Fawcett, James Waldo">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213216" source="Allison, Madeline G." target="Newsome, Effie Lee">
+<data key="weight">6.0</data>
+</edge>
+<edge id="213217" source="Allison, Madeline G." target="Stoddard, Yetta Kay">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213218" source="Allison, Madeline G." target="Canfield, Dorothy">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213219" source="Allison, Madeline G." target="Hughes, Langston">
+<data key="weight">11.0</data>
+</edge>
+<edge id="213220" source="Allison, Madeline G." target="McKay, Claude">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213221" source="Allison, Madeline G." target="Francique, John">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213222" source="Allison, Madeline G." target="Walts, Frank">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213223" source="Allison, Madeline G." target="Jones, Scipio">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213224" source="Walts, Frank" target="Holmes, John Haynes">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213225" source="Jones, Scipio" target="Hughes, Langston">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213226" source="Hershaw, L. M." target="Villard, Oswald Garrison">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213227" source="Hughes, Langston" target="Fawcett, James Waldo">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213228" source="Hughes, Langston" target="Newsome, Effie Lee">
+<data key="weight">4.0</data>
+</edge>
+<edge id="213229" source="Hughes, Langston" target="McKay, Claude">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213230" source="Russell, Charles Edward" target="Villard, Oswald Garrison">
+<data key="weight">3.0</data>
+</edge>
+<edge id="213231" source="Villard, Oswald Garrison" target="Scurlock">
+<data key="weight">2.0</data>
+</edge>
+<edge id="213232" source="Brawley, Benjamin" target="Watkins, Lucian B.">
+<data key="weight">2.0</data>
+</edge>
+</graph>
+</graphml>

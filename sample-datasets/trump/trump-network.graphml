@@ -1,0 +1,4269 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<key attr.name="relationship" attr.type="string" for="edge" id="relationship"/>
+<key attr.name="citation" attr.type="string" for="edge" id="citation"/>
+<graph edgedefault="undirected">
+<node id="Paul Teller">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-102.24069</data>
+<data key="y">425.38342</data>
+</node>
+<node id="Donald J. Trump">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-297.3755</data>
+<data key="y">195.03502</data>
+</node>
+<node id="Joe Hagin">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">24.33612</data>
+<data key="y">431.88348</data>
+</node>
+<node id="Kellyanne Conway">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">243.44159</data>
+<data key="y">411.5111</data>
+</node>
+<node id="Wilbur Ross">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">119.12427</data>
+<data key="y">339.02386</data>
+</node>
+<node id="George E. Norcross Iii">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">115.63843</data>
+<data key="y">-328.25754</data>
+</node>
+<node id="Jared Kushner">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-456.51678</data>
+<data key="y">189.61156</data>
+</node>
+<node id="Stephen A. Schwarzman">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-410.79645</data>
+<data key="y">225.01701</data>
+</node>
+<node id="David Shulkin">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-114.882416</data>
+<data key="y">265.75085</data>
+</node>
+<node id="James Sherk">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-262.36432</data>
+<data key="y">-326.70383</data>
+</node>
+<node id="Brian Baudreau">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">401.28778</data>
+<data key="y">-317.6411</data>
+</node>
+<node id="Sean Hannity">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">94.37146</data>
+<data key="y">-211.27599</data>
+</node>
+<node id="Robert Goad">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-381.34338</data>
+<data key="y">416.25574</data>
+</node>
+<node id="Steven N. Cheung">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">115.33978</data>
+<data key="y">-341.48883</data>
+</node>
+<node id="Bill Stepien">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">386.06757</data>
+<data key="y">397.44647</data>
+</node>
+<node id="Ajit Pai">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">383.09827</data>
+<data key="y">145.62675</data>
+</node>
+<node id="Allen Weisselberg">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-443.56778</data>
+<data key="y">176.90782</data>
+</node>
+<node id="Eric Ueland">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">196.01428</data>
+<data key="y">-505.44675</data>
+</node>
+<node id="Ado Machida">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">260.0382</data>
+<data key="y">-270.86212</data>
+</node>
+<node id="Thomas J. Barrack Jr.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">300.2127</data>
+<data key="y">408.42743</data>
+</node>
+<node id="Mehmet Ali Yalcindag">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">423.97034</data>
+<data key="y">147.9215</data>
+</node>
+<node id="Victor Pinchuk">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">42.517517</data>
+<data key="y">77.2138</data>
+</node>
+<node id="Russ Vought">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-209.0274</data>
+<data key="y">350.21088</data>
+</node>
+<node id="Mike Baselice">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">149.37567</data>
+<data key="y">446.12457</data>
+</node>
+<node id="Dan Coats">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">195.9591</data>
+<data key="y">415.7149</data>
+</node>
+<node id="Oleg Miserva">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-330.2441</data>
+<data key="y">479.3214</data>
+</node>
+<node id="Michael Flynn">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">269.51666</data>
+<data key="y">-141.26366</data>
+</node>
+<node id="John Mcentee">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">359.27594</data>
+<data key="y">296.0056</data>
+</node>
+<node id="Betsy Devos">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">55.123657</data>
+<data key="y">-46.007885</data>
+</node>
+<node id="Helen Ferre">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-71.6824</data>
+<data key="y">-165.67815</data>
+</node>
+<node id="Andrew Bremberg">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">250.44305</data>
+<data key="y">219.59605</data>
+</node>
+<node id="Alexander Angelson">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">128.6471</data>
+<data key="y">133.07256</data>
+</node>
+<node id="Scott Pruitt">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-87.07056</data>
+<data key="y">298.07965</data>
+</node>
+<node id="Jason D. Greenblatt">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-388.93237</data>
+<data key="y">412.05847</data>
+</node>
+<node id="Wells Griffith">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-493.87558</data>
+<data key="y">-229.72917</data>
+</node>
+<node id="Jeff Sessions">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-149.1141</data>
+<data key="y">-121.06605</data>
+</node>
+<node id="Shahira Knight">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">105.395325</data>
+<data key="y">-112.95182</data>
+</node>
+<node id="Cliff Sims">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">208.48547</data>
+<data key="y">-406.2173</data>
+</node>
+<node id="Marc E. Kasowitz">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">430.50696</data>
+<data key="y">-189.57072</data>
+</node>
+<node id="Indra Nooyi">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">369.05457</data>
+<data key="y">-217.80742</data>
+</node>
+<node id="Reed S. Cordish">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">127.29791</data>
+<data key="y">-281.84793</data>
+</node>
+<node id="Kathryn Talento">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-11.473268</data>
+<data key="y">-296.5728</data>
+</node>
+<node id="Stephen B. Meister">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">381.86566</data>
+<data key="y">44.84966</data>
+</node>
+<node id="Emin Agalarov">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">362.04736</data>
+<data key="y">-447.6384</data>
+</node>
+<node id="Melania Trump">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-481.9517</data>
+<data key="y">208.11595</data>
+</node>
+<node id="Stephen Miller">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">326.79004</data>
+<data key="y">-97.82755</data>
+</node>
+<node id="Ryan Zinke">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-297.37726</data>
+<data key="y">399.2052</data>
+</node>
+<node id="Alexander Acosta">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">412.70264</data>
+<data key="y">-120.66071</data>
+</node>
+<node id="Prince Alwaleed Bin Talalthe">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">262.52234</data>
+<data key="y">405.8017</data>
+</node>
+<node id="Sam Clovis">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">462.7702</data>
+<data key="y">-396.662</data>
+</node>
+<node id="Michael Fascitelli">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">404.51</data>
+<data key="y">-21.755352</data>
+</node>
+<node id="Travis Kalanick">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-441.35727</data>
+<data key="y">420.4746</data>
+</node>
+<node id="Joyce Meyer">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">320.12543</data>
+<data key="y">-49.214916</data>
+</node>
+<node id="Ashley Marquis">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">107.97919</data>
+<data key="y">114.62969</data>
+</node>
+<node id="Phil Ruffin">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-242.64291</data>
+<data key="y">185.89885</data>
+</node>
+<node id="Elon Musk">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">376.6214</data>
+<data key="y">-412.74606</data>
+</node>
+<node id="Christopher Ruddy">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">145.37433</data>
+<data key="y">422.3753</data>
+</node>
+<node id="Sonny Perdue">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-418.2842</data>
+<data key="y">464.774</data>
+</node>
+<node id="Paul Manafort">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">269.786</data>
+<data key="y">276.84503</data>
+</node>
+<node id="Edwin Feulner">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-98.83896</data>
+<data key="y">-286.35913</data>
+</node>
+<node id="Linda Mcmahon">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">313.27533</data>
+<data key="y">-26.393078</data>
+</node>
+<node id="Julia Hahn">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">400.26593</data>
+<data key="y">-378.4292</data>
+</node>
+<node id="John F. Kelly">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-199.90591</data>
+<data key="y">-140.94041</data>
+</node>
+<node id="Elaine Chao">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-71.73898</data>
+<data key="y">438.1001</data>
+</node>
+<node id="Dina Powell">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-387.21844</data>
+<data key="y">394.7365</data>
+</node>
+<node id="Robert Lighthizer">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-504.686</data>
+<data key="y">-441.60382</data>
+</node>
+<node id="Curtis Dubay">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-214.39404</data>
+<data key="y">116.89147</data>
+</node>
+<node id="Tom Bossert">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-495.04236</data>
+<data key="y">381.3363</data>
+</node>
+<node id="Corey Lewandowski">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">221.61029</data>
+<data key="y">0.7748305</data>
+</node>
+<node id="Michael Pompeo">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-512.65326</data>
+<data key="y">-123.814156</data>
+</node>
+<node id="Reince Priebus">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-171.22412</data>
+<data key="y">-225.81386</data>
+</node>
+<node id="Jennifer Korn">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-344.48248</data>
+<data key="y">451.78015</data>
+</node>
+<node id="Sam Nunberg">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-174.29922</data>
+<data key="y">-12.413981</data>
+</node>
+<node id="Andeliz Castillo">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-310.1682</data>
+<data key="y">-62.069195</data>
+</node>
+<node id="Ivanka Trump">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">128.32214</data>
+<data key="y">66.992485</data>
+</node>
+<node id="Edwin Meese">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-354.9543</data>
+<data key="y">360.85168</data>
+</node>
+<node id="Brian Burns">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-203.40479</data>
+<data key="y">151.085</data>
+</node>
+<node id="Donald Trump Jr.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-230.04968</data>
+<data key="y">-277.2834</data>
+</node>
+<node id="Michael J. Ellis">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-506.3258</data>
+<data key="y">245.38335</data>
+</node>
+<node id="John Eisenberg">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">331.2893</data>
+<data key="y">180.03319</data>
+</node>
+<node id="Thomas Pyle">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-209.97745</data>
+<data key="y">114.063835</data>
+</node>
+<node id="Uttam Dhillon">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">241.66711</data>
+<data key="y">-143.6627</data>
+</node>
+<node id="Terry Branstad">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-68.98593</data>
+<data key="y">373.9212</data>
+</node>
+<node id="Jamie Dimon">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">405.41846</data>
+<data key="y">21.781788</data>
+</node>
+<node id="Raj Shah">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">378.96777</data>
+<data key="y">455.17932</data>
+</node>
+<node id="Ben Howard">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">216.91779</data>
+<data key="y">-474.48483</data>
+</node>
+<node id="Sarah Makin">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">39.19342</data>
+<data key="y">450.2998</data>
+</node>
+<node id="Robert Mercer">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-427.4345</data>
+<data key="y">176.31432</data>
+</node>
+<node id="Rick Dearborn">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-415.4931</data>
+<data key="y">384.63196</data>
+</node>
+<node id="Timothy Pataki">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">90.69501</data>
+<data key="y">232.75786</data>
+</node>
+<node id="Jason D. Meister">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-296.19287</data>
+<data key="y">111.69378</data>
+</node>
+<node id="Bill Mcginley">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-27.096619</data>
+<data key="y">286.29462</data>
+</node>
+<node id="Barry Bennett">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">417.6897</data>
+<data key="y">-138.93147</data>
+</node>
+<node id="Chris Christie">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">85.81476</data>
+<data key="y">-401.11597</data>
+</node>
+<node id="Elena Gorlova">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-172.29507</data>
+<data key="y">448.34674</data>
+</node>
+<node id="Carl C. Icahn">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">394.0454</data>
+<data key="y">391.4549</data>
+</node>
+<node id="Jarrod P. Agen">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-204.24942</data>
+<data key="y">294.23877</data>
+</node>
+<node id="Carter Page">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-166.85544</data>
+<data key="y">-329.7517</data>
+</node>
+<node id="Newt Gingrich">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">86.22247</data>
+<data key="y">-306.0708</data>
+</node>
+<node id="Christine Ciccone">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">75.54663</data>
+<data key="y">-74.81736</data>
+</node>
+<node id="Aras Agalarov">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">445.9297</data>
+<data key="y">227.9376</data>
+</node>
+<node id="Rex Tillerson">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">413.07367</data>
+<data key="y">437.69757</data>
+</node>
+<node id="Jeremy Katz">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-54.587555</data>
+<data key="y">-187.80159</data>
+</node>
+<node id="Dan Scavino">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">156.28894</data>
+<data key="y">-4.895885</data>
+</node>
+<node id="Joseph Kellogg">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-339.81497</data>
+<data key="y">-352.23523</data>
+</node>
+<node id="Mangal Prabhat Lodha">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-465.99237</data>
+<data key="y">-475.7104</data>
+</node>
+<node id="Sean Spicer">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">431.55798</data>
+<data key="y">249.48991</data>
+</node>
+<node id="Sergei Millian">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">65.52991</data>
+<data key="y">-470.30478</data>
+</node>
+<node id="Stephanie Grisham">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">14.077025</data>
+<data key="y">-191.7682</data>
+</node>
+<node id="Roger J. Stone, Jr.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-226.33197</data>
+<data key="y">248.80449</data>
+</node>
+<node id="Ginni Rometty">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">390.24866</data>
+<data key="y">372.57367</data>
+</node>
+<node id="Michael D. Cohen">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">408.39868</data>
+<data key="y">122.95214</data>
+</node>
+<node id="Ryan Jarmula">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">413.10626</data>
+<data key="y">-276.2508</data>
+</node>
+<node id="Kathleen Troia Mcfarland">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">58.978333</data>
+<data key="y">-477.9184</data>
+</node>
+<node id="Peter Navarro">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">223.30084</data>
+<data key="y">361.40424</data>
+</node>
+<node id="Kalpesh Mehta">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">146.61755</data>
+<data key="y">-340.8482</data>
+</node>
+<node id="Robert Kraft">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">79.78693</data>
+<data key="y">-281.97614</data>
+</node>
+<node id="Ross Worthington">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-189.68219</data>
+<data key="y">283.2118</data>
+</node>
+<node id="James Mattis">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">341.80353</data>
+<data key="y">-423.70154</data>
+</node>
+<node id="David M. Friedman">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">125.23297</data>
+<data key="y">49.73412</data>
+</node>
+<node id="Felipe Yaryura">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">344.7354</data>
+<data key="y">-323.6018</data>
+</node>
+<node id="Vince Haley">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">425.92407</data>
+<data key="y">432.6172</data>
+</node>
+<node id="Lindsay Walters">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-176.42905</data>
+<data key="y">-330.9306</data>
+</node>
+<node id="Justin Clark">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">246.13538</data>
+<data key="y">-335.66296</data>
+</node>
+<node id="Rick Perry">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">355.057</data>
+<data key="y">-104.33701</data>
+</node>
+<node id="Rhona Graff Riccio">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">32.22589</data>
+<data key="y">469.04962</data>
+</node>
+<node id="Tom Price">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">13.283141</data>
+<data key="y">-42.350018</data>
+</node>
+<node id="Stephen A. Feinberg">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-160.84982</data>
+<data key="y">288.01556</data>
+</node>
+<node id="Joseph Hagin">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">63.310852</data>
+<data key="y">-324.126</data>
+</node>
+<node id="Sean Cairncross">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-324.1123</data>
+<data key="y">287.5381</data>
+</node>
+<node id="Madeleine Westerhout">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">53.595825</data>
+<data key="y">-166.26372</data>
+</node>
+<node id="Mick Mulvaney">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">31.480774</data>
+<data key="y">-313.3235</data>
+</node>
+<node id="Omarosé Onee Manigault">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">110.33484</data>
+<data key="y">48.70464</data>
+</node>
+<node id="George Gigicos">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">383.34607</data>
+<data key="y">-154.68211</data>
+</node>
+<node id="Ben Carson">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-414.4995</data>
+<data key="y">222.98192</data>
+</node>
+<node id="Recep Tayyip Erdogan">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">166.28455</data>
+<data key="y">112.75909</data>
+</node>
+<node id="Steven Roth">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-534.7885</data>
+<data key="y">286.8656</data>
+</node>
+<node id="Ike Perlmutter">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-236.37894</data>
+<data key="y">-347.2283</data>
+</node>
+<node id="Bethany Scully">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">106.216736</data>
+<data key="y">367.27545</data>
+</node>
+<node id="Boris Epshteyn">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-428.83603</data>
+<data key="y">333.1942</data>
+</node>
+<node id="Paul Winfree">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-64.34323</data>
+<data key="y">89.12188</data>
+</node>
+<node id="Roger Khafif">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">80.181885</data>
+<data key="y">296.41382</data>
+</node>
+<node id="Alexander Nix">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-277.10297</data>
+<data key="y">448.63098</data>
+</node>
+<node id="Walter J. &quot;jay&quot; Clayton Iii">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">227.3529</data>
+<data key="y">11.67217</data>
+</node>
+<node id="John Gray">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-87.88858</data>
+<data key="y">-414.5595</data>
+</node>
+<node id="Stephen Bannon">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-32.350403</data>
+<data key="y">450.9496</data>
+</node>
+<node id="Alex Shnaider">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">290.42615</data>
+<data key="y">-175.77586</data>
+</node>
+<node id="Sergey I. Kislyak">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">140.3805</data>
+<data key="y">-472.7489</data>
+</node>
+<node id="Marc Short">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-41.18161</data>
+<data key="y">-443.2025</data>
+</node>
+<node id="Jessica Ditto">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">219.11713</data>
+<data key="y">87.44048</data>
+</node>
+<node id="Andy Puzder">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">171.5957</data>
+<data key="y">-107.89564</data>
+</node>
+<node id="Marc Lotter">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">462.99286</data>
+<data key="y">-438.66345</data>
+</node>
+<node id="Don Mcgahn">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">115.16547</data>
+<data key="y">-485.8222</data>
+</node>
+<node id="Cindy Simms">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">319.8683</data>
+<data key="y">-165.39336</data>
+</node>
+<node id="Eric Trump">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">107.936035</data>
+<data key="y">-142.88551</data>
+</node>
+<node id="Gerrit Lansing">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-328.88513</data>
+<data key="y">35.064564</data>
+</node>
+<node id="James Schultz">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">20.575684</data>
+<data key="y">-468.70212</data>
+</node>
+<node id="Stephen Munisteri">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-346.72272</data>
+<data key="y">-299.70264</data>
+</node>
+<node id="Richard Lefrak">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-60.51477</data>
+<data key="y">-83.45081</data>
+</node>
+<node id="Steven Mnuchin">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">343.6322</data>
+<data key="y">229.11827</data>
+</node>
+<node id="Linda Bean">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">226.22638</data>
+<data key="y">-24.417461</data>
+</node>
+<node id="Mike Pence">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-445.33102</data>
+<data key="y">-389.83798</data>
+</node>
+<node id="Sebastian Gorka">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">161.77808</data>
+<data key="y">-364.91653</data>
+</node>
+<node id="Rupert Murdoch">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">346.77576</data>
+<data key="y">168.00987</data>
+</node>
+<node id="Mary T. Barra">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">306.87775</data>
+<data key="y">-468.07202</data>
+</node>
+<node id="Rebekah Mercer">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-361.07745</data>
+<data key="y">470.55127</data>
+</node>
+<node id="Alexander Gray">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-441.6646</data>
+<data key="y">-471.4976</data>
+</node>
+<node id="Robert A. Iger">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-526.11053</data>
+<data key="y">-399.14038</data>
+</node>
+<node id="Anthony Scaramucci">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-363.90686</data>
+<data key="y">163.78111</data>
+</node>
+<node id="Gary Cohn">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">77.59857</data>
+<data key="y">-287.3191</data>
+</node>
+<node id="Maryanne Trump Barry">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">396.93457</data>
+<data key="y">125.76342</data>
+</node>
+<node id="Keith Schiller">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-158.63779</data>
+<data key="y">160.70213</data>
+</node>
+<node id="Peter Thiel">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-61.86914</data>
+<data key="y">-93.93253</data>
+</node>
+<node id="Sheri A. Dillon">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-248.62836</data>
+<data key="y">-474.91092</data>
+</node>
+<node id="Carlos Diaz-rosillo">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-72.056</data>
+<data key="y">28.922413</data>
+</node>
+<node id="Brad Parscale">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-408.49402</data>
+<data key="y">-465.64798</data>
+</node>
+<node id="Scott Gast">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-20.209473</data>
+<data key="y">-365.50177</data>
+</node>
+<node id="John Destefano">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">453.549</data>
+<data key="y">231.41795</data>
+</node>
+<node id="Nikki Haley">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">173.0008</data>
+<data key="y">-259.54547</data>
+</node>
+<node id="Noel Francisco">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-296.8391</data>
+<data key="y">-275.14008</data>
+</node>
+<node id="Joseph Lai">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">15.493407</data>
+<data key="y">205.78807</data>
+</node>
+<node id="Andrew D. Koenig">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-429.54266</data>
+<data key="y">-479.44824</data>
+</node>
+<node id="Hope Hicks">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">242.31476</data>
+<data key="y">277.50183</data>
+</node>
+<node id="David S. Cordish">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-39.191284</data>
+<data key="y">-261.41006</data>
+</node>
+<node id="Cui Tiankai">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-151.1203</data>
+<data key="y">-386.68512</data>
+</node>
+<node id="Rob Speyer">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-85.52194</data>
+<data key="y">486.1416</data>
+</node>
+<node id="Avram Lebor">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-331.12134</data>
+<data key="y">-157.42223</data>
+</node>
+<node id="Ryan Doherty">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">382.97534</data>
+<data key="y">278.95013</data>
+</node>
+<node id="Nicole Kushner Meyer">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-375.79755</data>
+<data key="y">52.75237</data>
+</node>
+<node id="Joshua Kushner">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-364.487</data>
+<data key="y">-317.45087</data>
+</node>
+<node id="Margaret Chin">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-502.13342</data>
+<data key="y">70.261284</data>
+</node>
+<node id="Justin Weniger">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-339.29498</data>
+<data key="y">278.80658</data>
+</node>
+<node id="Avrahm Berkowitz">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-289.19943</data>
+<data key="y">42.20763</data>
+</node>
+<node id="Asher Abehsera">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">386.6615</data>
+<data key="y">-345.76028</data>
+</node>
+<node id="Martin Sorrell">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">119.501526</data>
+<data key="y">-380.59003</data>
+</node>
+<node id="Miles Berger">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">406.88556</data>
+<data key="y">353.61377</data>
+</node>
+<node id="Dara Orbach">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">293.93146</data>
+<data key="y">-8.606303</data>
+</node>
+<node id="Charles Kushner">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">169.8902</data>
+<data key="y">-354.34357</data>
+</node>
+<node id="Richard Goettlich">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">83.67377</data>
+<data key="y">130.4251</data>
+</node>
+<node id="Benjamin Netanyahu">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">267.20795</data>
+<data key="y">-492.70966</data>
+</node>
+<node id="Strauss Zelnick">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-464.7552</data>
+<data key="y">-135.63066</data>
+</node>
+<node id="Charles G. Koch">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-462.52335</data>
+<data key="y">448.6067</data>
+</node>
+<node id="David H. Koch">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">384.59033</data>
+<data key="y">-182.90074</data>
+</node>
+<node id="William I. Koch">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">193.53949</data>
+<data key="y">-327.1264</data>
+</node>
+<node id="Chloe Murdoch">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">416.17896</data>
+<data key="y">-169.62279</data>
+</node>
+<node id="Wendi Deng Murdoch">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">75.00812</data>
+<data key="y">-405.80817</data>
+</node>
+<node id="Grace Murdoch">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-46.26181</data>
+<data key="y">212.57732</data>
+</node>
+<node id="Andriy Zaika">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">430.4934</data>
+<data key="y">-80.01725</data>
+</node>
+<node id="Paulo Figueiredo Filho">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-372.4395</data>
+<data key="y">47.31078</data>
+</node>
+<node id="Viktor Tkachuk">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">341.71704</data>
+<data key="y">346.31177</data>
+</node>
+<node id="Stephen Vaden">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">349.44098</data>
+<data key="y">-161.0374</data>
+</node>
+<node id="Serhiy Lyovochkin">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">15.975402</data>
+<data key="y">411.12238</data>
+</node>
+<node id="Dmitry Firtash">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">118.689026</data>
+<data key="y">-27.657452</data>
+</node>
+<node id="Rinat Akhmetov">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-306.06628</data>
+<data key="y">203.77525</data>
+</node>
+<node id="Viktor F. Yanukovych">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-118.7081</data>
+<data key="y">-179.90038</data>
+</node>
+<node id="Abdul Rahman Al-assir">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-153.51193</data>
+<data key="y">438.85767</data>
+</node>
+<node id="Arthur G. Cohen">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">169.18793</data>
+<data key="y">-155.75627</data>
+</node>
+<node id="Dmytro Firtash">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-332.56165</data>
+<data key="y">-131.95192</data>
+</node>
+<node id="Kevin Marino">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-342.2572</data>
+<data key="y">-292.93616</data>
+</node>
+<node id="Kirill Dmitriev">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-392.02432</data>
+<data key="y">125.89263</data>
+</node>
+<node id="Sylvain Mirochnikoff">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">96.902466</data>
+<data key="y">231.92729</data>
+</node>
+<node id="Nigel Farage">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-155.50687</data>
+<data key="y">-116.33143</data>
+</node>
+<node id="Patrick Caddell">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">295.13153</data>
+<data key="y">35.89049</data>
+</node>
+<node id="Jennifer Mercer">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">122.98883</data>
+<data key="y">-379.91827</data>
+</node>
+<node id="Erik Prince">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-34.873383</data>
+<data key="y">-206.25468</data>
+</node>
+<node id="Eric Holcomb">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">381.33563</data>
+<data key="y">408.3639</data>
+</node>
+<node id="George T. Conway Iii">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">276.4286</data>
+<data key="y">387.07343</data>
+</node>
+<node id="Rudy Giuliani">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-85.048065</data>
+<data key="y">-133.59218</data>
+</node>
+<node id="Ken Kurson">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-97.560425</data>
+<data key="y">-357.92795</data>
+</node>
+<node id="James Uthmeier">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-378.08517</data>
+<data key="y">-180.10332</data>
+</node>
+<node id="Alan Hammer">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">197.98383</data>
+<data key="y">-33.6349</data>
+</node>
+<node id="Murray Kushner">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">40.313538</data>
+<data key="y">287.9558</data>
+</node>
+<node id="Jim Mcgreevey">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-101.566376</data>
+<data key="y">-42.296337</data>
+</node>
+<node id="Seryl Kushner">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-526.34845</data>
+<data key="y">116.67419</data>
+</node>
+<node id="Esther Kushner">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">392.55554</data>
+<data key="y">-23.59074</data>
+</node>
+<node id="Sally Priebus">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-510.63876</data>
+<data key="y">-42.0854</data>
+</node>
+<node id="Katie Walsh">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">188.61407</data>
+<data key="y">-251.39351</data>
+</node>
+<node id="Mallory Hunter">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-528.99664</data>
+<data key="y">319.15045</data>
+</node>
+<node id="Scott Walker">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-333.09784</data>
+<data key="y">298.73718</data>
+</node>
+<node id="Mike Ferguson">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-293.5173</data>
+<data key="y">94.638054</data>
+</node>
+<node id="Mitch Mcconnell">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-408.24695</data>
+<data key="y">-102.455574</data>
+</node>
+<node id="Julian Assange">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-297.38348</data>
+<data key="y">329.05396</data>
+</node>
+<node id="Albert Ross Sr.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">142.2179</data>
+<data key="y">255.65904</data>
+</node>
+<node id="H. B. Hicks">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">30.653442</data>
+<data key="y">-38.203777</data>
+</node>
+<node id="Richard Marvin &quot;dick&quot; Devos Jr.">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">412.97815</data>
+<data key="y">-106.88303</data>
+</node>
+<node id="Richard Devos">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">27.845032</data>
+<data key="y">-46.529766</data>
+</node>
+<node id="Jen Pavlik">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">435.69464</data>
+<data key="y">471.58154</data>
+</node>
+<node id="Thomas E. Wheeler">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">106.93286</data>
+<data key="y">-494.3519</data>
+</node>
+<node id="Nick Ayers">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-224.12311</data>
+<data key="y">-111.26078</data>
+</node>
+<node id="Marty Obst">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">258.41925</data>
+<data key="y">50.812733</data>
+</node>
+<node id="Josh Pitcock">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-328.50998</data>
+<data key="y">103.283195</data>
+</node>
+<node id="Rick Snyder">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-430.24988</data>
+<data key="y">311.46747</data>
+</node>
+<node id="George Soros">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-503.10095</data>
+<data key="y">-15.904979</data>
+</node>
+<node id="Edward Lampert">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">231.04407</data>
+<data key="y">5.7112317</data>
+</node>
+<node id="Vanessa Trump">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">59.383484</data>
+<data key="y">-41.32191</data>
+</node>
+<node id="Bonnie Haydon">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-451.23932</data>
+<data key="y">-288.84766</data>
+</node>
+<node id="Russell Flicker">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-134.66296</data>
+<data key="y">-126.405464</data>
+</node>
+<node id="Bernard R. Diamond">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-53.290924</data>
+<data key="y">-10.149547</data>
+</node>
+<node id="Aaron Schock">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">29.401794</data>
+<data key="y">273.5999</data>
+</node>
+<node id="David Morrell">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-201.94534</data>
+<data key="y">124.05047</data>
+</node>
+<node id="Greg Katsas">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-57.833344</data>
+<data key="y">256.36737</data>
+</node>
+<node id="Annie Donaldson">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">202.49078</data>
+<data key="y">-284.2104</data>
+</node>
+<node id="Shannon Mcgahn">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">160.69513</data>
+<data key="y">166.13713</data>
+</node>
+<node id="Blake Delaplane">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-500.5011</data>
+<data key="y">-36.96937</data>
+</node>
+<node id="James Burnham">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">241.02856</data>
+<data key="y">-347.67737</data>
+</node>
+<node id="William P. Foley">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">391.62946</data>
+<data key="y">-359.206</data>
+</node>
+<node id="Harold G. Hamm">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">392.94446</data>
+<data key="y">38.05071</data>
+</node>
+<node id="Matthew Griswold Bevin">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">40.993225</data>
+<data key="y">-312.16772</data>
+</node>
+<node id="Catherine Bray Griffith">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-95.367615</data>
+<data key="y">-481.1928</data>
+</node>
+<node id="Christine Chao">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">397.66046</data>
+<data key="y">-172.28984</data>
+</node>
+<node id="James S.C. Chao">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">258.5824</data>
+<data key="y">442.8058</data>
+</node>
+<node id="Angela Chao">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">320.4229</data>
+<data key="y">-162.27586</data>
+</node>
+<node id="Yury Zaytsev">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-260.13574</data>
+<data key="y">-187.60683</data>
+</node>
+<node id="Vladimir Putin">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-241.6174</data>
+<data key="y">-80.08427</data>
+</node>
+<node id="Jack Weisselberg">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">124.10797</data>
+<data key="y">189.74785</data>
+</node>
+<node id="Xi Jinping">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">376.0876</data>
+<data key="y">125.503044</data>
+</node>
+<node id="John Gore">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-275.12064</data>
+<data key="y">390.32642</data>
+</node>
+<node id="Garrett Murch">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-474.55627</data>
+<data key="y">-62.624798</data>
+</node>
+<node id="Michael Murray">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-321.2229</data>
+<data key="y">-296.04413</data>
+</node>
+<node id="John Kyl">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">394.38916</data>
+<data key="y">-75.13538</data>
+</node>
+<node id="Joseph Meyer">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-148.53955</data>
+<data key="y">-103.83372</data>
+</node>
+<node id="Bob Dole">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-504.6745</data>
+<data key="y">-149.16707</data>
+</node>
+<node id="Pam Mulvaney">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">158.94965</data>
+<data key="y">-88.69761</data>
+</node>
+<node id="W.E.“ed” Bosarge">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">395.55865</data>
+<data key="y">-266.82382</data>
+</node>
+<node id="Lucius Joseph Riccio">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">415.9239</data>
+<data key="y">24.149403</data>
+</node>
+<node id="Peter Holt">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-262.49182</data>
+<data key="y">141.1746</data>
+</node>
+<node id="Anita Thigpen Perry">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">46.37451</data>
+<data key="y">168.25273</data>
+</node>
+<node id="Nicolas Sarkozy">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">148.20435</data>
+<data key="y">441.68463</data>
+</node>
+<node id="Yousef Al-otaiba">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">121.854065</data>
+<data key="y">306.80695</data>
+</node>
+<node id="Aydin Dogan">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-404.40298</data>
+<data key="y">-199.01155</data>
+</node>
+<node id="Alexander Novak">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">228.69397</data>
+<data key="y">5.93401</data>
+</node>
+<node id="Igor Sechin">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">113.46155</data>
+<data key="y">-504.81104</data>
+</node>
+<node id="Lev Leviev">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-392.05203</data>
+<data key="y">-179.63197</data>
+</node>
+<node id="Sergey Kislyak">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-412.8089</data>
+<data key="y">485.35718</data>
+</node>
+<node id="David Wildstein">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-139.5513</data>
+<data key="y">-291.9944</data>
+</node>
+<node id="Susan Pompeo">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-530.47394</data>
+<data key="y">273.20947</data>
+</node>
+<node id="David Horowitz">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">264.2508</data>
+<data key="y">452.4803</data>
+</node>
+<node id="Caroline May">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-121.72366</data>
+<data key="y">-231.08742</data>
+</node>
+<node id="Tucker Carlson">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">412.8639</data>
+<data key="y">-8.138133</data>
+</node>
+<node id="Michelle Bachmann">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-482.64807</data>
+<data key="y">274.68512</data>
+</node>
+<node id="Lindsey Reynolds">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">450.06354</data>
+<data key="y">-373.22223</data>
+</node>
+<node id="Stephanie Winston Wolkoff">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">257.92358</data>
+<data key="y">-283.81683</data>
+</node>
+<node id="Sam Brownback">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-349.30066</data>
+<data key="y">312.69904</data>
+</node>
+<edge id="212594" source="Paul Teller" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Special assistant</data>
+<data key="citation">https://www.documentcloud.org/documents/3534342-Teller-Paul.html</data>
+</edge>
+<edge id="212595" source="Donald J. Trump" target="Joe Hagin">
+<data key="weight">1.0</data>
+<data key="relationship">Deputy chief of staff for operations</data>
+<data key="citation">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
+</edge>
+<edge id="212596" source="Donald J. Trump" target="Kellyanne Conway">
+<data key="weight">1.0</data>
+<data key="relationship">White House Counselor</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212597" source="Donald J. Trump" target="Wilbur Ross">
+<data key="weight">1.0</data>
+<data key="relationship">Secretary of Commerce</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212598" source="Donald J. Trump" target="George E. Norcross Iii">
+<data key="weight">1.0</data>
+<data key="relationship">"whose friendship with Mr. Trump dates to the president’s Atlantic City years," per the New York Times</data>
+<data key="citation">https://www.nytimes.com/2017/02/18/us/mar-a-lago-trump-ethics-winter-white-house.html?_r=0</data>
+</edge>
+<edge id="212599" source="Donald J. Trump" target="Jared Kushner">
+<data key="weight">1.0</data>
+<data key="relationship">Senior adviser</data>
+<data key="citation">https://www.washingtonpost.com/news/post-politics/wp/2017/01/09/tumps-son-in-law-jared-kushner-expected-to-join-white-house-as-a-senior-adviser/?utm_term=.a3958e1d3829</data>
+</edge>
+<edge id="212600" source="Donald J. Trump" target="Stephen A. Schwarzman">
+<data key="weight">1.0</data>
+<data key="relationship">Chair of Trump's Strategic and Policy forum</data>
+<data key="citation">http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/</data>
+</edge>
+<edge id="212601" source="Donald J. Trump" target="David Shulkin">
+<data key="weight">1.0</data>
+<data key="relationship">Secretary of Veterans Affairs</data>
+<data key="citation">http://www.usnews.com/news/national-news/articles/2017-02-09/10-things-you-didnt-know-about-david-shulkin</data>
+</edge>
+<edge id="212602" source="Donald J. Trump" target="James Sherk">
+<data key="weight">1.0</data>
+<data key="relationship">White House Domestic Policy Council labor and employment advisor</data>
+<data key="citation">https://www.bna.com/trumps-new-labor-n57982084346/</data>
+</edge>
+<edge id="212603" source="Donald J. Trump" target="Brian Baudreau">
+<data key="weight">1.0</data>
+<data key="relationship">Former driver</data>
+<data key="citation">https://www.nytimes.com/2016/12/25/us/politics/trump-organization-business.html?_r=0</data>
+</edge>
+<edge id="212604" source="Donald J. Trump" target="Sean Hannity">
+<data key="weight">1.0</data>
+<data key="relationship">A top touchstone outside the White House, according to the New York Times</data>
+<data key="citation">https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1</data>
+</edge>
+<edge id="212605" source="Donald J. Trump" target="Robert Goad">
+<data key="weight">1.0</data>
+<data key="relationship">Special assistant</data>
+<data key="citation">https://www.documentcloud.org/documents/3534080-Goad-Robert.html</data>
+</edge>
+<edge id="212606" source="Donald J. Trump" target="Steven N. Cheung">
+<data key="weight">1.0</data>
+<data key="relationship">Assistant communications director</data>
+<data key="citation">https://www.documentcloud.org/documents/3534333-Cheung-Steven-N.html</data>
+</edge>
+<edge id="212607" source="Donald J. Trump" target="Bill Stepien">
+<data key="weight">1.0</data>
+<data key="relationship">White House political director</data>
+<data key="citation">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
+</edge>
+<edge id="212608" source="Donald J. Trump" target="Ajit Pai">
+<data key="weight">1.0</data>
+<data key="relationship">Appointed chairman of the Federal Communications Commission</data>
+<data key="citation">http://www.usatoday.com/story/tech/news/2017/01/23/new-fcc-chairman-ajit-pai-no-net-neutrality-fan/96967372/</data>
+</edge>
+<edge id="212609" source="Donald J. Trump" target="Allen Weisselberg">
+<data key="weight">1.0</data>
+<data key="relationship">"One of Donald Trump's longtime confidants," per the Wall Street Journal</data>
+<data key="citation">http://blogs.wsj.com/cfo/2016/11/05/donald-trumps-loyal-numbers-man/</data>
+</edge>
+<edge id="212610" source="Donald J. Trump" target="Eric Ueland">
+<data key="weight">1.0</data>
+<data key="relationship">"Leader" in the transition team per CNN</data>
+<data key="citation">http://www.cnn.com/2016/11/10/politics/donald-trump-transition-drain-the-swamp/</data>
+</edge>
+<edge id="212611" source="Donald J. Trump" target="Ado Machida">
+<data key="weight">1.0</data>
+<data key="relationship">Director of policy implementation for Trump transition team</data>
+<data key="citation">http://www.cnn.com/2016/11/10/politics/donald-trump-transition-drain-the-swamp/ | https://www.linkedin.com/in/ado-machida-68a9a64</data>
+</edge>
+<edge id="212612" source="Donald J. Trump" target="Thomas J. Barrack Jr.">
+<data key="weight">1.0</data>
+<data key="relationship">Inauguration committee chairman</data>
+<data key="citation">https://www.donaldjtrump.com/press-releases/president-elect-trump-announces-presidentialinaugural-committee-leader</data>
+</edge>
+<edge id="212613" source="Donald J. Trump" target="Mehmet Ali Yalcindag">
+<data key="weight">1.0</data>
+<data key="relationship">Business partners</data>
+<data key="citation">http://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html</data>
+</edge>
+<edge id="212614" source="Donald J. Trump" target="Victor Pinchuk">
+<data key="weight">1.0</data>
+<data key="relationship">Trump made video appearance for Pinchuk's convention</data>
+<data key="citation">https://www.buzzfeed.com/paulmcleod/trump-foundation-received-150000-donation-in-exchange-for-20?utm_term=.wtQZdJa2V#.llzLxNkYw</data>
+</edge>
+<edge id="212615" source="Donald J. Trump" target="Russ Vought">
+<data key="weight">1.0</data>
+<data key="relationship">Part of OMB transition team</data>
+<data key="citation">http://thehill.com/policy/finance/314991-trump-team-prepares-dramatic-cuts</data>
+</edge>
+<edge id="212616" source="Donald J. Trump" target="Mike Baselice">
+<data key="weight">1.0</data>
+<data key="relationship">Pollster for Trump's presidential campaign</data>
+<data key="citation">https://www.texastribune.org/2016/07/01/trump-campaign-turns-texas-political-talent/</data>
+</edge>
+<edge id="212617" source="Donald J. Trump" target="Dan Coats">
+<data key="weight">1.0</data>
+<data key="relationship">Director of National Intelligence</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212618" source="Donald J. Trump" target="Oleg Miserva">
+<data key="weight">1.0</data>
+<data key="relationship">Miserva bought a Trump penthouse in Florida</data>
+<data key="citation">https://www.washingtonpost.com/politics/in-little-moscow-russians-helped-donald-trumps-brand-survive-the-recession/2016/11/04/f9dbd38e-97cf-11e6-bb29-bf2701dbe0a3_story.html</data>
+</edge>
+<edge id="212619" source="Donald J. Trump" target="Michael Flynn">
+<data key="weight">1.0</data>
+<data key="relationship">National Security Advisor</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212620" source="Donald J. Trump" target="John Mcentee">
+<data key="weight">1.0</data>
+<data key="relationship">Personal aide to the President</data>
+<data key="citation">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
+</edge>
+<edge id="212621" source="Donald J. Trump" target="Betsy Devos">
+<data key="weight">1.0</data>
+<data key="relationship">Secretary of Education</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212622" source="Donald J. Trump" target="Helen Ferre">
+<data key="weight">1.0</data>
+<data key="relationship">Director media affairs</data>
+<data key="citation">https://www.documentcloud.org/documents/3534068-Ferre-Helen.html</data>
+</edge>
+<edge id="212623" source="Donald J. Trump" target="Andrew Bremberg">
+<data key="weight">1.0</data>
+<data key="relationship">Domestic policy advisor</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212624" source="Donald J. Trump" target="Alexander Angelson">
+<data key="weight">1.0</data>
+<data key="relationship">Special assistant</data>
+<data key="citation">https://www.documentcloud.org/documents/3534231-Angelson-Alexander.html</data>
+</edge>
+<edge id="212625" source="Donald J. Trump" target="Scott Pruitt">
+<data key="weight">1.0</data>
+<data key="relationship">Administrator of the Environmental Protection Agency</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212626" source="Donald J. Trump" target="Jason D. Greenblatt">
+<data key="weight">1.0</data>
+<data key="relationship">Special Representative for International Negotiations</data>
+<data key="citation">https://www.nytimes.com/2016/12/25/us/politics/trump-organization-business.html?_r=0</data>
+</edge>
+<edge id="212627" source="Donald J. Trump" target="Wells Griffith">
+<data key="weight">1.0</data>
+<data key="relationship">Battleground states director for Trump campaign, senior adviser for the Department of Energy</data>
+<data key="citation">http://www.politico.com/story/2017/01/trumps-shadow-cabinet-234088 | https://www.documentcloud.org/documents/3460899-Wells-Griffith-LinkedIn-2017-02-13.html</data>
+</edge>
+<edge id="212628" source="Donald J. Trump" target="Jeff Sessions">
+<data key="weight">1.0</data>
+<data key="relationship">Attorney General</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212629" source="Donald J. Trump" target="Shahira Knight">
+<data key="weight">1.0</data>
+<data key="relationship">Special assistant</data>
+<data key="citation">https://www.documentcloud.org/documents/3534038-Knight-Shahira-E.html</data>
+</edge>
+<edge id="212630" source="Donald J. Trump" target="Cliff Sims">
+<data key="weight">1.0</data>
+<data key="relationship">Director of White House message strategy</data>
+<data key="citation">https://www.documentcloud.org/documents/3534339-Sims-Cliff.html</data>
+</edge>
+<edge id="212631" source="Donald J. Trump" target="Marc E. Kasowitz">
+<data key="weight">1.0</data>
+<data key="relationship">Has represented "President Donald J. Trump in a wide range of litigation matters for over 15 years," per bio</data>
+<data key="citation">http://www.kasowitz.com/marc-e-kasowitz/</data>
+</edge>
+<edge id="212632" source="Donald J. Trump" target="Indra Nooyi">
+<data key="weight">1.0</data>
+<data key="relationship">Member of Trump's Strategic and Policy forum</data>
+<data key="citation">http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/</data>
+</edge>
+<edge id="212633" source="Donald J. Trump" target="Reed S. Cordish">
+<data key="weight">1.0</data>
+<data key="relationship">Assistant to the President for intragovernmental and technology initiatives</data>
+<data key="citation">http://www.baltimoresun.com/news/maryland/politics/blog/bal-reed-cordish-to-join-trump-administration-20170105-story.html</data>
+</edge>
+<edge id="212634" source="Donald J. Trump" target="Kathryn Talento">
+<data key="weight">1.0</data>
+<data key="relationship">Special advisor</data>
+<data key="citation">https://www.documentcloud.org/documents/3534341-Talento-Kathryn.html</data>
+</edge>
+<edge id="212635" source="Donald J. Trump" target="Stephen B. Meister">
+<data key="weight">1.0</data>
+<data key="relationship">Meister was Trump's attorney during a 2013 ethics suit of the NY AG</data>
+<data key="citation">http://www.nydailynews.com/blogs/dailypolitics/donald-trump-set-file-ethics-complaint-tuesday-ny-ag-eric-schneiderman-blog-entry-1.1697386 | http://www.newsweek.com/2015/10/30/trumps-big-atlantic-city-dump-385427.html</data>
+</edge>
+<edge id="212636" source="Donald J. Trump" target="Emin Agalarov">
+<data key="weight">1.0</data>
+<data key="relationship">The Russian pop singer, son of billionaire real estate developer Aras Agalarov, says he befriended Trump</data>
+<data key="citation">https://www.washingtonpost.com/politics/inside-trumps-financial-ties-to-russia-and-his-unusual-flattery-of-vladimir-putin/2016/06/17/dbdcaac8-31a6-11e6-8ff7-7b6c1998b7a0_story.html | https://www.youtube.com/watch?v=iuZUNjFsgS8</data>
+</edge>
+<edge id="212637" source="Donald J. Trump" target="Melania Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Married</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212638" source="Donald J. Trump" target="Stephen Miller">
+<data key="weight">1.0</data>
+<data key="relationship">Senior Advisor to the President for Policy</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212639" source="Donald J. Trump" target="Ryan Zinke">
+<data key="weight">1.0</data>
+<data key="relationship">Secretary of Interior</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212640" source="Donald J. Trump" target="Alexander Acosta">
+<data key="weight">1.0</data>
+<data key="relationship">Nominee for Labor Secretary</data>
+<data key="citation">http://abcnews.go.com/Politics/alexander-acosta-trumps-labor-secretary-nominee/story?id=45541559</data>
+</edge>
+<edge id="212641" source="Donald J. Trump" target="Prince Alwaleed Bin Talalthe">
+<data key="weight">1.0</data>
+<data key="relationship">"the billionaire [...] aided Trump during his corporate bankruptcies in the 1990s by purchasing his yacht, which provided him with desperately needed cash," per Newsweek</data>
+<data key="citation">http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html</data>
+</edge>
+<edge id="212642" source="Donald J. Trump" target="Sam Clovis">
+<data key="weight">1.0</data>
+<data key="relationship">Former senior policy advisor on campaign</data>
+<data key="citation">http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992</data>
+</edge>
+<edge id="212643" source="Donald J. Trump" target="Michael Fascitelli">
+<data key="weight">1.0</data>
+<data key="relationship">Fascitelli is CEO of Vornado Realty Trust and donated the maximum to Trump's campaign</data>
+<data key="citation">https://www.bloomberg.com/news/features/2017-01-27/jared-kushner-s-felon-father-brought-two-fellow-inmates-into-company</data>
+</edge>
+<edge id="212644" source="Donald J. Trump" target="Travis Kalanick">
+<data key="weight">1.0</data>
+<data key="relationship">Former member of Trump's Strategic and Policy forum</data>
+<data key="citation">http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/ | http://www.recode.net/2017/2/2/14490950/travis-kalanick-uber-ceo-leaves-donald-trump-advisory-council</data>
+</edge>
+<edge id="212645" source="Donald J. Trump" target="Joyce Meyer">
+<data key="weight">1.0</data>
+<data key="relationship">Deputy assistant</data>
+<data key="citation">https://www.documentcloud.org/documents/3534156-Meyer-Joyce-Y.html</data>
+</edge>
+<edge id="212646" source="Donald J. Trump" target="Ashley Marquis">
+<data key="weight">1.0</data>
+<data key="relationship">Chief of staff of the National Economic Council</data>
+<data key="citation">https://www.documentcloud.org/documents/3534134-Marquis-Ashley.html</data>
+</edge>
+<edge id="212647" source="Donald J. Trump" target="Phil Ruffin">
+<data key="weight">1.0</data>
+<data key="relationship">"Mr. Trump has 20-odd business partners, but none is closer to him than Mr. Ruffin," per the New York Times</data>
+<data key="citation">https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1</data>
+</edge>
+<edge id="212648" source="Donald J. Trump" target="Elon Musk">
+<data key="weight">1.0</data>
+<data key="relationship">Member of Trump's Strategic and Policy forum</data>
+<data key="citation">http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/</data>
+</edge>
+<edge id="212649" source="Donald J. Trump" target="Christopher Ruddy">
+<data key="weight">1.0</data>
+<data key="relationship">"One of Trump's longtime friends," according to the Washington Post</data>
+<data key="citation">https://www.washingtonpost.com/news/powerpost/wp/2017/02/12/trump-friend-says-priebus-is-in-way-over-his-head/ | http://www.politico.com/story/2017/02/donald-trump-challenges-governing-presidency-234879</data>
+</edge>
+<edge id="212650" source="Donald J. Trump" target="Sonny Perdue">
+<data key="weight">1.0</data>
+<data key="relationship">Secretary of Agriculture</data>
+<data key="citation">https://www.nytimes.com/2017/01/18/us/politics/sonny-perdue-agriculture-secretary.html</data>
+</edge>
+<edge id="212651" source="Donald J. Trump" target="Paul Manafort">
+<data key="weight">1.0</data>
+<data key="relationship">Former campaign manager</data>
+<data key="citation">http://www.cnn.com/2016/08/19/politics/donald-trump-campaign-chairman-paul-manafort-resigns/</data>
+</edge>
+<edge id="212652" source="Donald J. Trump" target="Edwin Feulner">
+<data key="weight">1.0</data>
+<data key="relationship">"Leader" in the transition team per CNN</data>
+<data key="citation">http://www.cnn.com/2016/11/10/politics/donald-trump-transition-drain-the-swamp/</data>
+</edge>
+<edge id="212653" source="Donald J. Trump" target="Linda Mcmahon">
+<data key="weight">1.0</data>
+<data key="relationship">Administrator of the Small Business Administration</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212654" source="Donald J. Trump" target="Julia Hahn">
+<data key="weight">1.0</data>
+<data key="relationship">Deputy political strategist</data>
+<data key="citation">https://www.documentcloud.org/documents/3534111-Hahn-Julia.html</data>
+</edge>
+<edge id="212655" source="Donald J. Trump" target="John F. Kelly">
+<data key="weight">1.0</data>
+<data key="relationship">Secretary of Department of Homeland Security</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212656" source="Donald J. Trump" target="Elaine Chao">
+<data key="weight">1.0</data>
+<data key="relationship">Secretary of Transportation</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212657" source="Donald J. Trump" target="Dina Powell">
+<data key="weight">1.0</data>
+<data key="relationship">Assistant to the president and senior counselor for economic initiatives</data>
+<data key="citation">https://www.bloomberg.com/politics/articles/2017-01-12/goldman-sachs-s-dina-powell-named-as-trump-s-economic-assistant</data>
+</edge>
+<edge id="212658" source="Donald J. Trump" target="Robert Lighthizer">
+<data key="weight">1.0</data>
+<data key="relationship">Nominee for U.S. Trade Representative</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212659" source="Donald J. Trump" target="Curtis Dubay">
+<data key="weight">1.0</data>
+<data key="relationship">Part of Treasury Department transition team</data>
+<data key="citation">http://thehill.com/policy/finance/307066-trump-taps-economists-investors-for-transition-team</data>
+</edge>
+<edge id="212660" source="Donald J. Trump" target="Tom Bossert">
+<data key="weight">1.0</data>
+<data key="relationship">Homeland Security Advisor</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212661" source="Donald J. Trump" target="Corey Lewandowski">
+<data key="weight">1.0</data>
+<data key="relationship">Former campaign manager</data>
+<data key="citation">http://www.politico.com/blogs/on-media/2017/01/corey-lewandowski-joins-conservative-news-network-as-commentator-233559</data>
+</edge>
+<edge id="212662" source="Donald J. Trump" target="Michael Pompeo">
+<data key="weight">1.0</data>
+<data key="relationship">Director of CIA</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212663" source="Donald J. Trump" target="Reince Priebus">
+<data key="weight">1.0</data>
+<data key="relationship">White House Chief of Staff</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212664" source="Donald J. Trump" target="Jennifer Korn">
+<data key="weight">1.0</data>
+<data key="relationship">Deputy director</data>
+<data key="citation">https://www.documentcloud.org/documents/3534039-Korn-Jennifer.html</data>
+</edge>
+<edge id="212665" source="Donald J. Trump" target="Sam Nunberg">
+<data key="weight">1.0</data>
+<data key="relationship">Former adviser</data>
+<data key="citation">http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992</data>
+</edge>
+<edge id="212666" source="Donald J. Trump" target="Andeliz Castillo">
+<data key="weight">1.0</data>
+<data key="relationship">Special assistant</data>
+<data key="citation">https://www.documentcloud.org/documents/3534453-Castillo-Andeliz.html</data>
+</edge>
+<edge id="212667" source="Donald J. Trump" target="Ivanka Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Parent/child</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212668" source="Donald J. Trump" target="Edwin Meese">
+<data key="weight">1.0</data>
+<data key="relationship">"Leader" in the transition team per CNN</data>
+<data key="citation">http://www.cnn.com/2016/11/10/politics/donald-trump-transition-drain-the-swamp/</data>
+</edge>
+<edge id="212669" source="Donald J. Trump" target="Brian Burns">
+<data key="weight">1.0</data>
+<data key="relationship">Ambassador to Ireland</data>
+<data key="citation">https://www.bostonglobe.com/news/politics/2017/01/11/donald-trump-taps-mar-lago-pal-with-massachusetts-ties-for-irish-ambassador-brian-burns/Jt2g5aX1CeVvA3O4RbrDMN/story.html</data>
+</edge>
+<edge id="212670" source="Donald J. Trump" target="Donald Trump Jr.">
+<data key="weight">1.0</data>
+<data key="relationship">Parent/child</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212671" source="Donald J. Trump" target="Michael J. Ellis">
+<data key="weight">1.0</data>
+<data key="relationship">Special assistant</data>
+<data key="citation">https://www.documentcloud.org/documents/3534059-Ellis-Michael-J.html</data>
+</edge>
+<edge id="212672" source="Donald J. Trump" target="John Eisenberg">
+<data key="weight">1.0</data>
+<data key="relationship">Deputy assistant</data>
+<data key="citation">https://www.whitehouse.gov/the-press-office/2017/02/02/white-house-national-security-advisor-announces-nsc-senior-staff-0</data>
+</edge>
+<edge id="212673" source="Donald J. Trump" target="Thomas Pyle">
+<data key="weight">1.0</data>
+<data key="relationship">Head of the Department of Energy transition team</data>
+<data key="citation">http://www.latimes.com/politics/la-na-pol-trump-kochs-climate-20161205-story.html</data>
+</edge>
+<edge id="212674" source="Donald J. Trump" target="Uttam Dhillon">
+<data key="weight">1.0</data>
+<data key="relationship">Special assistant</data>
+<data key="citation">https://www.documentcloud.org/documents/3534050-Dhillon-Uttam.html</data>
+</edge>
+<edge id="212675" source="Donald J. Trump" target="Terry Branstad">
+<data key="weight">1.0</data>
+<data key="relationship">Nominee for Ambassador to China</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212676" source="Donald J. Trump" target="Jamie Dimon">
+<data key="weight">1.0</data>
+<data key="relationship">Member of Trump's Strategic and Policy forum</data>
+<data key="citation">http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/</data>
+</edge>
+<edge id="212677" source="Donald J. Trump" target="Raj Shah">
+<data key="weight">1.0</data>
+<data key="relationship">Deputy communications director</data>
+<data key="citation">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
+</edge>
+<edge id="212678" source="Donald J. Trump" target="Ben Howard">
+<data key="weight">1.0</data>
+<data key="relationship">Special assistant</data>
+<data key="citation">https://www.documentcloud.org/documents/3534135-Howard-Benjamin.html</data>
+</edge>
+<edge id="212679" source="Donald J. Trump" target="Sarah Makin">
+<data key="weight">1.0</data>
+<data key="relationship">Deputy assistant</data>
+<data key="citation">https://www.documentcloud.org/documents/3535103-Makin-Sarah.html</data>
+</edge>
+<edge id="212680" source="Donald J. Trump" target="Robert Mercer">
+<data key="weight">1.0</data>
+<data key="relationship">Major donor</data>
+<data key="citation">https://www.publicintegrity.org/2016/12/02/20504/what-we-knew-about-donald-trump-s-inner-circle-when-we-knew-it</data>
+</edge>
+<edge id="212681" source="Donald J. Trump" target="Rick Dearborn">
+<data key="weight">1.0</data>
+<data key="relationship">Deputy chief of staff for legislative and intergovernmental affairs</data>
+<data key="citation">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
+</edge>
+<edge id="212682" source="Donald J. Trump" target="Timothy Pataki">
+<data key="weight">1.0</data>
+<data key="relationship">Special assistant</data>
+<data key="citation">https://www.documentcloud.org/documents/3534160-Pataki-Timothy-a-New-Entrant-278-2017.html</data>
+</edge>
+<edge id="212683" source="Donald J. Trump" target="Jason D. Meister">
+<data key="weight">1.0</data>
+<data key="relationship">Worked on Trump's NY campaign, goes on Fox News as a Trump surrogate</data>
+<data key="citation">https://therealdeal.com/issues_articles/whos-jumping-ship/ | http://www.jasondmeister.com/media/</data>
+</edge>
+<edge id="212684" source="Donald J. Trump" target="Bill Mcginley">
+<data key="weight">1.0</data>
+<data key="relationship">Deputy assistant</data>
+<data key="citation">http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/</data>
+</edge>
+<edge id="212685" source="Donald J. Trump" target="Barry Bennett">
+<data key="weight">1.0</data>
+<data key="relationship">"Informal advisor to the Donald Trump campaign," per the Washington Post</data>
+<data key="citation">https://www.washingtonpost.com/news/post-politics/wp/2016/01/22/former-carson-campaign-manager-barry-bennett-is-quietly-advising-trumps-top-aides/?utm_term=.795d808dc8d2</data>
+</edge>
+<edge id="212686" source="Donald J. Trump" target="Chris Christie">
+<data key="weight">1.0</data>
+<data key="relationship">Former leader of the presidential transition team</data>
+<data key="citation">https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1</data>
+</edge>
+<edge id="212687" source="Donald J. Trump" target="Elena Gorlova">
+<data key="weight">1.0</data>
+<data key="relationship">Gorlova bought a Trump penthouse in Florida</data>
+<data key="citation">https://www.washingtonpost.com/politics/in-little-moscow-russians-helped-donald-trumps-brand-survive-the-recession/2016/11/04/f9dbd38e-97cf-11e6-bb29-bf2701dbe0a3_story.html</data>
+</edge>
+<edge id="212688" source="Carl C. Icahn" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Special advisor</data>
+<data key="citation">http://fortune.com/2016/12/21/donald-trump-carl-icahn-special-adviser-regulations/</data>
+</edge>
+<edge id="212689" source="Jarrod P. Agen" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Deputy assistant</data>
+<data key="citation">https://www.documentcloud.org/documents/3534451-Agen-Jarrod.html</data>
+</edge>
+<edge id="212690" source="Carter Page" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Foreign policy adviser</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212691" source="Newt Gingrich" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">A top touchstone outside the White House, according to the New York Times</data>
+<data key="citation">https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1</data>
+</edge>
+<edge id="212692" source="Christine Ciccone" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">"Leader" in the transition team per CNN</data>
+<data key="citation">http://www.cnn.com/2016/11/10/politics/donald-trump-transition-drain-the-swamp/</data>
+</edge>
+<edge id="212693" source="Aras Agalarov" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">The billionaire real estate developer says he befriended Trump, and also has served as a liaison between Trump and Putin</data>
+<data key="citation">https://www.washingtonpost.com/politics/inside-trumps-financial-ties-to-russia-and-his-unusual-flattery-of-vladimir-putin/2016/06/17/dbdcaac8-31a6-11e6-8ff7-7b6c1998b7a0_story.html | http://www.forbes.com/profile/aras-agalarov/</data>
+</edge>
+<edge id="212694" source="Rex Tillerson" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Secretary of State</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212695" source="Jeremy Katz" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Deputy director of the National Economic Council</data>
+<data key="citation">https://www.documentcloud.org/documents/3534036-Katz-Jeremy.html</data>
+</edge>
+<edge id="212696" source="Dan Scavino" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Director of Social Media, White House</data>
+<data key="citation">https://www.documentcloud.org/documents/3535097-Scavino-Dan.html</data>
+</edge>
+<edge id="212697" source="Joseph Kellogg" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Chief of staff and executive secretary, National Security Council</data>
+<data key="citation">https://www.documentcloud.org/documents/3534037-Kellogg-Joseph-K.html</data>
+</edge>
+<edge id="212698" source="Mangal Prabhat Lodha" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Business partners</data>
+<data key="citation">http://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html</data>
+</edge>
+<edge id="212699" source="Sean Spicer" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">White House Press Secretary</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212700" source="Sergei Millian" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Appeared in a Facebook photo together in 2014</data>
+<data key="citation">https://www.ft.com/content/ea52a678-9cfb-11e6-8324-be63473ce146</data>
+</edge>
+<edge id="212701" source="Stephanie Grisham" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Deputy press secretary</data>
+<data key="citation">https://www.documentcloud.org/documents/3534109-Grisham-Stephanie.html</data>
+</edge>
+<edge id="212702" source="Roger J. Stone, Jr." target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">"Longtime adviser," per Politico</data>
+<data key="citation">http://www.politico.com/story/2015/08/donald-trumps-debate-dirty-trickster-121098</data>
+</edge>
+<edge id="212703" source="Ginni Rometty" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Member of Trump's Strategic and Policy forum</data>
+<data key="citation">http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/</data>
+</edge>
+<edge id="212704" source="Michael D. Cohen" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Cohen is Trump's personal attorney</data>
+<data key="citation">https://www.washingtonpost.com/news/post-politics/wp/2017/01/19/michael-cohen-special-counsel-to-donald-trump-will-follow-him-to-washington/?utm_term=.bea39093a642</data>
+</edge>
+<edge id="212705" source="Ryan Jarmula" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Special assistant</data>
+<data key="citation">https://www.documentcloud.org/documents/3534032-Jarmula-Ryan.html</data>
+</edge>
+<edge id="212706" source="Kathleen Troia Mcfarland" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Deputy National Security Advisor</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212707" source="Peter Navarro" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Head of National Trade Council</data>
+<data key="citation">http://www.businessinsider.com/peter-navarro-trump-administration-2017-4</data>
+</edge>
+<edge id="212708" source="Kalpesh Mehta" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">"exclusive representative of Trump's businesses in India," per Newsweek</data>
+<data key="citation">http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html</data>
+</edge>
+<edge id="212709" source="Robert Kraft" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">A top touchstone outside the White House, according to the New York Times</data>
+<data key="citation">https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1</data>
+</edge>
+<edge id="212710" source="Ross Worthington" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Advisor for policy, strategy, and speechwriting</data>
+<data key="citation">https://www.documentcloud.org/documents/3534345-Worthington-Ross.html</data>
+</edge>
+<edge id="212711" source="James Mattis" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Secretary of Defense</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212712" source="David M. Friedman" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Ambassador designate to Israel</data>
+<data key="citation">https://www.nytimes.com/2017/02/11/us/politics/jared-kushner-israel.html?smid=tw-nytimesworld&amp;smtyp=cur&amp;_r=1</data>
+</edge>
+<edge id="212713" source="Felipe Yaryura" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">The Argentine real estate developer is said to be friends with the Trump family</data>
+<data key="citation">http://www.lanacion.com.ar/1955208-la-emocion-del-socio-argentino-de-trump</data>
+</edge>
+<edge id="212714" source="Vince Haley" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Advisor for policy, strategy, and speechwriting</data>
+<data key="citation">https://www.documentcloud.org/documents/3534112-Haley-Vincent.html</data>
+</edge>
+<edge id="212715" source="Lindsay Walters" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">White House spokeswoman</data>
+<data key="citation">https://www.bloomberg.com/politics/articles/2017-02-03/trump-trade-pick-could-negotiate-for-industry-of-biggest-client</data>
+</edge>
+<edge id="212716" source="Justin Clark" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Director of inter-governmental affairs</data>
+<data key="citation">https://www.documentcloud.org/documents/3534079-Clark-Justin.html</data>
+</edge>
+<edge id="212717" source="Rick Perry" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Secretary of Energy</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212718" source="Rhona Graff Riccio" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Assistant</data>
+<data key="citation">http://www.nytimes.com/1993/04/19/style/weddings-rhona-c-graff-lucius-j-riccio.html</data>
+</edge>
+<edge id="212719" source="Tom Price" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Secretary of Health and Human Services</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212720" source="Stephen A. Feinberg" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Member of Trump's economic advisory council</data>
+<data key="citation">https://www.nytimes.com/2017/02/15/us/politics/trump-intelligence-agencies-stephen-feinberg.html</data>
+</edge>
+<edge id="212721" source="Joseph Hagin" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Deputy chief of staff</data>
+<data key="citation">https://www.documentcloud.org/documents/3534458-Hagin-Joseph.html</data>
+</edge>
+<edge id="212722" source="Sean Cairncross" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Deputy assistant</data>
+<data key="citation">http://www.politico.com/story/2017/01/trump-transition-white-house-hires-233863</data>
+</edge>
+<edge id="212723" source="Madeleine Westerhout" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Executive assistant</data>
+<data key="citation">https://www.documentcloud.org/documents/3534343-Westerhout-Madeleine.html</data>
+</edge>
+<edge id="212724" source="Mick Mulvaney" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Director of Office of Management and Budget</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212725" source="Omarosé Onee Manigault" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Assistant to the President and Director of Communications for the Office of Public Liaison</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212726" source="George Gigicos" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Director of advance</data>
+<data key="citation">https://www.documentcloud.org/documents/3534048-Gigicos-George.html</data>
+</edge>
+<edge id="212727" source="Ben Carson" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Secretary of HUD</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212728" source="Recep Tayyip Erdogan" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Erdogan, the president of Turkey and a vocal Trump supporter, met him during the ribbon-cutting of a Trump property</data>
+<data key="citation">http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html</data>
+</edge>
+<edge id="212729" source="Steven Roth" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Former campaign advisor, going to co-head infrastructure council</data>
+<data key="citation">http://www.huffingtonpost.com/entry/donald-trump-steven-roth-meeeting_us_587917f8e4b09281d0eaa28e | https://www.wsj.com/articles/donald-trump-asks-richard-lefrak-steven-roth-to-monitor-infrastructure-plans-costs-1484591989 | https://www.bloomberg.com/news/features/2017-01-27/jared-kushner-s-felon-father-brought-two-fellow-inmates-into-company</data>
+</edge>
+<edge id="212730" source="Ike Perlmutter" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Perlmutter "has been informally advising Mr. Trump on veterans issues," per the New York Times</data>
+<data key="citation">https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1</data>
+</edge>
+<edge id="212731" source="Bethany Scully" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Special assistant</data>
+<data key="citation">https://www.documentcloud.org/documents/3534336-Scully-Bethany.html</data>
+</edge>
+<edge id="212732" source="Boris Epshteyn" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Assistant director of communications</data>
+<data key="citation">https://www.documentcloud.org/documents/3534046-Epshteyn-Boris.html</data>
+</edge>
+<edge id="212733" source="Paul Winfree" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Deputy director of the domestic policy council</data>
+<data key="citation">https://www.documentcloud.org/documents/3534344-Winfree-Paul.html</data>
+</edge>
+<edge id="212734" source="Roger Khafif" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Told Russian buyers he was a partner in Trump project in Sunny Isles, Fla.</data>
+<data key="citation">https://www.washingtonpost.com/politics/in-little-moscow-russians-helped-donald-trumps-brand-survive-the-recession/2016/11/04/f9dbd38e-97cf-11e6-bb29-bf2701dbe0a3_story.html</data>
+</edge>
+<edge id="212735" source="Alexander Nix" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Worked on presidential campaign. May continue work for the administration.</data>
+<data key="citation">https://www.theguardian.com/us-news/2016/nov/23/donald-trump-cambridge-analytica-steve-bannon</data>
+</edge>
+<edge id="212736" source="Walter J. &quot;jay&quot; Clayton Iii" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Nominee for SEC Chairman</data>
+<data key="citation">http://www.newyorker.com/magazine/2017/03/13/donald-trumps-worst-deal</data>
+</edge>
+<edge id="212737" source="John Gray" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Part of OMB transition team</data>
+<data key="citation">http://thehill.com/policy/finance/314991-trump-team-prepares-dramatic-cuts</data>
+</edge>
+<edge id="212738" source="Stephen Bannon" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">White House Chief Strategist and Senior Advisor</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212739" source="Alex Shnaider" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">"Trump’s primary partner for his lucrative business in Canada," per Newsweek</data>
+<data key="citation">http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html</data>
+</edge>
+<edge id="212740" source="Sergey I. Kislyak" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">The Russian diplomat sat in on Trump foreign policy speech in April 2016</data>
+<data key="citation">https://www.washingtonpost.com/politics/inside-trumps-financial-ties-to-russia-and-his-unusual-flattery-of-vladimir-putin/2016/06/17/dbdcaac8-31a6-11e6-8ff7-7b6c1998b7a0_story.html</data>
+</edge>
+<edge id="212741" source="Marc Short" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Director of legislative affairs</data>
+<data key="citation">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
+</edge>
+<edge id="212742" source="Jessica Ditto" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Deputy communications director</data>
+<data key="citation">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
+</edge>
+<edge id="212743" source="Andy Puzder" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Former nominee for Secretary of Labor</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212744" source="Marc Lotter" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Special assistant</data>
+<data key="citation">https://www.documentcloud.org/documents/3535104-Lotter-Marc.html</data>
+</edge>
+<edge id="212745" source="Don Mcgahn" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">White House Counsel</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212746" source="Cindy Simms" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Special assistant</data>
+<data key="citation">https://www.documentcloud.org/documents/3534338-Simms-Cindy.html</data>
+</edge>
+<edge id="212747" source="Eric Trump" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Parent/child</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212748" source="Gerrit Lansing" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Former Chief Digital Officer</data>
+<data key="citation">https://www.documentcloud.org/documents/3534042-Lansing-Gerrit.html | http://www.politico.com/blogs/donald-trump-administration/2017/02/gerrit-lansing-trump-digital-chief-ousted-235268</data>
+</edge>
+<edge id="212749" source="James Schultz" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Senior associate counsel</data>
+<data key="citation">https://www.documentcloud.org/documents/3534346-Shultz-James.html</data>
+</edge>
+<edge id="212750" source="Stephen Munisteri" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Deputy assistant</data>
+<data key="citation">https://www.documentcloud.org/documents/3534157-Munisteri-Stephen-P.html</data>
+</edge>
+<edge id="212751" source="Richard Lefrak" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">"one of Trump's few close friends in New York real estate," per New York Magazine and co-head of his new infrastructure council according to the Wall Street Journal</data>
+<data key="citation">http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html | https://www.wsj.com/articles/donald-trump-asks-richard-lefrak-steven-roth-to-monitor-infrastructure-plans-costs-1484591989</data>
+</edge>
+<edge id="212752" source="Steven Mnuchin" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Secretary of Treasury</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212753" source="Linda Bean" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Donor</data>
+<data key="citation">http://www.nbcnews.com/business/business-news/l-l-bean-embroiled-spat-over-donation-trump-campaign-n706236</data>
+</edge>
+<edge id="212754" source="Mike Pence" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Vice President</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212755" source="Sebastian Gorka" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Deputy assistant</data>
+<data key="citation">http://www.cnn.com/2017/02/07/politics/kfile-gorka-on-fake-news/index.html</data>
+</edge>
+<edge id="212756" source="Rupert Murdoch" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">"The president’s relationship with Mr. Murdoch is deeper and more enduring than most in his life, and the two commiserate and plot strategy in their phone calls, according to people close to both," according to the New York Times</data>
+<data key="citation">https://www.nytimes.com/2017/04/22/us/politics/donald-trump-white-house.html?_r=1 | http://nymag.com/daily/intelligencer/2017/01/megyn-kellys-departure-is-clue-about-future-of-fox-news.html | http://mediamatters.org/blog/2017/01/04/how-donald-trump-could-make-rupert-murdoch-even-more-powerful/214924</data>
+</edge>
+<edge id="212757" source="Mary T. Barra" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Member of Trump's Strategic and Policy forum</data>
+<data key="citation">http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/</data>
+</edge>
+<edge id="212758" source="Rebekah Mercer" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Major donor</data>
+<data key="citation">https://www.washingtonpost.com/politics/the-rise-of-gop-mega-donor-rebekah-mercer/2016/09/13/85ae3c32-79bf-11e6-beac-57a4a412e93a_story.html?utm_term=.b4e577d44785</data>
+</edge>
+<edge id="212759" source="Alexander Gray" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Special assistant</data>
+<data key="citation">https://www.documentcloud.org/documents/3534083-Gray-Alexander.html</data>
+</edge>
+<edge id="212760" source="Robert A. Iger" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Member of Trump's Strategic and Policy forum</data>
+<data key="citation">http://fortune.com/2016/12/14/donald-trump-musk-kalanick-nooyi/</data>
+</edge>
+<edge id="212761" source="Anthony Scaramucci" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Considered for senior adviser to the President position</data>
+<data key="citation">https://mobile.nytimes.com/2017/02/01/us/politics/anthony-scaramucci-china-trump-administration.html</data>
+</edge>
+<edge id="212762" source="Gary Cohn" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Director United States National Economic Council</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212763" source="Maryanne Trump Barry" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Siblings</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212764" source="Keith Schiller" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Director of Oval Office operations</data>
+<data key="citation">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
+</edge>
+<edge id="212765" source="Peter Thiel" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Former transition team member</data>
+<data key="citation">http://www.politico.com/story/2017/01/peter-thiel-no-job-trump-administration-233523</data>
+</edge>
+<edge id="212766" source="Sheri A. Dillon" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Conflicts of interest lawyer</data>
+<data key="citation">https://www.nytimes.com/2017/01/11/us/politics/trump-press-conference-transcript.html</data>
+</edge>
+<edge id="212767" source="Carlos Diaz-rosillo" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Deputy assistant</data>
+<data key="citation">https://www.documentcloud.org/documents/3534022-Diaz-Rosillo-Carlos.html</data>
+</edge>
+<edge id="212768" source="Brad Parscale" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Former digital director for Trump campaign</data>
+<data key="citation">http://www.politico.com/story/2017/01/new-pro-trump-political-group-readies-for-launch-233263</data>
+</edge>
+<edge id="212769" source="Scott Gast" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Senior associate counsel</data>
+<data key="citation">https://www.documentcloud.org/documents/3534078-Gast-Scott.html</data>
+</edge>
+<edge id="212770" source="John Destefano" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Director of presidential personnel</data>
+<data key="citation">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
+</edge>
+<edge id="212771" source="Nikki Haley" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Ambassador to the United Nations</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212772" source="Noel Francisco" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Principal Deputy Solicitor General</data>
+<data key="citation">http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/</data>
+</edge>
+<edge id="212773" source="Joseph Lai" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Special assistant</data>
+<data key="citation">https://www.documentcloud.org/documents/3534041-Lai-Joseph.html</data>
+</edge>
+<edge id="212774" source="Andrew D. Koenig" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Special assistant</data>
+<data key="citation">https://www.documentcloud.org/documents/3534057-Koenig-Andrew-D.html</data>
+</edge>
+<edge id="212775" source="Hope Hicks" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Director of Strategic Communications, White House</data>
+<data key="citation">https://www.documentcloud.org/documents/3534459-Hicks-Hope.html</data>
+</edge>
+<edge id="212776" source="David S. Cordish" target="Donald J. Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Friends</data>
+<data key="citation">http://www.baltimoresun.com/news/maryland/politics/blog/bal-reed-cordish-to-join-trump-administration-20170105-story.html</data>
+</edge>
+<edge id="212777" source="David S. Cordish" target="Reed S. Cordish">
+<data key="weight">1.0</data>
+<data key="relationship">Parent/child</data>
+<data key="citation">http://www.baltimoresun.com/news/maryland/politics/blog/bal-reed-cordish-to-join-trump-administration-20170105-story.html</data>
+</edge>
+<edge id="212778" source="Cui Tiankai" target="Jared Kushner">
+<data key="weight">1.0</data>
+<data key="relationship">"Kushner and Cui have had an extensive ongoing dialogue that has been positive, according to a White House official," per Bloomberg</data>
+<data key="citation">https://www.bloomberg.com/politics/articles/2017-02-07/china-courts-ivanka-jared-kushner-to-smooth-ties-with-trump</data>
+</edge>
+<edge id="212779" source="Jared Kushner" target="Rob Speyer">
+<data key="weight">1.0</data>
+<data key="relationship">Gave Kushner $50 million to help by a property from his father's company-Tishman Speyer</data>
+<data key="citation">http://nymag.com/realestate/features/53797/index5.html</data>
+</edge>
+<edge id="212780" source="Avram Lebor" target="Jared Kushner">
+<data key="weight">1.0</data>
+<data key="relationship">Kushner hired him for his real estate company</data>
+<data key="citation">https://www.bloomberg.com/news/features/2017-01-27/jared-kushner-s-felon-father-brought-two-fellow-inmates-into-company</data>
+</edge>
+<edge id="212781" source="Ryan Doherty" target="Jared Kushner">
+<data key="weight">1.0</data>
+<data key="relationship">Friends</data>
+<data key="citation">http://www.businessinsider.com/jared-kushner-trump-media-mogul-observer-2016-12</data>
+</edge>
+<edge id="212782" source="Nicole Kushner Meyer" target="Jared Kushner">
+<data key="weight">1.0</data>
+<data key="relationship">Siblings</data>
+<data key="citation">http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/</data>
+</edge>
+<edge id="212783" source="Ivanka Trump" target="Jared Kushner">
+<data key="weight">1.0</data>
+<data key="relationship">Married</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212784" source="Joshua Kushner" target="Jared Kushner">
+<data key="weight">1.0</data>
+<data key="relationship">Siblings</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212785" source="Margaret Chin" target="Jared Kushner">
+<data key="weight">1.0</data>
+<data key="relationship">Donor</data>
+<data key="citation">http://thevillager.com/2013/07/25/the-billionaires-back-margaret-chin-for-city-council/</data>
+</edge>
+<edge id="212786" source="Justin Weniger" target="Jared Kushner">
+<data key="weight">1.0</data>
+<data key="relationship">Friends</data>
+<data key="citation">http://www.businessinsider.com/jared-kushner-trump-media-mogul-observer-2016-12</data>
+</edge>
+<edge id="212787" source="Avrahm Berkowitz" target="Jared Kushner">
+<data key="weight">1.0</data>
+<data key="relationship">Assistant</data>
+<data key="citation">https://www.documentcloud.org/documents/3534232-Berkowitz-Avrahm-J.html</data>
+</edge>
+<edge id="212788" source="Asher Abehsera" target="Jared Kushner">
+<data key="weight">1.0</data>
+<data key="relationship">Partnered with Kushner in Brooklyn projects</data>
+<data key="citation">http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html</data>
+</edge>
+<edge id="212789" source="Martin Sorrell" target="Jared Kushner">
+<data key="weight">1.0</data>
+<data key="relationship">Friends</data>
+<data key="citation">http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html</data>
+</edge>
+<edge id="212790" source="Miles Berger" target="Jared Kushner">
+<data key="weight">1.0</data>
+<data key="relationship">"business partner of the Kushners," per New York Magazine</data>
+<data key="citation">http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html</data>
+</edge>
+<edge id="212791" source="Dara Orbach" target="Jared Kushner">
+<data key="weight">1.0</data>
+<data key="relationship">Siblings</data>
+<data key="citation">http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/</data>
+</edge>
+<edge id="212792" source="Charles Kushner" target="Jared Kushner">
+<data key="weight">1.0</data>
+<data key="relationship">Parent/child</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212793" source="Richard Goettlich" target="Jared Kushner">
+<data key="weight">1.0</data>
+<data key="relationship">Kushner hired him for his real estate company</data>
+<data key="citation">https://www.bloomberg.com/news/features/2017-01-27/jared-kushner-s-felon-father-brought-two-fellow-inmates-into-company</data>
+</edge>
+<edge id="212794" source="Benjamin Netanyahu" target="Jared Kushner">
+<data key="weight">1.0</data>
+<data key="relationship">Longtime family friends, per Reuters</data>
+<data key="citation">http://www.reuters.com/article/us-usa-trump-israel-scene-idUSKBN15U2PA</data>
+</edge>
+<edge id="212795" source="Strauss Zelnick" target="Jared Kushner">
+<data key="weight">1.0</data>
+<data key="relationship">"close with Kushner," per New York Magazine</data>
+<data key="citation">http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html</data>
+</edge>
+<edge id="212796" source="Charles G. Koch" target="David H. Koch">
+<data key="weight">1.0</data>
+<data key="relationship">Siblings</data>
+<data key="citation">http://www.forbes.com/profile/koch/</data>
+</edge>
+<edge id="212797" source="Charles G. Koch" target="Marc Short">
+<data key="weight">1.0</data>
+<data key="relationship">"the Koch brothers’ top political adviser in Washington and a trusted member of their inner circle for five years," per Politico</data>
+<data key="citation">http://www.politico.com/story/2016/02/marc-short-marco-rubio-219664</data>
+</edge>
+<edge id="212798" source="Charles G. Koch" target="William I. Koch">
+<data key="weight">1.0</data>
+<data key="relationship">Siblings</data>
+<data key="citation">http://www.forbes.com/profile/koch/</data>
+</edge>
+<edge id="212799" source="David H. Koch" target="William I. Koch">
+<data key="weight">1.0</data>
+<data key="relationship">Siblings</data>
+<data key="citation">http://www.forbes.com/profile/koch/</data>
+</edge>
+<edge id="212800" source="Marc Short" target="David H. Koch">
+<data key="weight">1.0</data>
+<data key="relationship">"the Koch brothers’ top political adviser in Washington and a trusted member of their inner circle for five years," per Politico</data>
+<data key="citation">http://www.politico.com/story/2016/02/marc-short-marco-rubio-219664</data>
+</edge>
+<edge id="212801" source="Mike Pence" target="Marc Short">
+<data key="weight">1.0</data>
+<data key="relationship">"Longtime aide," per CNN</data>
+<data key="citation">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
+</edge>
+<edge id="212802" source="Chloe Murdoch" target="Wendi Deng Murdoch">
+<data key="weight">1.0</data>
+<data key="relationship">Parent/child</data>
+<data key="citation">https://www.ft.com/content/a615f0ce-ed90-11e6-930f-061b01e23655</data>
+</edge>
+<edge id="212803" source="Chloe Murdoch" target="Rupert Murdoch">
+<data key="weight">1.0</data>
+<data key="relationship">Parent/child</data>
+<data key="citation">https://www.ft.com/content/a615f0ce-ed90-11e6-930f-061b01e23655</data>
+</edge>
+<edge id="212804" source="Chloe Murdoch" target="Ivanka Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Former trustee</data>
+<data key="citation">https://www.ft.com/content/a615f0ce-ed90-11e6-930f-061b01e23655</data>
+</edge>
+<edge id="212805" source="Ivanka Trump" target="Mehmet Ali Yalcindag">
+<data key="weight">1.0</data>
+<data key="relationship">Business partners</data>
+<data key="citation">http://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html</data>
+</edge>
+<edge id="212806" source="Ivanka Trump" target="Grace Murdoch">
+<data key="weight">1.0</data>
+<data key="relationship">Former trustee</data>
+<data key="citation">https://www.ft.com/content/a615f0ce-ed90-11e6-930f-061b01e23655</data>
+</edge>
+<edge id="212807" source="Ivanka Trump" target="Andriy Zaika">
+<data key="weight">1.0</data>
+<data key="relationship">Met in 2006, when Zaika was head of the Ukrainian Construction Consortium</data>
+<data key="citation">http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html</data>
+</edge>
+<edge id="212808" source="Paulo Figueiredo Filho" target="Ivanka Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Lunched together, spawning Trump interest in Rio hotel</data>
+<data key="citation">http://www.nytimes.com/2016/11/26/us/politics/donald-trump-international-business.html</data>
+</edge>
+<edge id="212809" source="Dina Powell" target="Ivanka Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Ivanka Trump "has been leaning on [Powell] ... as a top adviser on policy and staffing," per Politico</data>
+<data key="citation">http://www.politico.com/story/2017/01/ivanka-trump-goldman-sachs-233234</data>
+</edge>
+<edge id="212810" source="Donald Trump Jr." target="Ivanka Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Siblings</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212811" source="Viktor Tkachuk" target="Ivanka Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Met in 2006, when Tkachuk was an adviser to the Ukrainian president</data>
+<data key="citation">http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html</data>
+</edge>
+<edge id="212812" source="Wendi Deng Murdoch" target="Ivanka Trump">
+<data key="weight">1.0</data>
+<data key="relationship">"Close friend," according to the Guardian</data>
+<data key="citation">https://www.theguardian.com/film/2016/oct/11/wendi-deng-murdoch-rupert-trump-sky-ladder-art-of-cai-guo-qiang</data>
+</edge>
+<edge id="212813" source="Felipe Yaryura" target="Ivanka Trump">
+<data key="weight">1.0</data>
+<data key="relationship">The Argentine real estate developer is said to be friends with the Trump family</data>
+<data key="citation">http://www.lanacion.com.ar/1955208-la-emocion-del-socio-argentino-de-trump</data>
+</edge>
+<edge id="212814" source="Eric Trump" target="Ivanka Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Siblings</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212815" source="Rupert Murdoch" target="Grace Murdoch">
+<data key="weight">1.0</data>
+<data key="relationship">Parent/child</data>
+<data key="citation">https://www.ft.com/content/a615f0ce-ed90-11e6-930f-061b01e23655</data>
+</edge>
+<edge id="212816" source="Wendi Deng Murdoch" target="Grace Murdoch">
+<data key="weight">1.0</data>
+<data key="relationship">Parent/child</data>
+<data key="citation">https://www.ft.com/content/a615f0ce-ed90-11e6-930f-061b01e23655</data>
+</edge>
+<edge id="212817" source="Brad Parscale" target="Alexander Nix">
+<data key="weight">1.0</data>
+<data key="relationship">Pascale says he hired Nix's company, Cambridge Analytica, to work on the campaign</data>
+<data key="citation">https://www.washingtonpost.com/politics/trumps-plan-for-a-comeback-includes-building-a-psychographic-profile-of-every-voter/2016/10/27/9064a706-9611-11e6-9b7c-57290af48a49_story.html?utm_term=.ec091285ddc0</data>
+</edge>
+<edge id="212818" source="Stephen Vaden" target="Sonny Perdue">
+<data key="weight">1.0</data>
+<data key="relationship">Special assistant to Secretary of Agriculture</data>
+<data key="citation">http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/</data>
+</edge>
+<edge id="212819" source="Serhiy Lyovochkin" target="Paul Manafort">
+<data key="weight">1.0</data>
+<data key="relationship">Manafort ran PR for Lyovochkin's campaign</data>
+<data key="citation">https://www.nytimes.com/2016/08/01/us/paul-manafort-ukraine-donald-trump.html</data>
+</edge>
+<edge id="212820" source="Paul Manafort" target="Dmitry Firtash">
+<data key="weight">1.0</data>
+<data key="relationship">Worked together in bid for site of Drake Hotel in NYC</data>
+<data key="citation">https://www.washingtonpost.com/politics/in-business-as-in-politics-trump-adviser-no-stranger-to-controversial-figures/2016/04/26/970db232-08c7-11e6-b283-e79d81c63c1b_story.html?utm_term=.de35331c8594</data>
+</edge>
+<edge id="212821" source="Paul Manafort" target="Rinat Akhmetov">
+<data key="weight">1.0</data>
+<data key="relationship">Manafort worked to improve image of Akhmetov's companies</data>
+<data key="citation">https://www.nytimes.com/2016/08/01/us/paul-manafort-ukraine-donald-trump.html</data>
+</edge>
+<edge id="212822" source="Paul Manafort" target="Viktor F. Yanukovych">
+<data key="weight">1.0</data>
+<data key="relationship">Manafort ran PR for Yanukovych's campaign</data>
+<data key="citation">https://www.nytimes.com/2016/08/01/us/paul-manafort-ukraine-donald-trump.html</data>
+</edge>
+<edge id="212823" source="Abdul Rahman Al-assir" target="Paul Manafort">
+<data key="weight">1.0</data>
+<data key="relationship">Manafort secured a loan from al-Assir</data>
+<data key="citation">https://www.washingtonpost.com/politics/in-business-as-in-politics-trump-adviser-no-stranger-to-controversial-figures/2016/04/26/970db232-08c7-11e6-b283-e79d81c63c1b_story.html?utm_term=.de35331c8594</data>
+</edge>
+<edge id="212824" source="Arthur G. Cohen" target="Paul Manafort">
+<data key="weight">1.0</data>
+<data key="relationship">"negotiated a deal to buy the site of the Drake Hotel on Park Avenue in Manhattan," per the New York Times</data>
+<data key="citation">https://www.nytimes.com/2016/08/01/us/paul-manafort-ukraine-donald-trump.html</data>
+</edge>
+<edge id="212825" source="Dmytro Firtash" target="Paul Manafort">
+<data key="weight">1.0</data>
+<data key="relationship">Manafort and Firtash, "an oligarch who made billions as a middleman for Gazprom," were partners in "a deal to buy the site of the Drake Hotel on Park Avenue in Manhattan," per the New York Times</data>
+<data key="citation">https://www.nytimes.com/2016/08/01/us/paul-manafort-ukraine-donald-trump.html</data>
+</edge>
+<edge id="212826" source="Maryanne Trump Barry" target="Kevin Marino">
+<data key="weight">1.0</data>
+<data key="relationship">Marino served as Barry's law clerk</data>
+<data key="citation">http://www.khmarino.com/attorney_bio_marino.html</data>
+</edge>
+<edge id="212827" source="Kevin Marino" target="Bill Stepien">
+<data key="weight">1.0</data>
+<data key="relationship">Marino served as Stepien's attorney during the Bridgegate trial</data>
+<data key="citation">http://www.politico.com/story/2017/01/bill-stepien-donald-trump-christie-233199</data>
+</edge>
+<edge id="212828" source="Anthony Scaramucci" target="Kirill Dmitriev">
+<data key="weight">1.0</data>
+<data key="relationship">Met at Davos</data>
+<data key="citation">https://www.bloomberg.com/politics/articles/2017-01-17/in-davos-trump-aide-talks-deals-with-sanctioned-kremlin-fund</data>
+</edge>
+<edge id="212829" source="Rebekah Mercer" target="Kellyanne Conway">
+<data key="weight">1.0</data>
+<data key="relationship">"They're close," per The Atlantic</data>
+<data key="citation">https://www.theatlantic.com/politics/archive/2017/01/no-one-knows-what-the-powerful-mercers-really-want/514529/</data>
+</edge>
+<edge id="212830" source="Rebekah Mercer" target="Stephen Bannon">
+<data key="weight">1.0</data>
+<data key="relationship">"Tied at the hip," per a source to The Hill</data>
+<data key="citation">http://thehill.com/homenews/campaign/291772-billionaire-father-and-daughter-linked-to-trump-shakeup</data>
+</edge>
+<edge id="212831" source="Rebekah Mercer" target="Sylvain Mirochnikoff">
+<data key="weight">1.0</data>
+<data key="relationship">Married</data>
+<data key="citation">https://www.washingtonpost.com/politics/the-rise-of-gop-mega-donor-rebekah-mercer/2016/09/13/85ae3c32-79bf-11e6-beac-57a4a412e93a_story.html?utm_term=.9cf5b5040519</data>
+</edge>
+<edge id="212832" source="Rebekah Mercer" target="Robert Mercer">
+<data key="weight">1.0</data>
+<data key="relationship">Parent/child</data>
+<data key="citation">https://www.washingtonpost.com/politics/the-rise-of-gop-mega-donor-rebekah-mercer/2016/09/13/85ae3c32-79bf-11e6-beac-57a4a412e93a_story.html?utm_term=.b4e577d44785</data>
+</edge>
+<edge id="212833" source="Robert Mercer" target="Nigel Farage">
+<data key="weight">1.0</data>
+<data key="relationship">"Close friends," per the Guardian</data>
+<data key="citation">https://www.theguardian.com/politics/2017/mar/04/nigel-oakes-cambridge-analytica-what-role-brexit-trump</data>
+</edge>
+<edge id="212834" source="Patrick Caddell" target="Robert Mercer">
+<data key="weight">1.0</data>
+<data key="relationship">"At least as far back as 2013 [Caddell] has been a contractor for one of Trump’s biggest financial backers: Robert Mercer," per The New Yorker</data>
+<data key="citation">http://www.newyorker.com/magazine/2017/03/27/the-reclusive-hedge-fund-tycoon-behind-the-trump-presidency</data>
+</edge>
+<edge id="212835" source="Stephen Bannon" target="Robert Mercer">
+<data key="weight">1.0</data>
+<data key="relationship">Bannon served as the Mercer family's "political advisor," per the Washington Post</data>
+<data key="citation">https://www.washingtonpost.com/graphics/politics/mercer-bannon/</data>
+</edge>
+<edge id="212836" source="Stephen Bannon" target="Patrick Caddell">
+<data key="weight">1.0</data>
+<data key="relationship">Bannon and Caddell have "partnered on numerous projects," per The New Yorker</data>
+<data key="citation">http://www.newyorker.com/magazine/2017/03/27/the-reclusive-hedge-fund-tycoon-behind-the-trump-presidency</data>
+</edge>
+<edge id="212837" source="Stephen Bannon" target="Kellyanne Conway">
+<data key="weight">1.0</data>
+<data key="relationship">Conway is "buddies" with Bannon, per Elle</data>
+<data key="citation">http://www.elle.com/culture/career-politics/a43112/kellyanne-conway-profile/</data>
+</edge>
+<edge id="212838" source="Stephen Bannon" target="Julia Hahn">
+<data key="weight">1.0</data>
+<data key="relationship">"Hahn is a protégée of Stephen Bannon," per The New Yorker</data>
+<data key="citation">http://www.newyorker.com/magazine/2017/02/13/becoming-steve-bannons-bannon</data>
+</edge>
+<edge id="212839" source="Stephen Bannon" target="Jennifer Mercer">
+<data key="weight">1.0</data>
+<data key="relationship">Bannon served as the Mercer family's "political advisor," per the Washington Post</data>
+<data key="citation">https://www.washingtonpost.com/graphics/politics/mercer-bannon/</data>
+</edge>
+<edge id="212840" source="Stephen Bannon" target="Erik Prince">
+<data key="weight">1.0</data>
+<data key="relationship">"Prince has a close relationship with Breitbart News and Steve Bannon," per The Intercept</data>
+<data key="citation">https://theintercept.com/2017/01/17/notorious-mercenary-erik-prince-is-advising-trump-from-the-shadows/</data>
+</edge>
+<edge id="212841" source="Eric Holcomb" target="Kellyanne Conway">
+<data key="weight">1.0</data>
+<data key="relationship">Conway provided consulting services to Holcomb</data>
+<data key="citation">https://www.documentcloud.org/documents/3534450-Conway-Kellyanne.html</data>
+</edge>
+<edge id="212842" source="George T. Conway Iii" target="Kellyanne Conway">
+<data key="weight">1.0</data>
+<data key="relationship">Married</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212843" source="Rudy Giuliani" target="Ken Kurson">
+<data key="weight">1.0</data>
+<data key="relationship">Worked on 2008 presidential campaign</data>
+<data key="citation">http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html</data>
+</edge>
+<edge id="212844" source="Rudy Giuliani" target="Wilbur Ross">
+<data key="weight">1.0</data>
+<data key="relationship">Privatization advisor when Giuliani was mayor</data>
+<data key="citation">http://www.salon.com/2016/11/21/wilbur-ross-jr-rumored-to-be-donald-trumps-choice-for-commerce-secretary-owned-a-mine-where-12-miners-died-in-2006_partner/</data>
+</edge>
+<edge id="212845" source="Wilbur Ross" target="James Uthmeier">
+<data key="weight">1.0</data>
+<data key="relationship">Special advisor</data>
+<data key="citation">http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/</data>
+</edge>
+<edge id="212846" source="Alan Hammer" target="Charles Kushner">
+<data key="weight">1.0</data>
+<data key="relationship">"has long worked with" Kushner, per New York Magazine</data>
+<data key="citation">http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html</data>
+</edge>
+<edge id="212847" source="Charles Kushner" target="Dara Orbach">
+<data key="weight">1.0</data>
+<data key="relationship">Parent/child</data>
+<data key="citation">http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/</data>
+</edge>
+<edge id="212848" source="Charles Kushner" target="Murray Kushner">
+<data key="weight">1.0</data>
+<data key="relationship">Siblings</data>
+<data key="citation">http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html</data>
+</edge>
+<edge id="212849" source="Charles Kushner" target="Jim Mcgreevey">
+<data key="weight">1.0</data>
+<data key="relationship">"the financial force" behind the former governor's campaign, per New York Magazine</data>
+<data key="citation">http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html</data>
+</edge>
+<edge id="212850" source="Charles Kushner" target="Joshua Kushner">
+<data key="weight">1.0</data>
+<data key="relationship">Parent/child</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212851" source="Charles Kushner" target="Nicole Kushner Meyer">
+<data key="weight">1.0</data>
+<data key="relationship">Parent/child</data>
+<data key="citation">http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/</data>
+</edge>
+<edge id="212852" source="Charles Kushner" target="Seryl Kushner">
+<data key="weight">1.0</data>
+<data key="relationship">Married</data>
+<data key="citation">http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/</data>
+</edge>
+<edge id="212853" source="Charles Kushner" target="Esther Kushner">
+<data key="weight">1.0</data>
+<data key="relationship">Siblings</data>
+<data key="citation">http://nymag.com/daily/intelligencer/2017/01/jared-kushner-trump-administration-power.html</data>
+</edge>
+<edge id="212854" source="Benjamin Netanyahu" target="Charles Kushner">
+<data key="weight">1.0</data>
+<data key="relationship">Longtime family friends, per Reuters</data>
+<data key="citation">http://www.reuters.com/article/us-usa-trump-israel-scene-idUSKBN15U2PA</data>
+</edge>
+<edge id="212855" source="Sally Priebus" target="Reince Priebus">
+<data key="weight">1.0</data>
+<data key="relationship">Married</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212856" source="Reince Priebus" target="Katie Walsh">
+<data key="weight">1.0</data>
+<data key="relationship">Former deputy chief of staff</data>
+<data key="citation">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/ | http://www.politico.com/story/2017/03/trump-deputy-chief-of-staff-katie-walsh-moving-to-outside-political-groups-236706</data>
+</edge>
+<edge id="212857" source="Reince Priebus" target="Mallory Hunter">
+<data key="weight">1.0</data>
+<data key="relationship">Executive assistant</data>
+<data key="citation">https://www.documentcloud.org/documents/3534136-Hunter-Mallory.html</data>
+</edge>
+<edge id="212858" source="Sean Cairncross" target="Reince Priebus">
+<data key="weight">1.0</data>
+<data key="relationship">Senior advisor</data>
+<data key="citation">http://www.politico.com/story/2017/01/trump-transition-white-house-hires-233863</data>
+</edge>
+<edge id="212859" source="Scott Walker" target="Andrew Bremberg">
+<data key="weight">1.0</data>
+<data key="relationship">Policy director for Walker's campaign</data>
+<data key="citation">http://www.modernhealthcare.com/article/20161111/NEWS/161119989?utm_source=modernhealthcare&amp;utm_medium=email&amp;utm_content=20161111-NEWS-161119989&amp;utm_campaign=mh-alert</data>
+</edge>
+<edge id="212860" source="Mike Ferguson" target="Andrew Bremberg">
+<data key="weight">1.0</data>
+<data key="relationship">Bremberg "is a lifelong friend" of Ferguson, a former U.S. House representative, per Stat</data>
+<data key="citation">https://www.statnews.com/2016/11/15/trump-influencers-health-care/</data>
+</edge>
+<edge id="212861" source="Mitch Mcconnell" target="Andrew Bremberg">
+<data key="weight">1.0</data>
+<data key="relationship">Policy advisor and counsel on nominations</data>
+<data key="citation">https://www.linkedin.com/in/andrew-bremberg-7170938</data>
+</edge>
+<edge id="212862" source="Julian Assange" target="Roger J. Stone, Jr.">
+<data key="weight">1.0</data>
+<data key="relationship">Stone told the Guardian that he and Assange have a "mutual friend" who served as a backchannel for advance notice of WikiLeaks' Clinton-related releases</data>
+<data key="citation">https://www.theguardian.com/us-news/2016/nov/02/trump-adviser-clinton-emails-wikileaks-roger-stone</data>
+</edge>
+<edge id="212863" source="Albert Ross Sr." target="Omarosé Onee Manigault">
+<data key="weight">1.0</data>
+<data key="relationship">Mentored by</data>
+<data key="citation">http://www.omarosa.com/#</data>
+</edge>
+<edge id="212864" source="Omarosé Onee Manigault" target="H. B. Hicks">
+<data key="weight">1.0</data>
+<data key="relationship">Mentored by</data>
+<data key="citation">http://www.omarosa.com/#</data>
+</edge>
+<edge id="212865" source="Richard Marvin &quot;dick&quot; Devos Jr." target="Betsy Devos">
+<data key="weight">1.0</data>
+<data key="relationship">Married</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212866" source="Betsy Devos" target="Erik Prince">
+<data key="weight">1.0</data>
+<data key="relationship">Siblings</data>
+<data key="citation">https://theintercept.com/2017/01/17/notorious-mercenary-erik-prince-is-advising-trump-from-the-shadows/</data>
+</edge>
+<edge id="212867" source="Betsy Devos" target="Richard Devos">
+<data key="weight">1.0</data>
+<data key="relationship">Parent/child</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212868" source="Mike Pence" target="John Gray">
+<data key="weight">1.0</data>
+<data key="relationship">Gray worked for Pence</data>
+<data key="citation">http://thehill.com/policy/finance/314991-trump-team-prepares-dramatic-cuts</data>
+</edge>
+<edge id="212869" source="Mike Pence" target="Jen Pavlik">
+<data key="weight">1.0</data>
+<data key="relationship">Deputy chief of staff</data>
+<data key="citation">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
+</edge>
+<edge id="212870" source="Mike Pence" target="Thomas E. Wheeler">
+<data key="weight">1.0</data>
+<data key="relationship">Wheeler worked for Pence</data>
+<data key="citation">http://www.motherjones.com/politics/2017/02/justice-department-thomas-wheeler-presentations</data>
+</edge>
+<edge id="212871" source="Mike Pence" target="Russ Vought">
+<data key="weight">1.0</data>
+<data key="relationship">Former aide</data>
+<data key="citation">http://thehill.com/policy/finance/314991-trump-team-prepares-dramatic-cuts</data>
+</edge>
+<edge id="212872" source="Mike Pence" target="Ryan Jarmula">
+<data key="weight">1.0</data>
+<data key="relationship">Jarmula "served as a member of [Pence's] staff for a number of years," per the transition team</data>
+<data key="citation">https://greatagain.gov/policy-team-32afa7145773</data>
+</edge>
+<edge id="212873" source="Mike Pence" target="Nick Ayers">
+<data key="weight">1.0</data>
+<data key="relationship">Ayers is "one of [Pence's] top political advsiors," per Politico</data>
+<data key="citation">http://www.politico.com/story/2017/01/new-pro-trump-political-group-readies-for-launch-233263</data>
+</edge>
+<edge id="212874" source="Mike Pence" target="Sarah Makin">
+<data key="weight">1.0</data>
+<data key="relationship">Director of public engagement and intergovernmental affairs</data>
+<data key="citation">https://www.documentcloud.org/documents/3535103-Makin-Sarah.html</data>
+</edge>
+<edge id="212875" source="Mike Pence" target="Marty Obst">
+<data key="weight">1.0</data>
+<data key="relationship">Obst is a "top Pence aide," per Politico</data>
+<data key="citation">http://www.politico.com/story/2017/01/new-pro-trump-political-group-readies-for-launch-233263</data>
+</edge>
+<edge id="212876" source="Mike Pence" target="Josh Pitcock">
+<data key="weight">1.0</data>
+<data key="relationship">Chief of staff</data>
+<data key="citation">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
+</edge>
+<edge id="212877" source="Mike Pence" target="Jarrod P. Agen">
+<data key="weight">1.0</data>
+<data key="relationship">Director of communications</data>
+<data key="citation">https://www.documentcloud.org/documents/3534451-Agen-Jarrod.html</data>
+</edge>
+<edge id="212878" source="Mike Pence" target="Marc Lotter">
+<data key="weight">1.0</data>
+<data key="relationship">Press secretary</data>
+<data key="citation">https://www.documentcloud.org/documents/3535104-Lotter-Marc.html</data>
+</edge>
+<edge id="212879" source="Jarrod P. Agen" target="Rick Snyder">
+<data key="weight">1.0</data>
+<data key="relationship">Former chief of staff</data>
+<data key="citation">https://www.documentcloud.org/documents/3534451-Agen-Jarrod.html</data>
+</edge>
+<edge id="212880" source="Thomas E. Wheeler" target="Jeff Sessions">
+<data key="weight">1.0</data>
+<data key="relationship">Sessions appointed Wheeler to Deputy Assistant Attorney General. Wheeler was also appointed head of the DOJ's Civil Rights Division as an Acting Assistant Attorney General.</data>
+<data key="citation">https://www.nytimes.com/2017/02/28/magazine/jeff-sessions-stephen-bannon-justice-department.html?_r=0 | https://www.buzzfeed.com/zoetillman/heres-who-is-running-the-justice-department-right-now | https://www.justice.gov/crt</data>
+</edge>
+<edge id="212881" source="Steven Mnuchin" target="George Soros">
+<data key="weight">1.0</data>
+<data key="relationship">Mnuchin worked for Soros' fund</data>
+<data key="citation">http://www.vanityfair.com/news/2016/11/george-soros-declares-war-on-trump</data>
+</edge>
+<edge id="212882" source="Steven Mnuchin" target="Edward Lampert">
+<data key="weight">1.0</data>
+<data key="relationship">Former college roommates; Mnuchin has a position in an entity connected to Lampert</data>
+<data key="citation">https://www.washingtonpost.com/news/wonk/wp/2017/01/19/treasury-nominee-initially-omitted-more-than-100-million-from-disclosures-democratic-memo-shows/?postshare=3221484835948504&amp;tid=ss_tw&amp;utm_term=.e7b4eb5ed0a8</data>
+</edge>
+<edge id="212883" source="Eric Trump" target="Felipe Yaryura">
+<data key="weight">1.0</data>
+<data key="relationship">The Argentine real estate developer is said to be friends with the Trump family; Yaryura and Eric Trump were photographed together at Trump's election night party</data>
+<data key="citation">http://www.lanacion.com.ar/1955208-la-emocion-del-socio-argentino-de-trump</data>
+</edge>
+<edge id="212884" source="Eric Trump" target="Donald Trump Jr.">
+<data key="weight">1.0</data>
+<data key="relationship">Siblings</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212885" source="Donald Trump Jr." target="Jason D. Greenblatt">
+<data key="weight">1.0</data>
+<data key="relationship">Business partners</data>
+<data key="citation">Nexis</data>
+</edge>
+<edge id="212886" source="Donald Trump Jr." target="Vanessa Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Married</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212887" source="Donald Trump Jr." target="Bonnie Haydon">
+<data key="weight">1.0</data>
+<data key="relationship">Father-in-law/son-in-law</data>
+<data key="citation">Nexis — NYT 11/19/2006</data>
+</edge>
+<edge id="212888" source="Donald Trump Jr." target="Russell Flicker">
+<data key="weight">1.0</data>
+<data key="relationship">Business partners</data>
+<data key="citation">Nexis</data>
+</edge>
+<edge id="212889" source="Donald Trump Jr." target="Andriy Zaika">
+<data key="weight">1.0</data>
+<data key="relationship">Met in 2006, when Zaika was head of the Ukrainian Construction Consortium</data>
+<data key="citation">http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html</data>
+</edge>
+<edge id="212890" source="Viktor Tkachuk" target="Donald Trump Jr.">
+<data key="weight">1.0</data>
+<data key="relationship">Met in 2006, when Tkachuk was an adviser to the Ukrainian president</data>
+<data key="citation">http://www.newsweek.com/2016/09/23/donald-trump-foreign-business-deals-national-security-498081.html</data>
+</edge>
+<edge id="212891" source="Felipe Yaryura" target="Donald Trump Jr.">
+<data key="weight">1.0</data>
+<data key="relationship">The Argentine real estate developer is said to be friends with the Trump family</data>
+<data key="citation">http://www.lanacion.com.ar/1955208-la-emocion-del-socio-argentino-de-trump</data>
+</edge>
+<edge id="212892" source="Bernard R. Diamond" target="Donald Trump Jr.">
+<data key="weight">1.0</data>
+<data key="relationship">Business partners</data>
+<data key="citation">Nexis</data>
+</edge>
+<edge id="212893" source="Don Mcgahn" target="Aaron Schock">
+<data key="weight">1.0</data>
+<data key="relationship">McGahn provided legal services for Schock</data>
+<data key="citation">https://www.documentcloud.org/documents/3535093-McGahn-Donald-F.html</data>
+</edge>
+<edge id="212894" source="Don Mcgahn" target="David Morrell">
+<data key="weight">1.0</data>
+<data key="relationship">Associate Counsel to the President</data>
+<data key="citation">http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/</data>
+</edge>
+<edge id="212895" source="Don Mcgahn" target="Greg Katsas">
+<data key="weight">1.0</data>
+<data key="relationship">Deputy Counsel to the President</data>
+<data key="citation">http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/</data>
+</edge>
+<edge id="212896" source="Don Mcgahn" target="Annie Donaldson">
+<data key="weight">1.0</data>
+<data key="relationship">Special Counsel to the President, Chief of Staff to the White House Counsel</data>
+<data key="citation">http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/</data>
+</edge>
+<edge id="212897" source="Don Mcgahn" target="Shannon Mcgahn">
+<data key="weight">1.0</data>
+<data key="relationship">Married</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212898" source="Don Mcgahn" target="Blake Delaplane">
+<data key="weight">1.0</data>
+<data key="relationship">Special assistant to the White House Counsel</data>
+<data key="citation">http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/</data>
+</edge>
+<edge id="212899" source="Don Mcgahn" target="James Burnham">
+<data key="weight">1.0</data>
+<data key="relationship">Senior associate counsel</data>
+<data key="citation">http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/</data>
+</edge>
+<edge id="212900" source="Annie Donaldson" target="Aaron Schock">
+<data key="weight">1.0</data>
+<data key="relationship">Provided legal services for</data>
+<data key="citation">https://www.documentcloud.org/documents/3534049-Donaldson-Ann.html</data>
+</edge>
+<edge id="212901" source="Andy Puzder" target="William P. Foley">
+<data key="weight">1.0</data>
+<data key="relationship">Worked together on deal to turn around debts of Carl's Jr. founder, which was a major success in Puzder's career</data>
+<data key="citation">http://www.insidesources.com/meet-the-fast-food-ceo-trump-picked-as-labor-secretary/</data>
+</edge>
+<edge id="212902" source="Harold G. Hamm" target="Scott Pruitt">
+<data key="weight">1.0</data>
+<data key="relationship">Hamm, chief executive of Continental Energy, was Pruitt's 2013 re-election co-chair</data>
+<data key="citation">http://www.cnbc.com/2016/12/08/scott-pruitt-is-great-pick-to-lead-epa-says-pruitt-ally-harold-hamm.html</data>
+</edge>
+<edge id="212903" source="Jessica Ditto" target="Matthew Griswold Bevin">
+<data key="weight">1.0</data>
+<data key="relationship">Ditto was the communications director for Bevin's office</data>
+<data key="citation">https://www.documentcloud.org/documents/3534035-Ditto-Jessica.html</data>
+</edge>
+<edge id="212904" source="Catherine Bray Griffith" target="Wells Griffith">
+<data key="weight">1.0</data>
+<data key="relationship">Married</data>
+<data key="citation">https://www.theguardian.com/commentisfree/2017/feb/02/corporate-dark-money-power-atlantic-lobbyists-brexit</data>
+</edge>
+<edge id="212905" source="Christine Chao" target="Elaine Chao">
+<data key="weight">1.0</data>
+<data key="relationship">Siblings</data>
+<data key="citation">https://www.propublica.org/article/familys-shipping-company-could-pose-problems-for-trumps-transportation-pick</data>
+</edge>
+<edge id="212906" source="Christine Chao" target="James S.C. Chao">
+<data key="weight">1.0</data>
+<data key="relationship">Parent/child</data>
+<data key="citation">https://www.propublica.org/article/familys-shipping-company-could-pose-problems-for-trumps-transportation-pick</data>
+</edge>
+<edge id="212907" source="James S.C. Chao" target="Elaine Chao">
+<data key="weight">1.0</data>
+<data key="relationship">Parent/child</data>
+<data key="citation">https://www.propublica.org/article/familys-shipping-company-could-pose-problems-for-trumps-transportation-pick</data>
+</edge>
+<edge id="212908" source="James S.C. Chao" target="Angela Chao">
+<data key="weight">1.0</data>
+<data key="relationship">Parent/child</data>
+<data key="citation">https://www.propublica.org/article/familys-shipping-company-could-pose-problems-for-trumps-transportation-pick</data>
+</edge>
+<edge id="212909" source="Elaine Chao" target="Angela Chao">
+<data key="weight">1.0</data>
+<data key="relationship">Siblings</data>
+<data key="citation">https://www.propublica.org/article/familys-shipping-company-could-pose-problems-for-trumps-transportation-pick</data>
+</edge>
+<edge id="212910" source="Mitch Mcconnell" target="Elaine Chao">
+<data key="weight">1.0</data>
+<data key="relationship">Married</data>
+<data key="citation">http://elainelchao.com/biography/</data>
+</edge>
+<edge id="212911" source="Julia Hahn" target="Stephen Miller">
+<data key="weight">1.0</data>
+<data key="relationship">Miller sent tips to Hahn, a Breitbart reporter</data>
+<data key="citation">http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992</data>
+</edge>
+<edge id="212912" source="Yury Zaytsev" target="Sergei Millian">
+<data key="weight">1.0</data>
+<data key="relationship">Went on trip to Moscow together in 2011</data>
+<data key="citation">https://www.ft.com/content/ea52a678-9cfb-11e6-8324-be63473ce146</data>
+</edge>
+<edge id="212913" source="Sergei Millian" target="Vladimir Putin">
+<data key="weight">1.0</data>
+<data key="relationship">Putin awarded Millian a prize in Jan. 2015 for developing ties between Russia and American businesspeople</data>
+<data key="citation">https://www.ft.com/content/ea52a678-9cfb-11e6-8324-be63473ce146</data>
+</edge>
+<edge id="212914" source="Jack Weisselberg" target="Allen Weisselberg">
+<data key="weight">1.0</data>
+<data key="relationship">Parent/child</data>
+<data key="citation">https://www.nytimes.com/2016/05/24/business/dealbook/donald-trump-relationship-bankers.html?_r=0</data>
+</edge>
+<edge id="212915" source="Xi Jinping" target="Terry Branstad">
+<data key="weight">1.0</data>
+<data key="relationship">Brandstad and the Chinese president have a "friendship dating back to 1985," per Bloomberg Politics</data>
+<data key="citation">https://www.bloomberg.com/politics/articles/2016-12-07/trump-said-to-pick-iowa-governor-branstad-as-china-ambassador</data>
+</edge>
+<edge id="212916" source="John Gore" target="Jeff Sessions">
+<data key="weight">1.0</data>
+<data key="relationship">Deputy assistant AG for Civil Rights</data>
+<data key="citation">http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/</data>
+</edge>
+<edge id="212917" source="Jeff Sessions" target="Ajit Pai">
+<data key="weight">1.0</data>
+<data key="relationship">Former deputy chief counsel</data>
+<data key="citation">https://www.fcc.gov/about/leadership/ajit-pai</data>
+</edge>
+<edge id="212918" source="Stephen Miller" target="Jeff Sessions">
+<data key="weight">1.0</data>
+<data key="relationship">Former chief of communications</data>
+<data key="citation">http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992</data>
+</edge>
+<edge id="212919" source="Garrett Murch" target="Jeff Sessions">
+<data key="weight">1.0</data>
+<data key="relationship">Former communications advisor</data>
+<data key="citation">http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992 | https://www.linkedin.com/in/garrett-murch-9800b928</data>
+</edge>
+<edge id="212920" source="Michael Murray" target="Jeff Sessions">
+<data key="weight">1.0</data>
+<data key="relationship">Counsel to the Deputy Attorney General</data>
+<data key="citation">http://www.jonesday.com/jones-day-lawyers-tapped-for-federal-and-state-posts-01-20-2017/</data>
+</edge>
+<edge id="212921" source="Rick Dearborn" target="Jeff Sessions">
+<data key="weight">1.0</data>
+<data key="relationship">Former chief of staff</data>
+<data key="citation">http://www.cnn.com/2017/01/04/politics/bill-stepien-chris-christie-donald-trump-white-house/</data>
+</edge>
+<edge id="212922" source="John Kyl" target="Jeff Sessions">
+<data key="weight">1.0</data>
+<data key="relationship">Kyl was Sessions's "sherpa" for confirmation hearings</data>
+<data key="citation">http://www.azcentral.com/story/news/politics/azdc/2017/01/13/jon-kyl-helping-jeff-sessions-confirmation-hearing-attorney-general/96558516/</data>
+</edge>
+<edge id="212923" source="Seryl Kushner" target="Nicole Kushner Meyer">
+<data key="weight">1.0</data>
+<data key="relationship">Parent/child</data>
+<data key="citation">http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/</data>
+</edge>
+<edge id="212924" source="Dara Orbach" target="Seryl Kushner">
+<data key="weight">1.0</data>
+<data key="relationship">Parent/child</data>
+<data key="citation">http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/</data>
+</edge>
+<edge id="212925" source="Joshua Kushner" target="Nicole Kushner Meyer">
+<data key="weight">1.0</data>
+<data key="relationship">Siblings</data>
+<data key="citation">http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/</data>
+</edge>
+<edge id="212926" source="Dara Orbach" target="Nicole Kushner Meyer">
+<data key="weight">1.0</data>
+<data key="relationship">Siblings</data>
+<data key="citation">http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/</data>
+</edge>
+<edge id="212927" source="Joseph Meyer" target="Nicole Kushner Meyer">
+<data key="weight">1.0</data>
+<data key="relationship">Married</data>
+<data key="citation">http://nymag.com/daily/intelligencer/2013/01/jared-kushner-names-brother-in-law-observer-ceo.html</data>
+</edge>
+<edge id="212928" source="Dara Orbach" target="Joshua Kushner">
+<data key="weight">1.0</data>
+<data key="relationship">Siblings</data>
+<data key="citation">http://www.townandcountrymag.com/society/politics/news/a9244/charles-jared-kushner-family/</data>
+</edge>
+<edge id="212929" source="Bob Dole" target="Robert Lighthizer">
+<data key="weight">1.0</data>
+<data key="relationship">Lighthizer was Dole's campaign treasurer in 1996</data>
+<data key="citation">http://www.pbs.org/newshour/rundown/trump-nominates-robert-lighthizer-u-s-trade-representative/</data>
+</edge>
+<edge id="212930" source="Ben Carson" target="Barry Bennett">
+<data key="weight">1.0</data>
+<data key="relationship">Bennet was Carson's presidential campaign manager</data>
+<data key="citation">https://www.washingtonpost.com/news/post-politics/wp/2016/01/22/former-carson-campaign-manager-barry-bennett-is-quietly-advising-trumps-top-aides/?utm_term=.795d808dc8d2</data>
+</edge>
+<edge id="212931" source="Pam Mulvaney" target="Mick Mulvaney">
+<data key="weight">1.0</data>
+<data key="relationship">Married</data>
+<data key="citation">http://www.usnews.com/news/articles/2011/02/22/10-things-you-didnt-know-about-mick-mulvaney</data>
+</edge>
+<edge id="212932" source="Mitch Mcconnell" target="W.E.“ed” Bosarge">
+<data key="weight">1.0</data>
+<data key="relationship">Major campaign donor</data>
+<data key="citation">http://www.politico.com/tipsheets/prescription-pulse/2016/05/new-legislation-on-stem-cells-raises-alarm-214069</data>
+</edge>
+<edge id="212933" source="Madeleine Westerhout" target="Rhona Graff Riccio">
+<data key="weight">1.0</data>
+<data key="relationship">Riccio helped train Westerhout, per the New York Times</data>
+<data key="citation">https://www.nytimes.com/2017/03/27/us/rhona-graff-donald-trump.html?_r=0</data>
+</edge>
+<edge id="212934" source="Rhona Graff Riccio" target="Lucius Joseph Riccio">
+<data key="weight">1.0</data>
+<data key="relationship">Married</data>
+<data key="citation">General knowledge</data>
+</edge>
+<edge id="212935" source="Rick Perry" target="Peter Holt">
+<data key="weight">1.0</data>
+<data key="relationship">Perry consulted for Holt, after governorship to which Holt gave money</data>
+<data key="citation">https://www.texastribune.org/2015/07/10/perry-consulting-big-donor-disclosures/</data>
+</edge>
+<edge id="212936" source="Rick Perry" target="Anita Thigpen Perry">
+<data key="weight">1.0</data>
+<data key="relationship">Married</data>
+<data key="citation">http://thehill.com/policy/healthcare/182135-perrys-addition-to-the-white-house-his-wife-health-advocate-anita-perry</data>
+</edge>
+<edge id="212937" source="Nicolas Sarkozy" target="Thomas J. Barrack Jr.">
+<data key="weight">1.0</data>
+<data key="relationship">Sarkozy awarded France's Chevalier de la Légion d'Honneur to Barrack</data>
+<data key="citation">http://colonyinc.com/about#fulltext4</data>
+</edge>
+<edge id="212938" source="Yousef Al-otaiba" target="Thomas J. Barrack Jr.">
+<data key="weight">1.0</data>
+<data key="relationship">"Friend" per the New York Times</data>
+<data key="citation">https://www.nytimes.com/2017/02/11/us/politics/jared-kushner-israel.html?smid=tw-nytimesworld&amp;smtyp=cur&amp;_r=1</data>
+</edge>
+<edge id="212939" source="Aydin Dogan" target="Mehmet Ali Yalcindag">
+<data key="weight">1.0</data>
+<data key="relationship">Father-in-law/son-in-law</data>
+<data key="citation">http://www.hurriyetdailynews.com/a-major-shake-up-at-dogan-media.aspx?PageID=238&amp;NID=104450&amp;NewsCatID=345</data>
+</edge>
+<edge id="212940" source="Vladimir Putin" target="Alexander Novak">
+<data key="weight">1.0</data>
+<data key="relationship">Energy minister</data>
+<data key="citation">https://www.washingtonpost.com/news/josh-rogin/wp/2016/12/13/inside-rex-tillersons-long-romance-with-russia/?utm_term=.37f238834d71</data>
+</edge>
+<edge id="212941" source="Igor Sechin" target="Vladimir Putin">
+<data key="weight">1.0</data>
+<data key="relationship">Former deputy prime minister</data>
+<data key="citation">https://www.ft.com/content/a8f24922-cef4-11e3-9165-00144feabdc0</data>
+</edge>
+<edge id="212942" source="Rex Tillerson" target="Vladimir Putin">
+<data key="weight">1.0</data>
+<data key="relationship">In 2012, Putin awarded Order of Friendship to Tillerson</data>
+<data key="citation">http://www.politico.com/magazine/story/2016/12/rex-tillerson-exxon-putin-russia-ties-friend-214515</data>
+</edge>
+<edge id="212943" source="Lev Leviev" target="Vladimir Putin">
+<data key="weight">1.0</data>
+<data key="relationship">Described him as a "true friend"</data>
+<data key="citation">http://www.nytimes.com/2007/09/16/magazine/16Leviev-t.html</data>
+</edge>
+<edge id="212944" source="Sergey Kislyak" target="Michael Flynn">
+<data key="weight">1.0</data>
+<data key="relationship">"in frequent contact," per Jan. 13, 2017 Associated Press article</data>
+<data key="citation">http://bigstory.ap.org/article/ba462d64c12d4692b8381cb7076d34ab/ap-source-trump-aide-frequent-contact-russia-envoy</data>
+</edge>
+<edge id="212945" source="Rex Tillerson" target="Alexander Novak">
+<data key="weight">1.0</data>
+<data key="relationship">"Tillerson lowered his profile in Russia but continued to meet with non-sanctioned high-level Russian officials in Moscow, including Russian Energy Minister Alexander Novak," per the Washington Post</data>
+<data key="citation">https://www.washingtonpost.com/news/josh-rogin/wp/2016/12/13/inside-rex-tillersons-long-romance-with-russia/?utm_term=.37f238834d71</data>
+</edge>
+<edge id="212946" source="Rex Tillerson" target="Igor Sechin">
+<data key="weight">1.0</data>
+<data key="relationship">"Tillerson, the CEO of ExxonMobil, has a close and personal relationship with Sechin dating back over a decade," per the Washington Post</data>
+<data key="citation">https://www.washingtonpost.com/news/josh-rogin/wp/2016/12/13/inside-rex-tillersons-long-romance-with-russia/?utm_term=.37f238834d71</data>
+</edge>
+<edge id="212947" source="Aras Agalarov" target="Emin Agalarov">
+<data key="weight">1.0</data>
+<data key="relationship">Parent/child</data>
+<data key="citation">https://www.washingtonpost.com/politics/inside-trumps-financial-ties-to-russia-and-his-unusual-flattery-of-vladimir-putin/2016/06/17/dbdcaac8-31a6-11e6-8ff7-7b6c1998b7a0_story.html?utm_term=.0cb035ebfc6b</data>
+</edge>
+<edge id="212948" source="Chris Christie" target="Bill Stepien">
+<data key="weight">1.0</data>
+<data key="relationship">Former deputy chief of staff</data>
+<data key="citation">http://www.politico.com/story/2017/01/bill-stepien-donald-trump-christie-233199</data>
+</edge>
+<edge id="212949" source="Chris Christie" target="David Wildstein">
+<data key="weight">1.0</data>
+<data key="relationship">Christie and Wildstein went to high school together, and Christie appointed Wildstein to a director position at the Port Authority</data>
+<data key="citation">http://nymag.com/daily/intelligencer/2016/09/david-wildstein-chris-christie-bridgegate-trial.html</data>
+</edge>
+<edge id="212950" source="Stephen B. Meister" target="Jason D. Meister">
+<data key="weight">1.0</data>
+<data key="relationship">Parent/child</data>
+<data key="citation">https://therealdeal.com/issues_articles/whos-jumping-ship/</data>
+</edge>
+<edge id="212951" source="Stephen Miller" target="Sam Nunberg">
+<data key="weight">1.0</data>
+<data key="relationship">Friends</data>
+<data key="citation">http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992</data>
+</edge>
+<edge id="212952" source="Susan Pompeo" target="Michael Pompeo">
+<data key="weight">1.0</data>
+<data key="relationship">Married</data>
+<data key="citation">http://pompeo.house.gov/biography/</data>
+</edge>
+<edge id="212953" source="David Horowitz" target="Stephen Miller">
+<data key="weight">1.0</data>
+<data key="relationship">"Miller considers Horowitz a mentor," per Politico</data>
+<data key="citation">http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992</data>
+</edge>
+<edge id="212954" source="Caroline May" target="Stephen Miller">
+<data key="weight">1.0</data>
+<data key="relationship">Miller sent tips to May, a Breitbart reporter</data>
+<data key="citation">http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992</data>
+</edge>
+<edge id="212955" source="Tucker Carlson" target="Stephen Miller">
+<data key="weight">1.0</data>
+<data key="relationship">Miller set up meeting between Carlson and Sessions</data>
+<data key="citation">http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992</data>
+</edge>
+<edge id="212956" source="Michelle Bachmann" target="Stephen Miller">
+<data key="weight">1.0</data>
+<data key="relationship">Worked for her</data>
+<data key="citation">http://www.politico.com/magazine/story/2016/06/stephen-miller-donald-trump-2016-policy-adviser-jeff-sessions-213992</data>
+</edge>
+<edge id="212957" source="Melania Trump" target="Lindsey Reynolds">
+<data key="weight">1.0</data>
+<data key="relationship">Chief of staff</data>
+<data key="citation">http://www.politico.com/story/2017/02/donald-trump-challenges-governing-presidency-234879</data>
+</edge>
+<edge id="212958" source="Stephanie Winston Wolkoff" target="Melania Trump">
+<data key="weight">1.0</data>
+<data key="relationship">Senior adviser</data>
+<data key="citation">http://www.politico.com/story/2017/02/donald-trump-challenges-governing-presidency-234879</data>
+</edge>
+<edge id="212959" source="Sam Brownback" target="Ajit Pai">
+<data key="weight">1.0</data>
+<data key="relationship">Former chief counsel</data>
+<data key="citation">https://www.fcc.gov/about/leadership/ajit-pai</data>
+</edge>
+</graph>
+</graphml>

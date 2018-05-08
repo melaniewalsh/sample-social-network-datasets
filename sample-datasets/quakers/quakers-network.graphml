@@ -1,0 +1,1267 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+<key attr.name="label" attr.type="string" for="node" id="label"/>
+<key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+<key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+<key attr.name="r" attr.type="int" for="node" id="r"/>
+<key attr.name="g" attr.type="int" for="node" id="g"/>
+<key attr.name="b" attr.type="int" for="node" id="b"/>
+<key attr.name="x" attr.type="float" for="node" id="x"/>
+<key attr.name="y" attr.type="float" for="node" id="y"/>
+<key attr.name="size" attr.type="float" for="node" id="size"/>
+<graph edgedefault="undirected">
+<node id="George Keith">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">74.20926</data>
+<data key="y">-414.67795</data>
+</node>
+<node id="William Bradford">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">420.84207</data>
+<data key="y">-24.681057</data>
+</node>
+<node id="George Whitehead">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-509.45236</data>
+<data key="y">87.646706</data>
+</node>
+<node id="George Fox">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-373.5222</data>
+<data key="y">33.087986</data>
+</node>
+<node id="William Penn">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-67.62219</data>
+<data key="y">116.202126</data>
+</node>
+<node id="Franciscus Mercurius van Helmont">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-44.993927</data>
+<data key="y">419.94742</data>
+</node>
+<node id="Anne Conway Viscountess Conway and Killultagh">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-65.35651</data>
+<data key="y">-182.27045</data>
+</node>
+<node id="Benjamin Furly">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">366.06082</data>
+<data key="y">323.55142</data>
+</node>
+<node id="Robert Barclay">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">317.0419</data>
+<data key="y">-200.98047</data>
+</node>
+<node id="David Barclay of Ury">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-10.39334</data>
+<data key="y">423.15945</data>
+</node>
+<node id="William Caton">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-114.68338</data>
+<data key="y">-490.0036</data>
+</node>
+<node id="Alexander Parker">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-16.512054</data>
+<data key="y">-304.50888</data>
+</node>
+<node id="Stephen Crisp">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-29.08078</data>
+<data key="y">-121.36892</data>
+</node>
+<node id="John Stubbs">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-486.88632</data>
+<data key="y">-286.67056</data>
+</node>
+<node id="James Parnel">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">147.32602</data>
+<data key="y">-266.5211</data>
+</node>
+<node id="Richard Claridge">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-247.39798</data>
+<data key="y">131.36276</data>
+</node>
+<node id="Margaret Fell">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-65.068756</data>
+<data key="y">-218.91464</data>
+</node>
+<node id="David Lloyd">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-391.5376</data>
+<data key="y">-261.67773</data>
+</node>
+<node id="Mary Penington">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-313.68103</data>
+<data key="y">293.19724</data>
+</node>
+<node id="Thomas Story">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">74.90579</data>
+<data key="y">-204.70395</data>
+</node>
+<node id="James Claypoole">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">129.84976</data>
+<data key="y">202.66238</data>
+</node>
+<node id="Tace Sowle">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-255.87256</data>
+<data key="y">377.16794</data>
+</node>
+<node id="Rebecca Travers">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">241.88058</data>
+<data key="y">7.0963483</data>
+</node>
+<node id="John Burnyeat">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">15.4167185</data>
+<data key="y">87.45127</data>
+</node>
+<node id="Edward Haistwell">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">216.56943</data>
+<data key="y">-264.16043</data>
+</node>
+<node id="James Logan">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-26.295013</data>
+<data key="y">-173.64206</data>
+</node>
+<node id="Isaac Norris">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">307.09927</data>
+<data key="y">248.42441</data>
+</node>
+<node id="Isabel Yeamans">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-258.82846</data>
+<data key="y">257.7629</data>
+</node>
+<node id="Leonard Fell">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">223.28708</data>
+<data key="y">301.7156</data>
+</node>
+<node id="John Perrot">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">344.78427</data>
+<data key="y">242.7944</data>
+</node>
+<node id="William Coddington">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-412.0701</data>
+<data key="y">148.08463</data>
+</node>
+<node id="Thomas Ellwood">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-211.83954</data>
+<data key="y">-213.89795</data>
+</node>
+<node id="John Wilkinson">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-322.13153</data>
+<data key="y">-91.57754</data>
+</node>
+<node id="Edward Burrough">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">67.89011</data>
+<data key="y">-24.577023</data>
+</node>
+<node id="James Nayler">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">305.63535</data>
+<data key="y">-398.50912</data>
+</node>
+<node id="Thomas Salthouse">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">332.47305</data>
+<data key="y">-14.111659</data>
+</node>
+<node id="John Crook">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">233.68497</data>
+<data key="y">-494.94193</data>
+</node>
+<node id="Elizabeth Hooten">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">246.27744</data>
+<data key="y">467.58182</data>
+</node>
+<node id="William Mead">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-44.41223</data>
+<data key="y">474.45956</data>
+</node>
+<node id="Ellis Hookes">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-108.5632</data>
+<data key="y">-461.81726</data>
+</node>
+<node id="Francis Howgill">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">27.20047</data>
+<data key="y">-49.330105</data>
+</node>
+<node id="John Audland">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">217.35898</data>
+<data key="y">162.09622</data>
+</node>
+<node id="William Dewsbury">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">385.71152</data>
+<data key="y">-347.33206</data>
+</node>
+<node id="William Mucklow">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">130.52939</data>
+<data key="y">-86.70718</data>
+</node>
+<node id="John Story">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">255.58963</data>
+<data key="y">367.821</data>
+</node>
+<node id="Daniel Quare">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-193.45227</data>
+<data key="y">-8.848109</data>
+</node>
+<node id="John Whitehead">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">307.84787</data>
+<data key="y">-170.789</data>
+</node>
+<node id="Richard Hubberthorne">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-298.15356</data>
+<data key="y">-113.07885</data>
+</node>
+<node id="Gilbert Latey">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-287.33026</data>
+<data key="y">400.27</data>
+</node>
+<node id="Francis Bugg">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">44.295135</data>
+<data key="y">282.97684</data>
+</node>
+<node id="William Rogers">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-394.67654</data>
+<data key="y">174.7872</data>
+</node>
+<node id="Peter Collinson">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">289.90543</data>
+<data key="y">-392.1113</data>
+</node>
+<node id="John Bartram">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">271.4266</data>
+<data key="y">144.29617</data>
+</node>
+<node id="Joseph Wyeth">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">147.10611</data>
+<data key="y">167.36368</data>
+</node>
+<node id="Thomas Curtis">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">50.003937</data>
+<data key="y">285.04538</data>
+</node>
+<node id="Dorcas Erbery">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">290.56754</data>
+<data key="y">-75.53603</data>
+</node>
+<node id="William Tomlinson">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-448.58444</data>
+<data key="y">-226.79944</data>
+</node>
+<node id="Anthony Pearson">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-186.68729</data>
+<data key="y">-187.9364</data>
+</node>
+<node id="Robert Rich">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">292.11343</data>
+<data key="y">49.623325</data>
+</node>
+<node id="Richard Farnworth">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-201.14197</data>
+<data key="y">-73.6704</data>
+</node>
+<node id="Gervase Benson">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">259.3198</data>
+<data key="y">124.51475</data>
+</node>
+<node id="Hannah Stranger">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">134.38718</data>
+<data key="y">72.08317</data>
+</node>
+<node id="Martha Simmonds">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">236.10129</data>
+<data key="y">337.40933</data>
+</node>
+<node id="William Crouch">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-168.53271</data>
+<data key="y">-90.78295</data>
+</node>
+<node id="Anne Camm">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-59.05359</data>
+<data key="y">-230.55167</data>
+</node>
+<node id="Charles Marshall">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-327.42422</data>
+<data key="y">383.91507</data>
+</node>
+<node id="Edward Pyott">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">165.83774</data>
+<data key="y">-357.44144</data>
+</node>
+<node id="John Camm">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-40.28705</data>
+<data key="y">219.2413</data>
+</node>
+<node id="Thomas Camm">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">132.94131</data>
+<data key="y">334.10654</data>
+</node>
+<node id="Jane Sowle">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-494.36542</data>
+<data key="y">-13.265559</data>
+</node>
+<node id="George Fox the younger">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">232.41928</data>
+<data key="y">85.79459</data>
+</node>
+<node id="Elizabeth Leavens">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-221.25525</data>
+<data key="y">-316.03354</data>
+</node>
+<node id="Thomas Lawson">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">152.50546</data>
+<data key="y">92.00907</data>
+</node>
+<node id="Thomas Lower">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">289.44894</data>
+<data key="y">-197.40857</data>
+</node>
+<node id="Solomon Eccles">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">167.8649</data>
+<data key="y">415.5283</data>
+</node>
+<node id="Samuel Fisher">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-111.2265</data>
+<data key="y">-412.7665</data>
+</node>
+<node id="Mary Prince">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">13.392121</data>
+<data key="y">97.4412</data>
+</node>
+<node id="Mary Fisher">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-360.68304</data>
+<data key="y">-442.36807</data>
+</node>
+<node id="William Ames">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">337.98538</data>
+<data key="y">-96.67562</data>
+</node>
+<node id="William Edmundson">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">314.1049</data>
+<data key="y">394.78146</data>
+</node>
+<node id="John ap John">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">206.46744</data>
+<data key="y">379.16916</data>
+</node>
+<node id="Sir Charles Wager">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">380.6793</data>
+<data key="y">-23.622799</data>
+</node>
+<node id="John Swinton">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-502.29477</data>
+<data key="y">278.24777</data>
+</node>
+<node id="Thomas Aldam">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-464.23987</data>
+<data key="y">-312.30673</data>
+</node>
+<node id="Alice Curwen">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">333.11496</data>
+<data key="y">-35.949947</data>
+</node>
+<node id="Anthony Sharp">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-529.92444</data>
+<data key="y">131.0939</data>
+</node>
+<node id="Samuel Clarridge">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-137.87958</data>
+<data key="y">94.62046</data>
+</node>
+<node id="William Simpson">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-436.5361</data>
+<data key="y">10.697911</data>
+</node>
+<node id="Henry Pickworth">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-170.23364</data>
+<data key="y">-249.93173</data>
+</node>
+<node id="William Gibson">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-362.89053</data>
+<data key="y">278.2856</data>
+</node>
+<node id="Thomas Holme">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">356.5715</data>
+<data key="y">177.72018</data>
+</node>
+<node id="Joseph Besse">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">-277.21857</data>
+<data key="y">-407.64078</data>
+</node>
+<node id="Samuel Bownas">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">271.83768</data>
+<data key="y">-501.67044</data>
+</node>
+<node id="Silvanus Bevan">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">48.203033</data>
+<data key="y">-235.66272</data>
+</node>
+<node id="John Penington">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">159.01474</data>
+<data key="y">41.952244</data>
+</node>
+<node id="Lewis Morris">
+<data key="size">10.0</data>
+<data key="r">0</data>
+<data key="g">0</data>
+<data key="b">0</data>
+<data key="x">83.18576</data>
+<data key="y">144.18375</data>
+</node>
+<edge id="212432" source="George Keith" target="William Bradford">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212433" source="George Keith" target="George Whitehead">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212434" source="George Keith" target="George Fox">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212435" source="George Keith" target="William Penn">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212436" source="George Keith" target="Franciscus Mercurius van Helmont">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212437" source="George Keith" target="Anne Conway Viscountess Conway and Killultagh">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212438" source="George Keith" target="Benjamin Furly">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212439" source="George Keith" target="Robert Barclay">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212440" source="Robert Barclay" target="David Barclay of Ury">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212441" source="Benjamin Furly" target="Robert Barclay">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212442" source="Benjamin Furly" target="William Penn">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212443" source="Benjamin Furly" target="William Caton">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212444" source="Benjamin Furly" target="Alexander Parker">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212445" source="Stephen Crisp" target="Benjamin Furly">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212446" source="John Stubbs" target="Benjamin Furly">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212447" source="George Fox" target="Benjamin Furly">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212448" source="Franciscus Mercurius van Helmont" target="Benjamin Furly">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212449" source="James Parnel" target="Benjamin Furly">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212450" source="William Penn" target="Richard Claridge">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212451" source="William Penn" target="Margaret Fell">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212452" source="William Penn" target="David Lloyd">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212453" source="William Penn" target="Mary Penington">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212454" source="William Penn" target="Thomas Story">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212455" source="William Penn" target="James Claypoole">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212456" source="William Penn" target="Tace Sowle">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212457" source="Rebecca Travers" target="William Penn">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212458" source="John Burnyeat" target="William Penn">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212459" source="George Whitehead" target="William Penn">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212460" source="Edward Haistwell" target="William Penn">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212461" source="James Logan" target="William Penn">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212462" source="Isaac Norris" target="William Penn">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212463" source="George Fox" target="William Penn">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212464" source="Isabel Yeamans" target="William Penn">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212465" source="William Bradford" target="William Penn">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212466" source="George Fox" target="Leonard Fell">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212467" source="George Fox" target="John Perrot">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212468" source="George Fox" target="John Stubbs">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212469" source="George Fox" target="William Coddington">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212470" source="George Fox" target="Thomas Ellwood">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212471" source="George Fox" target="John Wilkinson">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212472" source="George Fox" target="Edward Burrough">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212473" source="George Fox" target="James Nayler">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212474" source="George Fox" target="Thomas Salthouse">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212475" source="George Fox" target="George Whitehead">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212476" source="George Fox" target="John Crook">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212477" source="George Fox" target="Margaret Fell">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212478" source="George Fox" target="Elizabeth Hooten">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212479" source="George Fox" target="William Mead">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212480" source="George Fox" target="Ellis Hookes">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212481" source="Francis Howgill" target="George Fox">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212482" source="John Audland" target="George Fox">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212483" source="William Dewsbury" target="George Fox">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212484" source="William Mucklow" target="George Fox">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212485" source="George Whitehead" target="Rebecca Travers">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212486" source="George Whitehead" target="John Story">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212487" source="George Whitehead" target="Daniel Quare">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212488" source="George Whitehead" target="John Whitehead">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212489" source="George Whitehead" target="Alexander Parker">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212490" source="Richard Hubberthorne" target="George Whitehead">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212491" source="Gilbert Latey" target="George Whitehead">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212492" source="Francis Bugg" target="George Whitehead">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212493" source="James Nayler" target="George Whitehead">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212494" source="William Rogers" target="George Whitehead">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212495" source="William Bradford" target="Tace Sowle">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212496" source="James Parnel" target="Stephen Crisp">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212497" source="Stephen Crisp" target="William Caton">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212498" source="Peter Collinson" target="James Logan">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212499" source="Peter Collinson" target="John Bartram">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212500" source="James Logan" target="John Bartram">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212501" source="James Logan" target="David Lloyd">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212502" source="Joseph Wyeth" target="Thomas Ellwood">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212503" source="John Story" target="Thomas Ellwood">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212504" source="Thomas Curtis" target="Thomas Ellwood">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212505" source="Mary Penington" target="Thomas Ellwood">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212506" source="Edward Burrough" target="Thomas Ellwood">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212507" source="James Nayler" target="Thomas Ellwood">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212508" source="William Rogers" target="Thomas Ellwood">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212509" source="Dorcas Erbery" target="James Nayler">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212510" source="James Nayler" target="William Tomlinson">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212511" source="James Nayler" target="Rebecca Travers">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212512" source="James Nayler" target="Edward Burrough">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212513" source="James Nayler" target="Anthony Pearson">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212514" source="James Nayler" target="Robert Rich">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212515" source="James Nayler" target="John Perrot">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212516" source="James Nayler" target="Richard Farnworth">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212517" source="James Nayler" target="Margaret Fell">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212518" source="James Nayler" target="Gervase Benson">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212519" source="James Nayler" target="Hannah Stranger">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212520" source="Martha Simmonds" target="James Nayler">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212521" source="Francis Howgill" target="James Nayler">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212522" source="William Dewsbury" target="John Crook">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212523" source="William Dewsbury" target="Edward Burrough">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212524" source="Edward Burrough" target="William Crouch">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212525" source="Edward Burrough" target="John Perrot">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212526" source="Gilbert Latey" target="Edward Burrough">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212527" source="John Crook" target="Edward Burrough">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212528" source="Francis Howgill" target="Edward Burrough">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212529" source="John Crook" target="John Perrot">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212530" source="John Audland" target="Anne Camm">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212531" source="John Audland" target="Charles Marshall">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212532" source="John Audland" target="Edward Pyott">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212533" source="John Audland" target="Francis Howgill">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212534" source="John Audland" target="John Camm">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212535" source="John Camm" target="Edward Pyott">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212536" source="John Camm" target="Thomas Camm">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212537" source="John Camm" target="Charles Marshall">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212538" source="Francis Howgill" target="William Crouch">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212539" source="Francis Howgill" target="Richard Farnworth">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212540" source="Francis Howgill" target="Martha Simmonds">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212541" source="John Wilkinson" target="Charles Marshall">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212542" source="Thomas Camm" target="Anne Camm">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212543" source="Martha Simmonds" target="Hannah Stranger">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212544" source="Richard Farnworth" target="Anthony Pearson">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212545" source="Richard Farnworth" target="Margaret Fell">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212546" source="Richard Farnworth" target="John Perrot">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212547" source="Richard Hubberthorne" target="Richard Farnworth">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212548" source="Jane Sowle" target="Tace Sowle">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212549" source="George Fox the younger" target="Margaret Fell">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212550" source="Margaret Fell" target="Anthony Pearson">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212551" source="Margaret Fell" target="Elizabeth Leavens">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212552" source="Margaret Fell" target="Alexander Parker">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212553" source="Thomas Lawson" target="Margaret Fell">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212554" source="William Caton" target="Margaret Fell">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212555" source="William Mead" target="Margaret Fell">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212556" source="Thomas Lower" target="Margaret Fell">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212557" source="Thomas Salthouse" target="Margaret Fell">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212558" source="John Wilkinson" target="Alexander Parker">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212559" source="John Wilkinson" target="John Story">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212560" source="John Wilkinson" target="Solomon Eccles">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212561" source="John Stubbs" target="John Burnyeat">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212562" source="John Stubbs" target="Samuel Fisher">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212563" source="John Stubbs" target="William Caton">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212564" source="Mary Prince" target="John Perrot">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212565" source="Mary Fisher" target="John Perrot">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212566" source="William Ames" target="William Caton">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212567" source="John Burnyeat" target="William Edmundson">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212568" source="John ap John" target="John Burnyeat">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212569" source="Thomas Camm" target="John Story">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212570" source="Thomas Curtis" target="John Story">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212571" source="Solomon Eccles" target="John Story">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212572" source="Alexander Parker" target="Sir Charles Wager">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212573" source="Thomas Lawson" target="Alexander Parker">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212574" source="John Swinton" target="David Barclay of Ury">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212575" source="Gervase Benson" target="Anthony Pearson">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212576" source="Robert Rich" target="William Tomlinson">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212577" source="Thomas Aldam" target="Anthony Pearson">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212578" source="Rebecca Travers" target="Alice Curwen">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212579" source="Anthony Sharp" target="William Edmundson">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212580" source="Anthony Sharp" target="Thomas Curtis">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212581" source="Anthony Sharp" target="Samuel Clarridge">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212582" source="Samuel Clarridge" target="James Claypoole">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212583" source="Thomas Curtis" target="William Simpson">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212584" source="Mary Penington" target="Thomas Curtis">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212585" source="Mary Fisher" target="Mary Prince">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212586" source="Henry Pickworth" target="Francis Bugg">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212587" source="William Gibson" target="Thomas Holme">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212588" source="Elizabeth Leavens" target="Thomas Holme">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212589" source="Joseph Besse" target="Samuel Bownas">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212590" source="Joseph Besse" target="Richard Claridge">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212591" source="Silvanus Bevan" target="Daniel Quare">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212592" source="John Penington" target="Mary Penington">
+<data key="weight">1.0</data>
+</edge>
+<edge id="212593" source="Lewis Morris" target="Sir Charles Wager">
+<data key="weight">1.0</data>
+</edge>
+</graph>
+</graphml>
