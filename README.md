@@ -4,7 +4,7 @@ This repository contains sample social network datasets specifically collected a
 
 Most of the edges csv files can also be dragged and dropped into [John Ladd's incredibly handy Network Navigator tool](http://dh-web.hss.cmu.edu/network_navigator/).
 
-The sample network datasets include: [characters in the Game of Thrones universe](/sample-datasets/game-of-thrones/); [modernist authors who published together in journals](/sample-datasets/modernist_journals_project/); [characters in the Marvel Universe](/sample-datasets/marvel/); [seventeenth-century Quakers](/sample-datasets/quakers/); [books about U.S. politics that were co-purchased around the 2004 presidential election](/sample-datasets/political_books/); and [people in TrumpWorld](/sample-datasetss/trump/). 
+The sample network datasets include: [characters in the Game of Thrones universe](/sample-datasets/game-of-thrones/); [modernist authors who published together in journals](/sample-datasets/modernist_journals_project/); [characters in the Marvel Universe](/sample-datasets/marvel/); [seventeenth-century Quakers](/sample-datasets/quakers/); [books about U.S. politics that were co-purchased around the 2004 presidential election](/sample-datasets/political-books/); and [people in TrumpWorld](/sample-datasets/trump/). 
 
 ****
 
