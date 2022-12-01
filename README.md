@@ -21,9 +21,6 @@ A sample Gephi project created with the Game of Thrones network data as a teachi
 
 The Game of Thrones network data can also be analyzed with [John Ladd and Zoe LeBlanc's incredibly handy Network Navigator tool](https://networknavigator.jrladd.com/).
 
-![][2]
-
-[2]: images/got-network-nav.png
 
 
 
